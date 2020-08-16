@@ -1,0 +1,7 @@
+.jekyll-cache
+_site
+.sass-cache
+.DS/_Store
+config.codekit
+.jekyll-metadata
+run.bat

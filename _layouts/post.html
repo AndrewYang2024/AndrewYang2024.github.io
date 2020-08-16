@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<p class="subtitle" style = "font-size: 140%">
+{% for category in page.categories %}
+<a  href = "/archive#{{category| slugify }}" style = "font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;" > {{category}} </a>	|  
+{% endfor %}
+{{   page.date | date: "%B %-d, %Y" }}
+
+</p>
+
+<h1>{{ page.title}}</h1>
+
+
+
+{{ content }}
+
+
+{% if page.tipscript %}
+<p style = "margin-top: 2em" > <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('{{ page.tipscript }}', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>  </p>
+{% else %}
+<p style = "margin-top: 2em" > <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>  </p>
+{% endif %}
+
+
+
+

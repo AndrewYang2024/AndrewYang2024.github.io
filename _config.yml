@@ -1,0 +1,27 @@
+baseurl:
+title: Epsilon Praxis
+subtitle: From theory to praxis
+author: Andrew Yang 2024
+description: The dual of &#949-theory
+name: Epsilon Praxis
+markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+# permalink: /articles/:short_year/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: gvim
+git:
+  branch: gh-pages
+plugins:
+  - jekyll-paginate
+
+paginate: 2
+paginate_path: "/blog/page:num"
+permalink: "/blog/:short_year/:title"
