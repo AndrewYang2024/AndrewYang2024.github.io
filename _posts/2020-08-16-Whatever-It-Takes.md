@@ -1,12 +1,8 @@
 ---
 layout: post
-excerpt: "<em><b>An alternative account of the events of Friday, March 22, 2019.</b></em>
-<p>Alex slid off her headphones and rested them on her neck.</p>
+excerpt: ' “The taxi dropped her off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. While neither elegant nor quite ugly, it did cut a striking figure against the clear spring sky as it exuded a neoclassical boredom as unimaginative as the four floors of functionaries who filled it. In a city teeming with ornate symbols of power, perhaps it was only natural that the real thing would be found in an otherwise unremarkable structure.” '
 
-<p>“You need something from me?”</p>
-<p>“Nope,” Williams said, taking a drawn-out sip of his morning coffee as he leaned over her</p> "
-
-title:  "Whatever It Takes"
+title:  Whatever It Takes
 date:   2020-08-16 00:00:00
 categories: Fiction
 tags: Fed
@@ -15,13 +11,13 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-Alex slid off her headphones and rested them on her neck.
+{% newthought 'Alex slid off her headphones' %} and rested them on her neck. 
 
-“You need something from me?”
+“Do you need something from me?”
 
 “Nope,” Williams said, taking a drawn-out sip of his morning coffee as he leaned over her desk. “Just passing by.”
 
-“Well, you look like you want to talk about something.”
+“Well, you look like you want to talk.”
 
 “Not really,” Williams said, setting his cup on the table. “Maybe I’ll catch you later.”
 
