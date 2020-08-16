@@ -5,6 +5,8 @@ icontitle: " ?"
 picid: "001"
 ---
 
+`var = 1;`
+
 The assigning of value to a number, which is a form of  is not a  morally neutral act. 
 
 > Blake’s doltish Adam, hypnotized by the Snake as he asserts our most potentmeansof control---the power of names, aka the power of *abstraction*, aka the power of *symbolic representation*, aka the power of *Narrative*.
