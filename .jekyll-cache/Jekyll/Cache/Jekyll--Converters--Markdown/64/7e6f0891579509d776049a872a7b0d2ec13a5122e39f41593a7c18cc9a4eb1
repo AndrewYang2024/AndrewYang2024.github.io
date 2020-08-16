@@ -1,0 +1,24 @@
+I"W<p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<label class="label" style="font-size:1.4em;line-height:1.4em ">Your time as a reader is always cherished—don't hesitate to tweet at <a href="https://twitter.com/andrewyang2024">me</a>—and if you see something of value to you, feel free to </label>
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="X7UGTGVM27Z3G" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="margin-bottom:-0.5em" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="3" height="1" />
+</form>
+</p>
+
+<div style="margin-bottom:5em">
+<script type="text/javascript" src="https://ko-fi.com/widgets/widget_2.js"> </script>
+<script type="text/javascript">kofiwidget2.init('or leave a tip!', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>
+</div>
+
+<p><span class="newthought">And in return, I have some tips for you</span>  in case you were curious about the funny looking designs at the upper-left corner. The designs follow a common motif: the lush, calligraphic flourishes of <strong><em>theory</em></strong> set against the rational, geometric forms of <span class="newthought">praxis.</span>  with their combination expressed in the <strong><em>bra</em></strong>-<strong><em>ket</em></strong> notation of quantum mechanics. <label for="mn-id-1" class="margin-toggle"> ⊕</label><input type="checkbox" id="mn-id-1" class="margin-toggle" /><span class="marginnote">a <strong><em>bra</em></strong> (a linear functional 〈<em>f</em>| ) can act on a <strong><em>ket</em></strong> (a complex vector |<em>v</em>〉) in order to produce a  result: 〈<em>f</em>|<em>v</em>〉 . </span> Like theory and praxis, the spaces of <strong><em>bra</em></strong>’s and <strong><em>ket</em></strong>’s are dual spaces—both entangled with and separate from each other—not necessarily opposite, but come together in profound ways.</p>
+
+<p><label for="mf-id-1" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-1" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/000.png" /><br /><strong>Main |</strong>  The duality of two single quotes—left and right— a rounded ink dot in the vague shape of an epsilon, and a sans-serif shape suggestive of a p for praxis.</span></p>
+
+<p><label for="mf-id-2" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-2" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/001.png" /><br /><strong>About |</strong> Two question marks, with one slightly discombobulated</span>
+<label for="mf-id-3" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-3" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/002.png" /><br /><strong>Tip Jar |</strong> A sickle with a flourish, driven through with a hammer</span>
+<label for="mf-id-4" class="margin-toggle">⊕</label><input type="checkbox" id="mf-id-4" class="margin-toggle" /><span class="marginnote"><img class="fullwidth" src="/assets/img/003.png" /><br /><strong>Index (or Archive) |</strong> An “r” and a stylized “χ”</span></p>
+:ET

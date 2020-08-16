@@ -1,0 +1,85 @@
+I"�
+<p><!-- <h1 class="content-listing-header sans"> Recent </h1> --></p>
+
+<ul class="content-listing ">
+    
+        <li class="listing">
+          <!-- <hr class="slender"> -->
+		  <br /><img src="/assets/img/a001.png" alt="	CH" style="float:left;height:4.5em; margin-right: 1em; margin-bottom: 0.7em;" />&lt;/a&gt;&lt;/br&gt;
+		  <div style="margin-top: -1.7em"> 
+		  
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#fiction"> Fiction </a>
+		   |
+
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#hello"> Hello </a>
+		   |
+
+		     <a style="font-size: 90%;">August 7, 2020 </a>
+		  
+		  
+          <br /><a href="/blog/20/new-postCopy"><h3 class="contrast" style="margin-top: 1em;">Whatever It Takes</h3></a>&lt;/br&gt;
+          <!--<br><span class="smaller">August 7, 2020</span>  <br/>-->
+          </div>
+			
+				An alternative account of the events of Friday, March 22, 2019. Alex slid off her headphones and rested them on her neck. “You need something from me?” “Nope,” Williams said, taking a drawn-out sip of his morning coffee as he leaned over her desk. “Just passing by.” “Well, you look like you wanted to talk about something.” “Not really,” Williams said, leaving his cup on the table. “Maybe I’ll catch you later.” “Well I really need to finish this bit now,” Alex said, as she playfully shooed her boss—or rather the boss of her boss—away. “Aww, back to work then.”...
+			 
+			
+        </li>
+    
+        <li class="listing">
+          <!-- <hr class="slender"> -->
+		  <br /><img src="/assets/img/001.png" alt="	CH" style="float:left;height:4.5em; margin-right: 1em; margin-bottom: 0.7em;" />&lt;/a&gt;&lt;/br&gt;
+		  <div style="margin-top: -1.7em"> 
+		  
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#jekyll"> jekyll </a>
+		   |
+
+		     <a style="font-size: 90%;">August 7, 2020 </a>
+		  
+		  
+          <br /><a href="/blog/20/new-post"><h3 class="contrast" style="margin-top: 1em;">Welcome to Jekyll!</h3></a>&lt;/br&gt;
+          <!--<br><span class="smaller">August 7, 2020</span>  <br/>-->
+          </div>
+			
+				You’ll find sdfsadsafassssssss  saaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaathis post  in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!
+To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.=]
+
+Jekyll also offers powerful support for code snippets:
+
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=&gt; prints 'Hi, Tom' to STDOUT.
+
+Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo.
+
+
+			 
+			
+        </li>
+    
+  </ul>
+
+<!-- pagination -->
+
+<div class="pagination">
+  
+    <span>&laquo; Prev</span>
+  
+
+  
+    
+      <span class="webjeda">1</span>
+    
+  
+    
+      <a href="/blog/page2">2</a>
+    
+  
+
+  
+    <a href="/blog/page2">Next &raquo;</a>
+  
+</div>
+:ET

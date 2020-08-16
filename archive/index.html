@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Index</title>
+  <meta name="description" content="The dual of &#949-theory">
+
+  <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+  <link href='//fonts.googleapis.com/css?family=Josefin+Sans' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i,' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Gelasio:400,400i,500,500i,600,600i,700,700i' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400,400i,700,700i,800,800i' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Spartan:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Sen:400,700,800' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Poppins' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i' rel='stylesheet' type='text/css'>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  
+  <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
+  
+    <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  
+
+  <link rel="stylesheet" type="text/css" href="/css/tufte.css">
+  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png">
+  <!-- <link rel="stylesheet" type="text/css" href="/css/print.css" media="print"> -->
+
+  <link rel="canonical" href="/archive/">
+
+  <link rel="alternate" type="application/rss+xml" title="Epsilon Praxis" href="/feed.xml" />
+</head>
+
+  <body class="full-width">
+    <!--- Header and nav template site-wide -->
+<header>
+    <nav class="group" 	>
+	<a href="/"><img class="badge" src="/assets/img/003.png" alt="CH"></a>
+	
+	
+	<a href="/" class="active"> EPSILON | PRAXIS </a>
+	<a href="/tip_jar/" class="active"> $ </a>
+	<a href="/about/" class="active"> ? </a>
+	<a href="/archive/"> < # > </a>
+	
+	
+	
+	
+	<!--
+		
+		    
+		      <a href="/404.html"> </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/"> Epsilon | Praxis </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/tip_jar/"> $ </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/archive/" class="active"> :	</a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/about/"> ? </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/manifest.json"> </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/offline"> </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/css/print.css"> </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/assets/search.json"> </a>
+		    
+	    
+  	
+		
+		    
+		      <a href="/sw.js"> </a>
+		    
+	    
+  	
+		
+  	
+		
+		    
+		      <a href="/blog/page2/"> Epsilon | Praxis </a>
+		    
+	    
+  	 -->
+	</nav>
+</header>
+    <article>
+      <h1 class="content-listing-header sans">Index</h1>
+<p class="subtitle"></p>
+
+
+<p>
+<div class="form  form--search">
+  <form id="contact-form" action="">
+    <label class="label" for="search">Search for</label>
+    <input class="input" id="search" type="search" name="search" placeholder="a topic" autocomplete="off" />
+
+    <ul class="list  list--results" id="list" style="width:90%">
+        <!-- results go here -->
+    </ul>
+  </form>
+</div>
+
+<script type="text/javascript" src="/assets/scripts/fetch.js"></script>
+<script type="text/javascript">
+  const endpoint = '/assets/search.json';
+
+  const pages = [];
+
+  fetch(endpoint)
+    .then(blob => blob.json())
+    .then(data => pages.push(...data))
+
+  function findResults(termToMatch, pages) {
+    return pages.filter(item => {
+      const regex = new RegExp(termToMatch, 'gi');
+      return item.title.match(regex) || item.content.match(regex);
+    });
+  }
+
+  function displayResults() {
+    const resultsArray = findResults(this.value, pages);
+    const html = resultsArray.map(item => {
+      return `
+        <li class="item  item--result">
+          <article class="article  typeset">
+            <h4><a href="${item.url}">${item.title}</a></h4>
+            <p>${item.excerpt}</p>
+          </article>
+        </li>`;
+    }).join('');
+	if (this.value == '') {resultsList.innerHTML ='';}
+    else if ((resultsArray.length == 0)) {
+      resultsList.innerHTML = '<p> Materials regarding <<b>' + this.value + '</b>> have been withheld under 7(A) due to a pending or prospective investigation. Releasing them could reasonably be expected to interfere with enforcement proceedings. </p>';
+    } else {
+      resultsList.innerHTML = html;
+    }
+  }
+
+  const field = document.querySelector('#search');
+  const resultsList = document.querySelector('#list');
+
+  field.addEventListener('keyup', displayResults);
+
+  field.addEventListener('keypress', function(event) {
+    if (event.keyCode == 13) {
+      event.preventDefault();
+    }
+  });
+</script>
+<noscript>Please enable JavaScript to use the search form.</noscript>
+	
+</p>
+
+<div class="tags-expo">
+  <div class="tags-expo-list">
+    
+    <a href="#jekylll" class="post-tag">jekylll</a>
+    
+    <a href="#jekyll" class="post-tag">jekyll</a>
+    
+    <a href="#fiction" class="post-tag">Fiction</a>
+    
+    <a href="#hello" class="post-tag">Hello</a>
+    
+  </div>
+  
+  <div class="tags-expo-section">
+    
+	<h3 class="tags-expo-headings" id="jekylll">	jekylll </h3>
+    <ul class="tags-expo-posts">
+      
+        <a class="post-title" href="/blog/20/new-post-tile">
+      <li>
+        Welcome to Jekyll!
+      <small class="post-date">07 Aug 2020</small>
+      </li>
+      </a>
+      
+    </ul>
+    
+	<h3 class="tags-expo-headings" id="jekyll">	jekyll </h3>
+    <ul class="tags-expo-posts">
+      
+        <a class="post-title" href="/blog/20/new-post">
+      <li>
+        Welcome to Jekyll!
+      <small class="post-date">07 Aug 2020</small>
+      </li>
+      </a>
+      
+    </ul>
+    
+	<h3 class="tags-expo-headings" id="fiction">	Fiction </h3>
+    <ul class="tags-expo-posts">
+      
+        <a class="post-title" href="/blog/20/new-postCopy">
+      <li>
+        Whatever It Takes
+      <small class="post-date">07 Aug 2020</small>
+      </li>
+      </a>
+      
+    </ul>
+    
+	<h3 class="tags-expo-headings" id="hello">	Hello </h3>
+    <ul class="tags-expo-posts">
+      
+        <a class="post-title" href="/blog/20/new-postCopy">
+      <li>
+        Whatever It Takes
+      <small class="post-date">07 Aug 2020</small>
+      </li>
+      </a>
+      
+    </ul>
+    
+  </div>
+</div>
+
+
+    </article>
+    <span class="print-footer">Index - Andrew Yang 2024</span>
+    <footer>
+  <!--<hr class="slender">--> 
+  <ul class="footer-links">
+    <!--<li><a href="mailto:hate@spam.net"><span class="icon-mail"></span></a></li>-->    
+    
+      <li>
+        <a href="//www.twitter.com/AndrewYang2024"><span class="icon-twitter"></span></a>
+      </li>
+    
+      <li>
+        <a href="//github.com/AndrewYang2024"><span class="icon-github"></span></a>
+      </li>
+      
+  </ul>
+<div class="credits">
+<span>&copy; 2020 &nbsp;&nbsp;ANDREW YANG 2024</span></br> <br>
+<span>Created with the <a href="https://github.com/daviddarnes/alembic">Tufte theme</a> and a bit of <a href="https://github.com/daviddarnes/alembic">Alembic</a> (for search) in <a href="//jekyllrb.com">Jekyll</a>.</span> 
+</div>  
+</footer>
+  </body>
+</html>
