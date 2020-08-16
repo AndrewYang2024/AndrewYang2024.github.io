@@ -2,9 +2,9 @@
 layout: post
 excerpt: A.
 title:  "Whatever It Takes"
-date:   2020-08-07 13:06:04
-categories: Fiction Hello
-tags: update
+date:   2020-08-16 00:00:00
+categories: Fiction
+tags: Fed
 picid: "a001"
 ---
 
