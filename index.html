@@ -28,11 +28,7 @@ picid: "000"
           <br ><a href="{{ post.url | prepend: site.baseurl }}" ><h3 class="contrast" style = "margin-top: 1em;">{{ post.title }}</h3></a></br>
           <!--<br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>-->
           </div>
-			{% if post.content contains '<!--excerpt.start-->' and post.content contains '<!--excerpt.end-->' %}
-				{{ post.content | split: '<!--excerpt.start-->' | last | split: '<!--excerpt.end-->' | first }}
-			{% else %}
-				{{ post.content | strip_html | truncatewords: 100 }}
-			{% endif %} 
+			{{post.excerpt}} 
 			
         </li>
     {% endfor %}
