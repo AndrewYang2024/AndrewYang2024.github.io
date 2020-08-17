@@ -11,41 +11,47 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-{% newthought 'Alex slid off her headphones' %} and rested them on her neck. 
+{% newthought 'Alex took off her headphones' %} and rested them on her neck. 
 
-“Do you need something from me?”
+“Do you need something?”
 
-“Nope,” Williams said, taking a drawn-out sip of his morning coffee as he leaned over her desk. “Just passing by.”
+“Nope,” Williams said as he leaned over her desk and took a drawn-out sip of his morning coffee. “Just passing by.”
 
 “Well, you look like you want to talk.”
 
-“Not really,” Williams said, setting his cup on the table. “Maybe I’ll catch you later.”
+“Not really,” Williams said, setting his cup on the edge of the table. “Maybe I’ll catch you later.”
 
-“Well I really need to finish this bit now,” Alex said, as she playfully shooed her boss—or rather the boss of her boss—away.
+“I’ll be here all day if you need me,” Alex said as she playfully shooed her boss—or rather, the boss of *her* boss—away.
 
-“Aww, back to work then.” Williams slung his messenger bag over his shoulder and marched back down the row of workstations towards the entrance of the open office.
+“Aww, back to work then.” Williams slung a laptop bag over his shoulder and marched back towards the entrance, weaving through the crates of papers piled high on the office floor.
 
-He had always been impressed with her intellect. Long ago, they were both doctoral students at Stanford’s Department of Economics. But now he was the regional president of the New York Fed and she was just another rank-and-file economist at the Division of Financial Stability. Still, he kept abreast of her work, always quick to email her comments on her latest working papers and sometimes stopping by for unexpected visits.
-She was about to return to her work when her hand bumped against the cup he had left behind, tipping it over.
+Williams had always been impressed with her intellect and contrarian streak. Long ago, they were both doctoral students at Stanford’s Department of Economics. But now he was the regional president of the New York Fed, while she was just another rank-and-file economist in the lower echelons of the Division of Financial Stability. Despite that, he kept abreast of her work. He was always quick to email her comments on her latest working papers and occasionally dropped by unexpectedly.
 
-“Shit,” she hissed as she yanked away the keyboard from the desk to protect it from the fallout.
+She was just about to return to revising her latest draft when her hand bumped against something, knocking it over. It was Williams’ coffee—he had run off in a hurry and left it behind.
+
+“*Shit*,” she hissed as she yanked her keyboard away to protect it from the fallout.
 
 {% marginfigure 'mf-id-1' 'assets/img/a001.png'  %} 
 
-But the paper cup simply rolled off the table onto the carpet. She picked it up and noticed that it was empty. And as she pulled its lid open, the inside was entirely clean, bearing no trace of having held any liquid inside. Instead there was a balled-up napkin.
-She smoothed out the napkin on her table and read its message, scrawled out in lightly smudged blue ink.
+But the paper cup simply rolled off the table onto the carpet. Setting down the keyboard, she bent over to pick it up. As she pried its lid open, she saw that the cup was entirely empty with no trace of ever having contained liquid inside. Instead, there was a wadded-up napkin, which she flattened out on her table to uncover a message scrawled out in smudged ballpoint.
 
 > BOARD’S OFFICES AT ECCLES 2F
 > 
-> 3:00 PM TODAY!!
+> 3:00 PM TODAY
 
-There was no agenda or explanation offered, only the time and place. Alex’s interest was piqued. It reminded her of their Stanford days, when Williams had organized an intramural scavenger hunt between the Departments of Economics and Mathematics.  Still, Alex was annoyed at her boss’ sudden request. It was plainly unreasonable to expect her to simply drop all of her work and hop onto the next train to DC. Moreover, the complete mystery of the request tortured Alex with her native sense of curiosity.
+The handwriting was unmistakably his. Long ago. It was back in their Stanford days, when Williams organized the annual scavenger hunt for the economics department, leaving a series of cryptic notes written in code. This time, the note was in plain English, but far more mysterious. 
 
-She called his phone, but it went to voicemail. She considered visiting his office in person, but she suspected that he had already left. He had been shouldering a messenger bag—all ready to go—when he was chatting with her.
+tried to think back, more evasive
+
+It was already an inauspicious day with the ten year dipping below the three month tenor that morning. The mysterious phone call lent the yield curve inversion an almost sinister edge. Were the two things somehow connected? He rejected the idea. That was something for the traders to fret about. Surely the Board of Governors had more important matters to summon him for. Matters that, for some reason, could not be resolved remotely in a conference call.
+
+
+
+She called him, but his phone went to voicemail. She considered visiting his office in person, but suspected that he had already left. And if she was to honor this meeting invitation, she would have to leave now as well.  It was plainly unreasonable for Williams to expect her to simply drop all of her work and hop onto the next train to DC. But, that was exactly some Williams would too. Moreover, the complete mystery of the request tortured Alex with her native sense of curiosity.
 
 Her work would have to wait.
 
-It was already an inauspicious day with the ten year dipping below the three month tenor that morning. The mysterious phone call lent the yield curve inversion an almost sinister edge. Were the two things somehow connected? He rejected the idea. That was something for the traders to fret about. Surely the Board of Governors had more important matters to summon him for. Matters that, for some reason, could not be resolved remotely in a conference call.
+
 
 He glanced downwards at the small table in front of him. Both his MacBook and a half-eaten Café Acela sandwich competed for his attention. He sighed, shutting the laptop’s lid so he could polish off his meager meal in quiet communion with the other solitary riders. It was not like he could prepare materials for a meeting he knew nothing about anyway. 
 

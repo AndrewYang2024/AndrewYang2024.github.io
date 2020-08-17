@@ -5,7 +5,7 @@ icontitle: " ?"
 picid: "001"
 ---
 
-`var = 1;`
+`eps = 1.11e-16;`
 
 The assigning of value to a number, which is a form of  is not a  morally neutral act. 
 
