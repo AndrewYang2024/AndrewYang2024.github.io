@@ -11,17 +11,35 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-{% newthought 'Alex took off her headphones' %} and rested them on her neck. 
+{% newthought ' ”The old man wants to see you.” ' %}  
+
+Alex took off her headphones and rested them on her neck.
+
+
 
 “Do you need something?”
 
-“Nope,” Williams said as he leaned over her desk and took a drawn-out sip of his morning coffee. “Just passing by.”
+“Nope.” Williams stood meekly in the doorway. “Just passing by.”
 
 “Well, you look like you want to talk.”
 
-“Not really,” Williams said, setting his cup on the edge of the table. “Maybe I’ll catch you later.”
+“Not really,” Williams said as he walked into the room, carefully stepping past the crates of papers piled high on the office floor. 
 
-“I’ll be here all day if you need me,” Alex said as she playfully shooed her boss—or rather, the boss of *her* boss—away.
+took a drawn-out sip from his morning coffee. “Maybe I’ll catch you later.”
+
+“Sure, I’ll be here all day if you need me.”
+
+Williams, who looked about to turn away, suddenly asked. “What are you up to now, anyway?”
+
+Williams  When he reached her desk, he leaned over to peer at her monitor, as if to catch a glimpse of her mind at work.
+
+“You look busy,” he said of the teeming mass of open tabs.
+
+
+
+ He set the cup on the edge of the table as he adjusted the strap on the laptop bag slung over his shoulder.
+
+ Alex said as she playfully shooed her boss—or rather, the boss of *her* boss—away.
 
 “Aww, back to work then.” Williams slung a laptop bag over his shoulder and marched back towards the entrance, weaving through the crates of papers piled high on the office floor.
 
