@@ -11,9 +11,65 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-{% newthought ' ”The old man wants to see you.” ' %}  
+{% newthought ' Alex was a master of the coffee nap. ' %} Even in her worn-down state, she could gauge the exact degree of her worn-ness in measures of caffeine. Three, by her reckoning. Three shots of espresso would be enough to nudge her awake after ten beautiful minutes of sleep.
+
+Her home office had a pristine espresso machine for this purpose. Though her skill with the device was by no means impressive, it was good enough to surpass the abomination that was American “Joe.” Bad coffee was just one of many indignities that her adopted country inflicted on her Continentally-raised palate.
+
+It was disgusting, but also convenient. Walking over to the kitchenette, she reached into the refrigerator for two bottles of iced coffee. Numbing herself to the taste, she forced them down. Having flushed her gullet with a healthy dose of stimulus, she stumbled onto her bed in a daze. The night was bleeding into dawn, and the birds perched outside her open window began to chirp and herald the new morning. Lying flat on her face, without a care in the world, she slept.
+
+{% newthought ' Alex dreamed that she was flying. ' %} She was flying behind a flock of seagulls who led her through a thick, dark fog that surrounded them.  The gulls did not shriek as she expected to and instead chirped like sparrows when they beckoned her to follow them.
+
+The fog began to recede as the fading outlines of the gulls guided her into wakefulness. But she was having so much fun. Turning around, she fled back into the depths of the fog, enveloping herself inside her new world.
+
+The wind whipped into her face, forcing her to shut her eyes. The fog and the birds were all gone when she opened them again. Instead she levitated over a shadowy, endless pool of water.
+
+“*Wo ist alles hin?*” she called out.
+
+The ocean murmured back in reply.
+
+*Brrrrrrrrr*
+
+The murmurs were punctuated by the wingbeats of unseen seabirds, which began to stir up waves below.
+
+*Brrrrrrrrr*
+
+{% newthought ' The printer woke her up with its whirring, ' %} with each whir followed by the flapping sound of a sheet of paper being spat out and gliding towards the floor.
+
+Without looking at her phone, Alex reckoned that she had overslept, but her more immediate concern was the accumulating heap of paper strewn about.  She did not recall ever setting up her printer as a fax machine, but somehow it was receiving what appeared to be a typewritten monograph. She slid out the output tray to catch the remainder of the still printing document and bent over the floor to gather the rest.
+
+In total the monograph was forty-one black and white pages. It bore a nondescript title, *A Review of Anticipatory Systems,* with no author. As Williams thumbed through the text, interspersed with mathematical notation. On the back of each page was a message in bold letters.
+
+> BOARD’S OFFICES AT ECCLES 2F
+>
+> 3:00 PM TODAY MARCH 22
+>
+> —Jay
+
+
+
+The greying chairman pulled out a sheaf of papers and slid them across the table.  Powell’s watchful expression delivered him for a moment back to the ordeals of graduate school, sweating in front of his dissertation committee.
+
+
+
+I’m so sorry,
+
+grasping at straws, I need someone to trust
+
+“Is this about the papers you sent me?”
+
+“Sorry?”
+
+“Never mind,” she stirred her tea.
+
+
 
 Alex took off her headphones and rested them on her neck.
+
+“What for?”
+
+as if it were the most normal
+
+“Oh, for real?”
 
 
 
@@ -53,9 +109,7 @@ She was just about to return to revising her latest draft when her hand bumped a
 
 But the paper cup simply rolled off the table onto the carpet. Setting down the keyboard, she bent over to pick it up. As she pried its lid open, she saw that the cup was entirely empty with no trace of ever having contained liquid inside. Instead, there was a wadded-up napkin, which she flattened out on her table to uncover a message scrawled out in smudged ballpoint.
 
-> BOARD’S OFFICES AT ECCLES 2F
 > 
-> 3:00 PM TODAY
 
 The handwriting was unmistakably his. Long ago. It was back in their Stanford days, when Williams organized the annual scavenger hunt for the economics department, leaving a series of cryptic notes written in code. This time, the note was in plain English, but far more mysterious. 
 
