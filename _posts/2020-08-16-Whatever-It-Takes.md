@@ -11,19 +11,23 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-{% newthought ' Alex was a master of the coffee nap. ' %} Even in her worn-down state, she could gauge the exact degree of her worn-ness in measures of caffeine. Three, by her reckoning. Three shots of espresso would be enough to nudge her awake after ten beautiful minutes of sleep.
+{% newthought ' Alex was a master of the coffee nap. ' %} Even in her worn-down state, she could gauge the depth of her exhaustion in degrees of caffeine. Three, to be exact. A triple-shot of espresso would be enough to nudge her awake after ten beautiful minutes of sleep. 
 
-Her home office had a pristine espresso machine for this purpose. Though her skill with the device was by no means impressive, it was good enough to surpass the abomination that was American “Joe.” Bad coffee was just one of many indignities that her adopted country inflicted on her Continentally-raised palate.
+Her home office was furnished with a pristine espresso machine for this purpose—a bastion of productivity. Although her skill in pulling shots with the Swiss-made instrument was by no means impressive, it was enough to surpass whatever passed for “joe” in her adopted country. Bad coffee was one of many indignities that America inflicted on her Continentally-raised palate—a disgusting substance whose only redeeming quality was its convenience.
 
-It was disgusting, but also convenient. Walking over to the kitchenette, she reached into the refrigerator for two bottles of iced coffee. Numbing herself to the taste, she forced them down. Having flushed her gullet with a healthy dose of stimulus, she stumbled onto her bed in a daze. The night was bleeding into dawn, and the birds perched outside her open window began to chirp and herald the new morning. Lying flat on her face, without a care in the world, she slept.
+She walked over to the kitchenette and cracked open a bottle of cold brew from the refrigerator. She numbed herself to the taste, forcing them both down. Having flooded her gullet with stimulus, she stumbled onto her bed. The night was bleeding into dawn, and the birds perched outside the bedroom window were already chirping to herald the new morning. She lay flat on her stomach, without a care in the world, and slept.
 
-{% newthought ' Alex dreamed that she was flying. ' %} She was flying behind a flock of seagulls who led her through a thick, dark fog that surrounded them.  The gulls did not shriek as she expected to and instead chirped like sparrows when they beckoned her to follow them.
+{% newthought ' Alex dreamt that she was flying. ' %} Flying felt much like swimming, she thought, but without the exercise. Her arms hung loosely at her sides, passively generating lift. Escorting her through the soupy, gray fog was a flock of albatrosses, who parted the murkiness with their wingbeats.
 
-The fog began to recede as the fading outlines of the gulls guided her into wakefulness. But she was having so much fun. Turning around, she fled back into the depths of the fog, enveloping herself inside her new world.
+As the dream wore on, the birds departed one by one, until a flock of dozens dwindled to a handful of stragglers. She flew closer to this remaining group, who let her join the vacant center of their formation. Up close, she could hear their chatter with each other, which sounded more like the chirps of sparrows than the shrieking calls of seabirds she heard when she visited the ocean.
 
-The wind whipped into her face, forcing her to shut her eyes. The fog and the birds were all gone when she opened them again. Instead she levitated over a shadowy, endless pool of water.
+The chattering grew louder and more exultant as they headed towards light.
 
-“*Wo ist alles hin?*” she called out.
+The fog began to recede as the outlines of the faded as they guided her into wakefulness. But she was having so much fun. Turning around, she fled back into the depths of the fog, enveloping herself inside her new world.
+
+She blinked as the wind whipped into her face. The fog and the birds were all gone when she opened them again. Instead she levitated over a shadowy, endless pool of water.
+
+“*Wo ist alles hin?*” she whispered.ah
 
 The ocean murmured back in reply.
 
@@ -33,11 +37,17 @@ The murmurs were punctuated by the wingbeats of unseen seabirds, which began to 
 
 *Brrrrrrrrr*
 
-{% newthought ' The printer woke her up with its whirring, ' %} with each whir followed by the flapping sound of a sheet of paper being spat out and gliding towards the floor.
+{% marginfigure 'mf-id-1' 'assets/img/a001.png'  %} 
 
-Without looking at her phone, Alex reckoned that she had overslept, but her more immediate concern was the accumulating heap of paper strewn about.  She did not recall ever setting up her printer as a fax machine, but somehow it was receiving what appeared to be a typewritten monograph. She slid out the output tray to catch the remainder of the still printing document and bent over the floor to gather the rest.
+{% newthought ' The printer woke her up with its whirring. ' %} Each whir was followed by the flapping sound of a letter-sized sheet being spat out and gliding towards the floor.
 
-In total the monograph was forty-one black and white pages. It bore a nondescript title, *A Review of Anticipatory Systems,* with no author. As Williams thumbed through the text, interspersed with mathematical notation. On the back of each page was a message in bold letters.
+Without looking at her phone, Alex reckoned that she had overslept, but her more immediate concern was the accumulating heap of paper strewn about.  She did not recall ever setting up her printer as a fax machine, but somehow it was receiving what appeared to be scanned pages of a typewritten monograph. She slid out the output tray to catch the remainder of the still printing document and bent over the floor to gather the rest.
+
+In total the monograph was forty-one black and white pages. It bore a nondescript title, *A Review of Anticipatory Systems,* with no author indicated. Alex had heard the term before in graduate school, when she was a PhD student at Stanford’s Department of Economics. That was where Williams, the regional president of the New York branch and her current boss, had also went for his doctorate. Anticipatory systems theory wasn’t part of the academic curricula, but rather an intellectual rabbit-hole of sorts that she indulged in at the time. Those memories returned to her as she thumbed through the pages, trying to pin down the document’s various threads as she unraveled its puzzle.
+
+*I really should head out*, Alex thought as the hours ticked by, but the *Review* was too engrossing. Although some of the mathematical notations were unfamiliar and, in some respects, archaic, every sentence of it was sharply written, even if not immediately comprehensible. She could not follow every single one of its threads, but such was the price of experiencing its brilliance for the first time. 
+
+And on the last page was a message—not type-written this time— in bold letters.
 
 > BOARD’S OFFICES AT ECCLES 2F
 >
@@ -45,85 +55,27 @@ In total the monograph was forty-one black and white pages. It bore a nondescrip
 >
 > —Jay
 
+She wondered if the message was truly intended for her. After all, she had never spoken with the chairman, let alone on first name terms. It could all be an elaborate, if oddly specific, prank for all she knew.
+
+It was almost noon now, and she reached for her phone to check her notifications.
+
+*I apologize for the short notice*, she began typing out a reply. *But due to a personal emergency, I will not be in the office today.*
+
+*I will still be in contact through email. Feel free to call my cell if you need me.*
+
+*Regards,*
+
+*Alexandra*
+
+She sent out the message and rushed to pack her bag. If she were to honor this meeting invitation, she would have to leave now as well.  It was a little crazy to simply drop everything and hop onto the next train to DC, but somehow that was in her blood. Moreover, the complete mystery of the request tortured Alex with her native sense of curiosity.
 
 
-The greying chairman pulled out a sheaf of papers and slid them across the table.  Powell’s watchful expression delivered him for a moment back to the ordeals of graduate school, sweating in front of his dissertation committee.
-
-
-
-I’m so sorry,
-
-grasping at straws, I need someone to trust
-
-“Is this about the papers you sent me?”
-
-“Sorry?”
-
-“Never mind,” she stirred her tea.
-
-
-
-Alex took off her headphones and rested them on her neck.
-
-“What for?”
-
-as if it were the most normal
-
-“Oh, for real?”
-
-
-
-“Do you need something?”
-
-“Nope.” Williams stood meekly in the doorway. “Just passing by.”
-
-“Well, you look like you want to talk.”
-
-“Not really,” Williams said as he walked into the room, carefully stepping past the crates of papers piled high on the office floor. 
-
-took a drawn-out sip from his morning coffee. “Maybe I’ll catch you later.”
-
-“Sure, I’ll be here all day if you need me.”
-
-Williams, who looked about to turn away, suddenly asked. “What are you up to now, anyway?”
-
-Williams  When he reached her desk, he leaned over to peer at her monitor, as if to catch a glimpse of her mind at work.
-
-“You look busy,” he said of the teeming mass of open tabs.
-
-
-
- He set the cup on the edge of the table as he adjusted the strap on the laptop bag slung over his shoulder.
-
- Alex said as she playfully shooed her boss—or rather, the boss of *her* boss—away.
-
-“Aww, back to work then.” Williams slung a laptop bag over his shoulder and marched back towards the entrance, weaving through the crates of papers piled high on the office floor.
-
-Williams had always been impressed with her intellect and contrarian streak. Long ago, they were both doctoral students at Stanford’s Department of Economics. But now he was the regional president of the New York Fed, while she was just another rank-and-file economist in the lower echelons of the Division of Financial Stability. Despite that, he kept abreast of her work. He was always quick to email her comments on her latest working papers and occasionally dropped by unexpectedly.
-
-She was just about to return to revising her latest draft when her hand bumped against something, knocking it over. It was Williams’ coffee—he had run off in a hurry and left it behind.
-
-“*Shit*,” she hissed as she yanked her keyboard away to protect it from the fallout.
-
-{% marginfigure 'mf-id-1' 'assets/img/a001.png'  %} 
-
-But the paper cup simply rolled off the table onto the carpet. Setting down the keyboard, she bent over to pick it up. As she pried its lid open, she saw that the cup was entirely empty with no trace of ever having contained liquid inside. Instead, there was a wadded-up napkin, which she flattened out on her table to uncover a message scrawled out in smudged ballpoint.
-
-> 
-
-The handwriting was unmistakably his. Long ago. It was back in their Stanford days, when Williams organized the annual scavenger hunt for the economics department, leaving a series of cryptic notes written in code. This time, the note was in plain English, but far more mysterious. 
-
-tried to think back, more evasive
 
 It was already an inauspicious day with the ten year dipping below the three month tenor that morning. The mysterious phone call lent the yield curve inversion an almost sinister edge. Were the two things somehow connected? He rejected the idea. That was something for the traders to fret about. Surely the Board of Governors had more important matters to summon him for. Matters that, for some reason, could not be resolved remotely in a conference call.
 
 
 
-She called him, but his phone went to voicemail. She considered visiting his office in person, but suspected that he had already left. And if she was to honor this meeting invitation, she would have to leave now as well.  It was plainly unreasonable for Williams to expect her to simply drop all of her work and hop onto the next train to DC. But, that was exactly some Williams would too. Moreover, the complete mystery of the request tortured Alex with her native sense of curiosity.
-
 Her work would have to wait.
-
-
 
 He glanced downwards at the small table in front of him. Both his MacBook and a half-eaten Café Acela sandwich competed for his attention. He sighed, shutting the laptop’s lid so he could polish off his meager meal in quiet communion with the other solitary riders. It was not like he could prepare materials for a meeting he knew nothing about anyway. 
 
@@ -134,7 +86,21 @@ Williams woke up just in time to see the train pull into Washington Union statio
 The taxi dropped him off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. While neither elegant nor quite ugly, it did cut a striking figure against the clear spring sky as it exuded a neoclassical boredom as unimaginative as the four floors of functionaries who filled it. In a city teeming with ornate symbols of power, perhaps it was only natural that the real thing would be found in an otherwise unremarkable structure.
 
 “I’m back,” Williams whispered to himself.
-The chairman was already waiting by the time he reached the conference room. The ambience reminded him of a very austere kindergarten, where each committee member customarily sat behind his or her emblazoned nameplate on the vast wooden table. At the center, of course, was Chairman Powell, flanked by Governors Clarida, Quarles, Bowman, and Brainard, or as he knew them—Jay, Richard, Randy, Miki, and Lael. The governors were absent today—as were all of the usual observers and hangers-on inserted in the name of “transparency”—even as their names shone brightly on the table.
+The chairman was already waiting by the time he reached the conference room. The ambience reminded him of a very austere kindergarten, where each committee member customarily sat behind his or her emblazoned nameplate on the vast wooden table. At the center, of course, was Chairman Powell, flanked by Governors Clarida, Quarles, Bowman, and Brainard, or as they knew each other—Jay, Richard, Randy, Miki, and Lael. The governors were absent today—as were all of the usual observers and hangers-on inserted in the name of “transparency”—even as their names shone brightly on the table.
+
+
+
+I need your strength. The kind of person who would respond to such an out of the way call like you did.
+
+Your grandmother
+
+
+
+scrolled through the news.
+
+I’m sorry. I thought you were at the Capitol
+
+
 
 “Hi John,” Powell greeted him half-heartedly. “Thanks for coming all the way here from New York.”
 
@@ -150,7 +116,7 @@ Powell remained grim. Williams mustered a smile to a limited degree of success a
 
 The greying chairman pulled out a sheaf of papers and slid them across the table. It was a typewritten monograph with the nondescript title: A Review of Anticipatory Systems. There was no author indicated either. As Williams thumbed through the text, Powell’s watchful expression delivered him for a moment back to the ordeals of graduate school, sweating in front of his dissertation committee.
 
-Williams flipped through page after page, trying to pin down the document’s various threads as he unraveled its puzzle. He could not follow every single one of them, but such was the price of experiencing the monograph’s brilliance for the first time. The chairman is being awfully patient with me, Williams thought as the hours ticked by. Although some of the notations were unfamiliar and, in some respects, archaic, not one portion of the Review was ever unclear or dull. 
+
 
 Williams looked up as he approached the end of the last chapter. Powell’s eyes were twinkling back at him. “Do you have a question for me now?”
 “This is certainly interesting,” Williams said. “But I’m not sure why this is relevant.”
@@ -306,3 +272,81 @@ Working on Wall Street. Working
 Williams did not understand.
 
 
+
+Long ago,  But now he was the regional president of the New York Fed, while she was just another rank-and-file economist in the lower echelons of the Division of Financial Stability. 
+
+As Williams thumbed through the text, interspersed with mathematical notation. 
+
+
+
+And the most curious puzzle of all
+
+
+
+> 
+
+The greying chairman pulled out a sheaf of papers and slid them across the table.  Powell’s watchful expression delivered him for a moment back to the ordeals of graduate school, sweating in front of his dissertation committee.
+
+
+
+I’m so sorry,
+
+grasping at straws, I need someone to trust
+
+“Is this about the papers you sent me?”
+
+“Sorry?”
+
+“Never mind,” she stirred her tea.
+
+
+
+Alex took off her headphones and rested them on her neck.
+
+“What for?”
+
+as if it were the most normal
+
+“Oh, for real?”
+
+
+
+“Do you need something?”
+
+“Nope.” Williams stood meekly in the doorway. “Just passing by.”
+
+“Well, you look like you want to talk.”
+
+“Not really,” Williams said as he walked into the room, carefully stepping past the crates of papers piled high on the office floor. 
+
+took a drawn-out sip from his morning coffee. “Maybe I’ll catch you later.”
+
+“Sure, I’ll be here all day if you need me.”
+
+Williams, who looked about to turn away, suddenly asked. “What are you up to now, anyway?”
+
+Williams  When he reached her desk, he leaned over to peer at her monitor, as if to catch a glimpse of her mind at work.
+
+“You look busy,” he said of the teeming mass of open tabs.
+
+
+
+ He set the cup on the edge of the table as he adjusted the strap on the laptop bag slung over his shoulder.
+
+ Alex said as she playfully shooed her boss—or rather, the boss of *her* boss—away.
+
+“Aww, back to work then.” Williams slung a laptop bag over his shoulder and marched back towards the entrance, weaving through the crates of papers piled high on the office floor.
+
+Williams had always been impressed with her intellect and contrarian streak. Despite that, he kept abreast of her work. He was always quick to email her comments on her latest working papers and occasionally dropped by unexpectedly.
+
+She was just about to return to revising her latest draft when her hand bumped against something, knocking it over. It was Williams’ coffee—he had run off in a hurry and left it behind.
+
+“*Shit*,” she hissed as she yanked her keyboard away to protect it from the fallout.
+
+
+
+But the paper cup simply rolled off the table onto the carpet. Setting down the keyboard, she bent over to pick it up. As she pried its lid open, she saw that the cup was entirely empty with no trace of ever having contained liquid inside. Instead, there was a wadded-up napkin, which she flattened out on her table to uncover a message scrawled out in smudged ballpoint.
+
+> 
+
+The handwriting was unmistakably his. Long ago. It was back in their Stanford days, when Williams organized the annual scavenger hunt for the economics department, leaving a series of cryptic notes written in code. This time, the note was in plain English, but far more mysterious. 
