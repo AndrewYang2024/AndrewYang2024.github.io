@@ -11,29 +11,33 @@ picid: "a001"
 
 #### An alternative account of the events of Friday, March 22, 2019.
 
-{% newthought ' Alex was a master of the coffee nap. ' %} Even in her worn-down state, she could gauge the depth of her exhaustion in degrees of caffeine. Three, to be exact. A triple-shot of espresso would be enough to nudge her awake after ten beautiful minutes of sleep. 
+{% newthought ' Alex was a master of the coffee nap. ' %} Even in her worn-down state, she could gauge the depth of her exhaustion in degrees of caffeine. Three to be exact. A triple-shot of espresso would be enough to nudge her awake gently after ten beautiful minutes of sleep. 
 
-Her home office was furnished with a pristine espresso machine for this purpose—a bastion of productivity. Although her skill in pulling shots with the Swiss-made instrument was by no means impressive, it was enough to surpass whatever passed for “joe” in her adopted country. Bad coffee was one of many indignities that America inflicted on her Continentally-raised palate—a disgusting substance whose only redeeming quality was its convenience.
+Her home office was furnished with a pristine espresso machine, which stood proudly as a bastion of productivity. Although her skill with the Swiss-made instrument was by no means impressive, the shots she pulled still surpassed what passed for “joe” in her adopted country. Bad coffee was just one of many indignities that America inflicted on her Continentally-raised palate—a disgusting substance whose only redeeming quality was its convenience.
 
-She walked over to the kitchenette and cracked open a bottle of cold brew from the refrigerator. She numbed herself to the taste, forcing them both down. Having flooded her gullet with stimulus, she stumbled onto her bed. The night was bleeding into dawn, and the birds perched outside the bedroom window were already chirping to herald the new morning. She lay flat on her stomach, without a care in the world, and slept.
+But the espresso machine was out of commission that night, waiting on repairs she had put off from the week before. So she walked over to the kitchenette and cracked open a bottle of cold brew from the refrigerator.  The cold numbed her tongue to the taste as she forced it down. It was as if lowering the temperature induced a phase transition, turning what was once non-ingestable into something tolerable. Having flooded her gullet with sufficient stimulus and a few helpings of tea biscuits, she stumbled onto her bed. The cool spring night was bleeding into dawn, and the birds perched outside the bedroom window were already heralding the new morning. Without a care in the world, she lay flat on her belly and slept.
 
-{% newthought ' Alex dreamt that she was flying. ' %} Flying felt much like swimming, she thought, but without the exercise. Her arms hung loosely at her sides, passively generating lift. Escorting her through the soupy, gray fog was a flock of albatrosses, who parted the murkiness with their wingbeats.
+{% newthought ' Alex dreamt that she was flying. ' %} Flying felt much like swimming, she thought, sans the exercise. Her arms dangled loosely at their sides, passively generating lift. She had company—a flock of albatrosses who escorted her through the soupy, gray fog and partied the murkiness with their wingbeats.
 
-As the dream wore on, the birds departed one by one, until a flock of dozens dwindled to a handful of stragglers. She flew closer to this remaining group, who let her join the vacant center of their formation. Up close, she could hear their chatter with each other, which sounded more like the chirps of sparrows than the shrieking calls of seabirds she heard when she visited the ocean.
+The birds departed one by one as the dream wore on, until a flock of dozens had finally dwindled into a handful of stragglers. She glided closer to this remaining group, into the vacant center of their formation. Up close, she was inundated by their chatter with each other, which sounded more like the lively chirps of nest-bound sparrows rather than the shrieking calls of roving seabirds.
 
-The chattering grew louder and more exultant as they headed towards light.
+Their chatter grew more exultant as they spiraled upwards into the sky, riding the thermals over the sea.
 
-The fog began to recede as the outlines of the faded as they guided her into wakefulness. But she was having so much fun. Turning around, she fled back into the depths of the fog, enveloping herself inside her new world.
+The fog began to recede, as did the outlines of her feathery friends, as they climbed higher. They were guiding her back outside, she realized. But she was having so much fun now—she wanted to stay in her dream-world. Perched on the threshold of wakefulness, she hesitated.
 
-She blinked as the wind whipped into her face. The fog and the birds were all gone when she opened them again. Instead she levitated over a shadowy, endless pool of water.
+It was then that she stalled. She no longer felt the wind against her face. She waved her hands wildly, trying to latch onto the invisible currents of air that had buoyed her up here, but their slippery strands simply parted at her fingertips. The chirping of the birds crescendoed to a fever pitch as they gawked in horror. Alex plummeted straight into the depths of the fog, screaming as she contemplated the horror of slamming into the ocean at terminal velocity.
 
-“*Wo ist alles hin?*” she whispered.ah
+And then she blinked.
+
+She found herself levitated over a shadowy, endless pool of water. Alex scratched her nose and looked around. The fog and the birds were all gone. 
+
+“*Wo ist alles hin?*” she whispered.
 
 The ocean murmured back in reply.
 
 *Brrrrrrrrr*
 
-The murmurs were punctuated by the wingbeats of unseen seabirds, which began to stir up waves below.
+The murmurs of eddies toppling over each other across a mirror of water.
 
 *Brrrrrrrrr*
 
