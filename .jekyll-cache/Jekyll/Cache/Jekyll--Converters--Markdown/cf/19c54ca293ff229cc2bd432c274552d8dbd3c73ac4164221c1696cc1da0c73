@@ -1,0 +1,66 @@
+I"�	
+<p><!-- <h1 class="content-listing-header sans"> Recent </h1> --></p>
+
+<ul class="content-listing ">
+    
+        <li class="listing">
+          <!-- <hr class="slender"> -->
+		  <br /><img src="/assets/img/a001.png" alt="	CH" style="float:left;height:4.5em; margin-right: 1em; margin-bottom: 0.7em;" />&lt;/a&gt;&lt;/br&gt;
+		  <div style="margin-top: -1.7em"> 
+		  
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#fiction"> Fiction </a>
+		   |
+
+		     <a style="font-size: 90%;">August 16, 2020 </a>
+		  
+		  
+          <br /><a href="/blog/20/Whatever-It-Takes"><h3 class="contrast" style="margin-top: 1em;">Whatever It Takes</h3></a>&lt;/br&gt;
+          <!--<br><span class="smaller">August 16, 2020</span>  <br/>-->
+          </div>
+			 “The taxi dropped her off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. While neither elegant nor quite ugly, it did cut a striking figure against the clear spring sky as it exuded a neoclassical boredom as unimaginative as the four floors of functionaries who filled it. In a city teeming with ornate symbols of power, perhaps it was only natural that the real thing would be found in an otherwise unremarkable structure.”  
+			
+        </li>
+    
+        <li class="listing">
+          <!-- <hr class="slender"> -->
+		  <br /><img src="/assets/img/001.png" alt="	CH" style="float:left;height:4.5em; margin-right: 1em; margin-bottom: 0.7em;" />&lt;/a&gt;&lt;/br&gt;
+		  <div style="margin-top: -1.7em"> 
+		  
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#jekyll"> jekyll </a>
+		   |
+
+		     <a style="font-size: 90%;">August 7, 2020 </a>
+		  
+		  
+          <br /><a href="/blog/20/new-post"><h3 class="contrast" style="margin-top: 1em;">Welcome to Jekyll!</h3></a>&lt;/br&gt;
+          <!--<br><span class="smaller">August 7, 2020</span>  <br/>-->
+          </div>
+			<p>You’ll find sdfsadsafassssssss  saaaaaaaaaaaaaaaaaaaaaaaaaaaaa  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaathis post</p>
+ 
+			
+        </li>
+    
+  </ul>
+
+<!-- pagination -->
+
+<div class="pagination">
+  
+    <span>&laquo; Prev</span>
+  
+
+  
+    
+      <span class="webjeda">1</span>
+    
+  
+    
+      <a href="/blog/page2">2</a>
+    
+  
+
+  
+    <a href="/blog/page2">Next &raquo;</a>
+  
+</div>
+:ET

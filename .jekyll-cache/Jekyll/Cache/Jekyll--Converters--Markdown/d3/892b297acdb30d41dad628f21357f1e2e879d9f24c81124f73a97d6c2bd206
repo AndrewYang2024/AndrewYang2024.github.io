@@ -1,0 +1,54 @@
+I"î<p>{% if paginator.page == 1 %} 
+  <!-- <h1 class="content-listing-header sans"> Recent </h1> -->
+ {% else %}
+ {% endif %}</p>
+
+<ul class="content-listing ">
+    {% for post in paginator.posts %}
+        <li class="listing">
+          <!-- <hr class="slender"> -->
+		  <br /><img src="{{site.baseurl}}/assets/img/{{post.picid}}.png" alt="	CH" style="float:left;height:4.5em; margin-right: 1em; margin-bottom: 0.7em;" />&lt;/a&gt;&lt;/br&gt;
+		  <div style="margin-top: -1.7em"> 
+		  {% for category in post.categories %}
+		   <a style="font-family:Spartan; font-variant: small-caps; font-weight: 700; letter-spacing: 0.05rem;padding:0%;font-size: 90%;color:black;" href="/archive#{{category| slugify }}"> {{category}} </a>
+		   |
+{% endfor %}
+		     <a style="font-size: 90%;">{{   post.date | date: "%B %-d, %Y" }} </a>
+		  
+		  
+          <br /><a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast" style="margin-top: 1em;">{{ post.title }}</h3></a>&lt;/br&gt;
+          <!--<br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>-->
+          </div>
+			{{post.excerpt}} 
+			
+        </li>
+    {% endfor %}
+  </ul>
+
+<!-- pagination -->
+<p>{% if paginator.total_pages &gt; 1 %}</p>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+<p>{% endif %}</p>
+:ET
