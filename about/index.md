@@ -7,7 +7,19 @@ picid: "001"
 
 `eps = 1.11e-16;`
 
-The assigning of value to a number, which is a form of  is not a  morally neutral act. 
+> The assignment of value to a number is an innocuous act, but the assignment of a meaning to a number is never a morally neutral one.
+
+The above is my subversive reading of the recurring theme of [Epsilon Theory,](https://duckduckgo.com) best described as a finance blog attached to an affinity group. I discovered the blog at a critical moment in my life, and found their writing meaningful and hopeful in a time that lacked both. I still pepper my thought with phrases and stories borrowed from the ET canon: [Magical Thinking](https://www.epsilontheory.com/magical-thinking/) and [The Icarus Moment](https://www.epsilontheory.com/the-icarus-moment/) are some of my favorite classic ET articles. I can genuinely say that reading them changed me, and for the better.
+
+> Fragments of a vessel which are to be glued together must match one another in the smallest details, although they need not be like one another. In the same way a translation, instead of resembling the meaning of the original, must lovingly and in detail incorporate the original's mode of signification, thus making both the original and the translation recognizable as fragments of a greater language, just as fragments are part of a vessel.
+>
+> **Walter Benjamin, Illuminations: Essays and Reflections**
+
+In financial writing, I found a fragment of something great and powerful. Since then I have continued to collect fragments from different sources, which in their variety and richness both depreciate and appreciate the value of my first find. Although I have moved on, ET remains one of my intellectual roots and serves as the oblique namesake of this personal repository of fiction, essays, and art. In a sense, this project of mine may be read as just another fragment—a loving subversion of the original Epsilon Theory.
+
+
+
+<!-- 
 
 > Blake’s doltish Adam, hypnotized by the Snake as he asserts our most potentmeansof control---the power of names, aka the power of *abstraction*, aka the power of *symbolic representation*, aka the power of *Narrative*.
 > **William Blake is the OG** ***Epsilon Theory***. 
@@ -32,3 +44,5 @@ assadsd
 
 
 {% newthought ' This is a blog about stories---'%}about old, forgotten stories that emerge in new, unexpected places.
+
+-->
