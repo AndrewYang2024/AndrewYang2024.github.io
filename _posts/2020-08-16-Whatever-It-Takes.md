@@ -239,11 +239,13 @@ This was all so ridiculous to Williams, but less so to Alex. She had nursed her 
 
 “The Federal Reserve acts as the eyes of the Republic, providing advance warning of threats to our democracy,” Powell said proudly. “Our stewardship of capital markets is of only secondary concern.”
 
-Williams sank into his chair, mute.
+Williams sank mutely into his chair.
 
 “The the treasury market transmission network is still an imperfect one, the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve, and encode information in the timing and the choice of tenors that get inverted. Anything more complicated than that becomes garbled when you try to send messages years back in time.”
 
-“Last December, the three year and five year inverted, followed by the two year and five year a day afterward. According to our protocol, this pattern signals mass unrest within two years, with more information to follow. We proceeded by calibrating our monetary antennae by adjusting the federal feds rate upward until we received a follow-up signal. Which we received just this morning, when the three month and ten year flipped. America is going to be hit with a global pandemic.
+{% maincolumn 'assets/img/Inversion.png'  %} 
+
+“Last August, the entire curve inverted. According to our protocol, the spreads between the three and five year and the two and five year signal mass unrest within two years, with updates to follow. We proceeded by calibrating our monetary antennae by adjusting the federal feds rate upward until we received a follow-up signal. Which we received just this morning, when the three month and ten year flipped. America is going to be hit with a global pandemic.
 
 “We’ve tried to warn the executive branch about it. However, unlike in the past, the executive branch is not responding as decisively to the intelligence as we had hoped. The situation is bleak. This is the first time we have operated alone. And there’s only so much the eyes of the Republic can do.”
 
@@ -307,11 +309,11 @@ Powell tilted back in his chair and propped his feet on the table. “Between yo
 
 “The Eccles building is very large for a reason. It houses things that you cannot even imagine,” Powell winked. “And in due time, you will inherit all of its secrets.”
 
-In a way, Alex thought, the Eccles’ secrets were her birthright, handed across three generations. And it was not without irony, that the modern Federal Reserve would be in perpetual debt to—of all people—a long-dead Austrian economist. 
+In a way, Alex thought, the Eccles’ secrets were her birthright, handed across three generations. And it was not without irony, that the modern Federal Reserve was perpetual indebted to, of all people, a long-dead Austrian economist. 
 
 {% newthought 'Fin.' %}
 
-
+<!-- 
 
 1) consider changing the story to be about a secondary character uncovering a mystery instead of the NY Fed chair?
 2) the part about the complex systems thing is hard to follow
@@ -437,3 +439,5 @@ But the paper cup simply rolled off the table onto the carpet. Setting down the 
 > 
 
 The handwriting was unmistakably his. Long ago. It was back in their Stanford days, when Williams organized the annual scavenger hunt for the economics department, leaving a series of cryptic notes written in code. This time, the note was in plain English, but far more mysterious. 
+
+-->
