@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' “The taxi dropped her off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. While neither elegant nor quite ugly, it did cut a striking figure against the clear spring sky as it exuded a neoclassical boredom as unimaginative as the four floors of functionaries who filled it. In a city teeming with ornate symbols of power, perhaps it was only natural that the real thing would be found in an otherwise unremarkable structure.” '
+excerpt: ' “The taxi dropped him off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. Neither quite elegant nor quite ugly, it cut a striking figure against the clear spring sky. In a city teeming with ornate symbols of power, it was maybe only natural that the real thing would be found in an otherwise unadorned structure. To its critics, the building exuded a neoclassical boredom as unimaginative as the four floors of functionaries who staffed it.” '
 
 title:  Whatever It Takes
 date:   2020-08-16 00:00:00
@@ -10,6 +10,8 @@ picid: "a001"
 ---
 
 #### An alternative account of the events of Friday, March 22, 2019.
+
+
 
 {% newthought ' Alex was a master of the coffee nap. ' %} Despite her worn-down state, she could gauge the depth of her exhaustion in precise degrees of caffeine. Three to be exact. A triple-shot of espresso would be enough to nudge her awake after ten beautiful minutes of sleep. 
 
@@ -43,142 +45,203 @@ Murmurs of eddies toppling over each other across a mirror of water.
 
 {% marginfigure 'mf-id-1' 'assets/img/a001.png'  %} 
 
-{% newthought ' The printer woke her up with its whirring. ' %} Each whir was followed by the flapping sound of a letter-sized sheet being ejected before gliding towards the floor.
+{% newthought ' The whirring of the printer woke Alex. ' %} Without reaching for her phone, she reckoned that she had managed to oversleep on a workday, but that was not her immediate concern. Looking over the edge of her pillow, she could read the thin, squinty letters on printer’s small LED screen, which announced that a fax transmission from an unknown sender was underway. No one at the office had ever faxed her anything before. Nor did she ever recall setting up her desktop inkjet as as a fax machine either. Yet it was ejecting what appeared to be, from the accumulating heap of paper on the ground, the scanned pages of a typewritten monograph.
 
-Without looking at her phone, Alex reckoned that she had overslept. After rubbing her eyes awake, she looked over the side of her bed and saw a heap of paper accumulating on the floor. She squinted at the small LED screen of the printer, which indicated that it was receiving a fax transmission of unknown length.
+When the LED screen blinked off at last, she stepped into her into her slippers to gather and collate the mess.
 
-*Weird,* she thought. She had never set up her printer as a fax machine, somehow it was receiving what appeared to be scanned pages of a typewritten monograph.  She slid out the output tray to catch the remainder of the still printing document and bent over to gather the rest. 
+The monograph bore the nondescript title, *A Review of Anticipatory Systems,* with no author indicated. Alex had seen the term before in graduate school, when she was completing her doctorate at Stanford’s Department of Economics. That was where Williams, her current boss, had also went. Anticipatory systems theory was one of several intellectual rabbit-holes she indulged in aside from the academic curriculum. Memories, both fond and otherwise, returned as she thumbed through the pages to check their order.
 
-In total the monograph was forty-one black and white pages. It bore a nondescript title, *A Review of Anticipatory Systems,* with no author indicated. Alex had heard the term before in graduate school, when she was a PhD student at Stanford’s Department of Economics. That was where Williams, the regional president of the New York branch and her current boss, had also went for his doctorate. Anticipatory systems theory wasn’t part of the academic curricula, but rather an intellectual rabbit-hole of sorts that she indulged in at the time. Those memories returned to her as she thumbed through the pages, trying to pin down the document’s various threads as she unraveled its puzzle.
+Pages seventeen and eighteen were missing.
 
-*I really should head out*, Alex thought as the hours ticked by, but the *Review* was too engrossing. Although some of the mathematical notations were unfamiliar and, in some respects, archaic, every sentence of it was sharply written, even if not immediately comprehensible. She could not follow every single one of its threads, but such was the price of experiencing its brilliance for the first time. 
+Alex circled the room and then checked underneath the bed. There she found the missing pages, along with a note.
 
-And on the last page was a message—not type-written this time— in bold letters.
-
-> BOARD’S OFFICES AT ECCLES 2F
+> Alex,
 >
-> 3:00 PM TODAY MARCH 22
+> Please come to the Board office (Eccles 2F) today:
+>
+> 3:00 PM March 22.
+>
+> Tell no one else about this.
 >
 > —Jay
 
-She wondered if the message was truly intended for her. After all, she had never spoken with the chairman, let alone on first name terms. It could all be an elaborate, if oddly specific, prank for all she knew.
+She wondered if the message had actually been intended for her. It could be an elaborate if oddly specific prank, she reasoned. Her profession attracted the ire of online cranks who wished them (mostly metaphorical) harm. But if Jay was actually *that* Jay, it was a direct order from her boss’ boss—the chairman himself—that she could not ignore. 
 
-It was almost noon now, and she reached for her phone to check her notifications.
+It was almost noon. She checked her notifications. Twenty-seven minutes ago, a colleague had asked her where she was, and if she could help him with some data analysis after lunch. Biting her lip, she tapped out a terse reply.  
 
-*I apologize for the short notice*, she began typing out a reply. *But due to a personal emergency, I will not be in the office today.*
+> I apologize for the short notice. But due to a personal emergency, I will not be in the office today.
+>
+> I will still be in contact through email. Feel free to call my cell if you need me urgently.
+>
+> Regards,
+>
+> Alex
 
-*I will still be in contact through email. Feel free to call my cell if you need me.*
+She sent out the message and shoved the *Review* into her backpack. If she were to honor this mysterious invitation, she would have to leave now. It was presumptuous of this Jay to ask her to simply drop everything and hop onto the next train from New York to DC, but she would oblige. What really bothered her was the mystery of the request, which tortured Alex with her own native sense of curiosity.
 
-*Regards,*
+{% newthought ' Williams glanced downwards at the small table in front of him.' %} Both his MacBook and a half-eaten Café Acela sandwich competed for his attention. He sighed, shutting the laptop’s lid so he could polish off his meager meal in quiet communion with the other solitary Amtrak riders. It was not like he could prepare materials for a surprise meeting he knew nothing about anyway. 
 
-*Alexandra*
+All he had to go on was the anonymous document tucked under his arm. The chairman had referenced it this during their conversation earlier.
 
-She sent out the message and rushed to pack her bag. If she were to honor this meeting invitation, she would have to leave now as well.  It was a little crazy to simply drop everything and hop onto the next train to DC, but somehow that was in her blood. Moreover, the complete mystery of the request tortured Alex with her native sense of curiosity.
+“Did you read it?” the chairman had asked. “The *Review*?”
 
+“You mean the one you handed to me on Tuesday? Yea, I did. It’s… strange.”
 
+Although some of the mathematical notations were unfamiliar and, in some respects, archaic, every sentence of it was sharply written, even if not immediately comprehensible. Having read it over multiple times, he still could not follow every single one of its threads—it almost reminded him of Alex. He had been equally mesmerized by her mental prowess back in his Stanford days, a secret intellectual crush on his part.
 
-It was already an inauspicious day with the ten year dipping below the three month tenor that morning. The mysterious phone call lent the yield curve inversion an almost sinister edge. Were the two things somehow connected? He rejected the idea. That was something for the traders to fret about. Surely the Board of Governors had more important matters to summon him for. Matters that, for some reason, could not be resolved remotely in a conference call.
+“Good. good.”
 
+“Why do you ask?”
 
+“Come to the usual meeting room as soon as possible and you’ll find out soon enough. I’ll be waiting.”
 
-Her work would have to wait.
+“Well, I’m not in town anymore. I’m back in my regular office now.”
 
-He glanced downwards at the small table in front of him. Both his MacBook and a half-eaten Café Acela sandwich competed for his attention. He sighed, shutting the laptop’s lid so he could polish off his meager meal in quiet communion with the other solitary riders. It was not like he could prepare materials for a meeting he knew nothing about anyway. 
+“Oh, my apologies. I thought you were planning to stay for a bit to sort out the rest?”
 
-He had left DC just two days ago, having attended lengthy discussions presidents from Tuesday to Wednesday between the chairman, the governors, and the other regional. Together, the committee had arrived at the anti-climactic decision to simply leave things as they were, along with a promise to revisit the matter in three months time. The ever so important benchmark rate was left untouched. His eyelids grew heavy as he reviewed the last decade of monetary decisions in his head. It was difficult to resist the soft lull of the drifting train.
+“I really did want to, but I had to return. Say, could we do a conference call instead?”
 
-Williams woke up just in time to see the train pull into Washington Union station. Dusting off the crumbs on his shirt, he made his way to the portico outside the entrance of the Main Hall for a taxi. Everything was running perfectly on schedule. In no time, he was cruising down the length of Constitution Avenue and riding past all the monuments and memorials of the National Mall. 
+“No. I need to speak to you in person. Just you and me.”
 
-The taxi dropped him off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. While neither elegant nor quite ugly, it did cut a striking figure against the clear spring sky as it exuded a neoclassical boredom as unimaginative as the four floors of functionaries who filled it. In a city teeming with ornate symbols of power, perhaps it was only natural that the real thing would be found in an otherwise unremarkable structure.
+“Three then. I can make it to you at three.”
+
+“Okay, I’ll see you then.” 
+
+“Anything else?”
+
+“That is all. Goodbye.”
+
+It was already an inauspicious morning. The ten year had just dipped below the three month tenor, and the chairman’s unexpected phone call lent the yield curve inversion an almost sinister edge. Were the two things somehow connected? He rejected the idea. That was something for the traders to fret about. Surely there were more important matters to summon him over. Matters that, for some reason, could not be resolved remotely in a conference call.
+
+He had left DC just two days ago, having sat through marathon discussions from Tuesday to Wednesday between the chairman, the governors, and the other regional presidents. Together, the committee had arrived at the anti-climactic decision to leave the bedrock benchmark rate untouched, along with a promise to revisit the matter in three months time. His eyelids grew heavy as he reviewed the last decade of monetary decisions in his head. It grew difficult to resist the soft lull of the drifting train.
+
+Williams woke up just in time to see the train pull into Washington Union station. Dusting off the crumbs on his shirt, he made his way to the portico outside of the entrance of the Main Hall to hail a taxi. Everything was running perfectly on schedule. In no time, he was cruising down the length of Constitution Avenue and riding past the monuments and memorials of the National Mall. 
 
 “I’m back,” Williams whispered to himself.
-The chairman was already waiting by the time he reached the conference room. The ambience reminded him of a very austere kindergarten, where each committee member customarily sat behind his or her emblazoned nameplate on the vast wooden table. At the center, of course, was Chairman Powell, flanked by Governors Clarida, Quarles, Bowman, and Brainard, or as they knew each other—Jay, Richard, Randy, Miki, and Lael. The governors were absent today—as were all of the usual observers and hangers-on inserted in the name of “transparency”—even as their names shone brightly on the table.
 
+The taxi dropped him off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. Neither quite elegant nor quite ugly, it cut a striking figure against the clear spring sky. In a city teeming with ornate symbols of power, it was maybe only natural that the real thing would be found in an otherwise unadorned structure. To its critics, the building exuded a neoclassical boredom as unimaginative as the four floors of functionaries who staffed it.
 
+The chairman was already waiting by the time he reached the conference room. The ambience reminded him of a very austere kindergarten, where each committee member customarily sat behind his or her emblazoned nameplate on the vast wooden table. At the center, of course, was Chairman Powell, flanked by Governors Clarida, Quarles, Bowman, and Brainard, or as they knew each other—Jay, Richard, Randy, Miki, and Lael. Even as their names shone brightly on the table, the other governors were absent today—as were all of the usual observers and hangers-on inserted in the name of transparency.
 
-I need your strength. The kind of person who would respond to such an out of the way call like you did.
+“Hello John,” Powell greeted him half-heartedly, turning grim. “Thank you for coming all the way here from New York.”
 
-Your grandmother
+“No problem at all,” Williams replied as he closed the door behind him, sealing off the room. “Nice to see you again.”
 
+Williams mustered a smile and took his seat across from the chairman at the yawning oaken table. 
 
+“I’m sure you have many questions for me,” Powell began. Even alone, he spoke with the same gravitas he applied to his media appearances—a patient voice for communicating the committee’s esoteric decisions to an implacable outside world. 
 
-scrolled through the news.
+“Yes,” Williams nodded. “I do.”
 
-I’m sorry. I thought you were at the Capitol
+“And to understand that, you must first understand why *we* are here,” Powell continued. “You work with Alexandra Ender, don’t you?”
 
+“Yes. Officially, she’s still an intern, but she’s basically my right-hand woman when it comes to policy. Wicked sharp.” Williams stopped himself before gushing further.
 
+“So you trust her?”
 
-“Hi John,” Powell greeted him half-heartedly. “Thanks for coming all the way here from New York.”
+“Absolutely, we’ve known each other for years.”
 
-“No problem at all,” Williams lied as he closed the door behind him, sealing off the room. “Nice to see you again.”
+“That’s good to know. I may need someone like her in the future.”
 
-Powell remained grim. Williams mustered a smile to a limited degree of success and took a seat across from the chairman, next to an unguarded Poland Spring bottle. 
+“I’d hate to have her go,” Williams laughed. “But I’d be happy to leave you her number and email.”
 
-“I’m sure you have many questions for me,” Powell began. Any note of worry had been wrung cleanly from his voice. He now spoke with the same gravitas he applied to his media appearances, when he communicated the committee’s esoteric decisions to the implacable outside world. 
+“No need,” Powell brushed him off. “I prefer more discreet means of contact.”
 
-“Yes,” Williams he nodded. “I would like to know why am I here.”
+Before Williams could press further, Powell’s phone buzzed on the table.
 
-“To understand that,” Powell said. “You must first understand why we are here."
+“Yes?” Powell answered as he picked it up. “Okay, send her up to me.”
 
-The greying chairman pulled out a sheaf of papers and slid them across the table. It was a typewritten monograph with the nondescript title: A Review of Anticipatory Systems. There was no author indicated either. As Williams thumbed through the text, Powell’s watchful expression delivered him for a moment back to the ordeals of graduate school, sweating in front of his dissertation committee.
+{% newthought ' Alex ascended the spiral staircase towards the third floor,' %} unsure what lay at the top. The stairs brought her to a well-lit corridor leading to a set of broad, paneled doors waiting for her. She knocked hesitantly.
 
+“Come in.”
 
+As she nudged the door ajar, she caught Powell’s eyes peering into her own.
 
-Williams looked up as he approached the end of the last chapter. Powell’s eyes were twinkling back at him. “Do you have a question for me now?”
-“This is certainly interesting,” Williams said. “But I’m not sure why this is relevant.”
+“Now, all of us are together,” Powell said approvingly. “And we can begin.”
 
-“Aren’t financial systems a type of anticipatory system?” Powell said.
+“Alex?”
 
-“Well, yes.” Williams read from the opening paragraph. “An anticipatory system must have three parts: itself, a predictive model of its own future, and a mechanism to act upon itself based on that model. Examples can be found in biology, finance, psychology, and any other field concerning behavior.”
-Powell nodded. “And when you were reading it, didn’t something feel odd to you?”
+“Wait, John? You’re here too?” Alex looked at Williams. “What’s this all about?”
 
-It was certainly an odd situation to be reading an anonymous paper of undisclosed origin while being intently scrutinized. But that was not what Powell was getting at.
+“I have just as much of a clue as you do.”
 
-“Yes,” Williams said. “It feels intentionally incomplete.”
+“There, there,” Powell smiled. “Settle down.”
 
-“The original German manuscript of the Review had to be smuggled across the Atlantic into the hands of the New York Fed,” Powell said. “To evade Axis censors, it was vital that it appeared as no more than an innocuous mathematical text.”
+Alex took up a chair beside Williams and opened her copy of the *Review* on the table.
 
-It was not rare for genius to be entwined with revolution, Williams thought, and the Review certainly suggested both.
+“Now if you may,” the greying chairman folded his hands. “I’d like to know what you think of it, *Alex*.”
 
-The writing circled around four core insights.
+Alex swallowed back a lump. “I was in a bit of rush, so I could only give it a cursory read.”
 
-{% newthought 'Suppose there was a network' %} of individual anticipatory systems that interacted with each other. The predictive model of each individual would depend not only on the behavior, but also on the predictive models of its neighboring individuals, much like a vast multidimensional game of poker.
+“When you were reading it for the first time,” Powell’s eyes were twinkling back at her. “Did something feel odd to you?”
 
-However, it was equally valid to take the opposite view of the situation, not as a network of individuals but as a network of the models themselves interacting through the systems. The predictive models could be seen as souls who possessed the individual systems whose behavior they guided. Once formed by the systems, these emergent models shaped the systems themselves. A poker game not between humans, but between different poker playing strategies that interacted through human hands. Such was the first insight.
+Alex cleared her throat. “It felt intentionally… *incomplete?* I’m also not sure why this was given to me—” 
 
-Although the models were in every sense as “real” as the actual systems themselves, there was an important difference. Systems behaved in a strictly causal way, with one interaction leading to and causing another. On the other hand, it was impossible to apply the framework of causality to models in any meaningful way. The “meta-behavior” of prediction models playing off against each other was timeless. In a game of rock, paper, scissors, the metaphysical rock beats scissors, now, then, and forever. As such, the meta-behavior of prediction models was also far more predictable and manipulable than the behavior of actual systems. Such was the second insight.
+“Aren’t financial systems an example of an anticipatory system?” Powell interrupted.
 
-Even if the myriad interactions between individuals in a crowd could be exhaustively catalogued, there was no easy to predict the collective behavior of these individuals once the number of individuals became overwhelming. On the other hand, it was possible to set up games, where interacting systems of rules and strategies would converge on completely predictable outcomes no what what happened. For a example, a tournament may be set up such that only one individual wins, even if such a winning condition were not explicitly dictated. Such was the third insight.
+“Well, yes.” Alex read from the opening paragraph. “*An anticipatory system must have three parts: itself, a predictive model of its own future, and a mechanism to act upon itself based on that model. Examples can be found in biology, finance, psychology, and any other field concerning collective behavior.*”
 
-As elegant as it was, the dual view of networks of individuals as networks of models was more of a mathematical abstraction than a true description of the physical world, where causality reigned supreme. However, as the numbers of individuals in the networks increased and their interconnections were wound ever more tightly, the better this approximation would be. The more the models could come to life. Such was its final insight.
+“But your intuition is correct,” Powell said. “The text conceals its true intentions. The document you hold in your hands is a translation of the original German manuscript, which was smuggled from Vienna, across the Atlantic, into the hands of the New York Fed. In order to evade Axis censors, it was vital that it appeared as no more than an innocuous mathematical text.”
 
-In such a world, if it could be achieved, the difference between prediction and action—between prophesy and future—was a meaningless one.
+Not uncommon for genius to be entwined with revolution, Alex thought, and the *Review* certainly suggested both. 
 
-“Why was the Review sent to us?” Williams asked. “And why did we keep it?”
+“Suppose there exists a network of individual anticipatory systems that interact with each other,” Powell began. “As with any interconnected network, the behavior of each individual depends on the behavior of the others, but for anticipatory networks, the observed behavior may matter less than what that behavior reveals about the internal predictive model of another participant. To illustrate this point, a poker tournament can be won while keeping one’s hand face down. One only needs to read the faces of other players and infer their knowledge of the game from their reactions.
 
-“The author of the Review had a dream of a peaceful world,” Powell said.
+“Taking this further, an anticipatory network may sometimes be better understood as a network of *models* rather than as a network of *individuals*. To continue the analogy, if people gamble on the outcome of the tournament without seeing either the player’s faces or hands, they perceive the event not as a game between poker players but between different poker-playing strategies—inferred from each player’s match history—acting through human hands.
 
-“And we, the means to achieve her dream. Because we control the most liquid predictive market in the world, connecting traders and investors across the world who interact daily with each other. The new Fed was born in the flames of the Second World War. The moment Marriner Eccles received the translation of her manuscript in 1941.”
+“From the gamblers’ perspective, the strategies of each player are in every sense as ‘real’ as the players themselves. After all, the models are the “thing” they are betting on: the human a mere vehicle. From the perspective of the anticipatory systems analyst, the internal predictive models are as real as the underlying systems—a network of individuals can be conceptualized as a network of models. As duals, they are fundamentally equivalent views that can be naturally exchanged for each other. 
 
-“What is the Fed actually doing?!” Williams stood from his seat.
-“You cannot even imagine,” Powell shook as he placed his eyeglasses on the table. “What it means to control the yield curve.”
-Yield curve control? Wasn’t that the newfangled policy that the Bank of Japan had first rolled out. Williams looked at Powell blankly.
+“But duals are not identical. Although systems are constrained to behave in a strictly causal way, with one interaction leading to another, models are not. The framework of causality cannot be applied to the ‘meta-behavior’ of models interacting with other models, because these interactions exist out of time. To the question, “when did rock beat scissors,” one can only answer, ‘whenever the rules of *rock, paper, scissors* were first conceivable’—now, then, and forever. 
 
-“Wait.”
+“This acausality has other consequences. Even when the myriad interactions between individuals in a crowd can be exhaustively catalogued, it is often impossible to predict their collective behavior once the number of individuals becomes overwhelming. As when dealing with the sudden appearance of an epidemic, it becomes impossible to trace the chains of causality. On the other hand, it is very simple to design games—even games with very rich behavior—that always converge on completely predictable outcomes no matter how many players it has and how clever its players are. An example is a class of games that guarantee a single winner but that do not explicitly specify a winner-take-all dynamic. 
 
-“Yes?” 
-“The yield curve does not predict central bank intervention,” Williams muttered to himself. “The change in the yield curve IS central bank intervention.”
+“You and I know these games very well. ” Powell said. “Don’t we?”
+
+”It’s not like you to beat around the bush.” Williams tapped his foot. “So why was it sent to us? And why did we keep it?”
+
+“I find that terrible things tend to happen when I speak plainly,” Powell retorted. “But if you can indulge me for a little longer.”
+
+Alex looked anxiously between her two superiors. She had been quietly taking notes on the chairman’s words the whole time.
+
+“I grant that everything I’ve said up to now sounds far removed from everyday life,“ Powell said. “And it would be, if not for the appendix on approximation theory.”
+
+“An anticipatory network as I have described, is still only an approximation of anticipatory networks in the real world, and the model-system duality is simply a convenient mathematical abstraction. But if certain conditions hold, this approximation becomes quite good and the duality has real implications.
+
+“For example, if we are able to gather enough people, make them tightly interconnected, and train them such that they respond as much to abstractions as they do to realities, then something interesting emerges.  When they can no longer distinguish between symbolic manipulations and physical facts, the distinction between causal behavior and acausal meta-behavior is erased.
+
+“In such a world the difference between prediction and action—between prophesy and future—is a meaningless one.”
+
+Alex’s blood stirred. Everything was coming together now. 
+
+“This was the dream of Astrid Ender, who wrote the *Review* and arranged for its delivery,” Powell explained. “Your great-grandmother, Alex.”
+
+“Wow,” Williams gasped, looking at her with newfound admiration.
+
+“The Enders are a long intellectual lineage dating back to the Austro-Hungarians,” Powell explained. “Before their collapse, they were quite well-known in monetary circles. It was only a matter of time before Astrid’s descendants would make her way back to us.”
+
+As grateful as she was to learn the history of her family, Powell’s scrutiny made Alex slightly uneasy. Much to her relief, he quickly returned to the main discussion.
+
+“Do you understand now,” Powell shook as he set his eyeglasses on the table. “What it means to control the yield curve?”
+
+Williams looked at Powell blankly and felt left behind. He could not comprehend how yield curve control, a newfangled policy from the Bank of Japan, fit into the picture.
+
+“What?”
+
+“Don’t you get it, John? The yield curve does not predict central bank intervention,” Alex said. “The change in the yield curve *IS* central bank intervention.”
+
 Powell laughed heartily as he saw the flash of realization over Williams’ face. He had been waiting patiently for this moment.
 
-“The yield curve whispers to us from the future,” Powell said. “Because we have set up a massive anticipatory network according to the conditions set forth in the Review. A network that allows is to send messages to our past selves.”
+“The yield curve whispers to us from the future,” Powell said. “Because we have set up a massive anticipatory network that satisfies the conditions set forth in the *Review*. A network that pulls forward the eternal future into the present and allows us to send messages to our past selves.”
 
-This was all so ridiculous to Williams, but not much more so than the retconned creation mythology of the Federal Reserve. He had nursed his own private doubts about the dual mandate of late, views which he dared not air in public.
+“Now you know the true history of the modern Fed and why we control the most liquid predictive market in the world, connecting  a global network of traders and investors who transact daily with each other. The new Fed was born in the flames of the Second World War. The moment Marriner Eccles received the translation of her manuscript in 1941.”
 
-“The Federal Reserve acts as the eyes of the Republic, providing advance warning of threats to our democracy,” Powell said proudly. “Our stewardship of capital markets is of secondary concern.”
+This was all so ridiculous to Williams, but less so to Alex. She had nursed her own private doubts of late about the dual mandate and the retconned creation mythology of the Federal Reserve it embodied, opinionss she dared not air in public.
 
-Williams plopped back into his chair, ready to receive his true mission.
+“The Federal Reserve acts as the eyes of the Republic, providing advance warning of threats to our democracy,” Powell said proudly. “Our stewardship of capital markets is of only secondary concern.”
 
-“The the treasury market transmission network is still an imperfect one, the financial equivalent of a smoke signals,” Powell explained. “We communicate by inverting the yield curve, and encode information in the timing and the choice of tenors that get inverted. Anything more complicated than that becomes garbled when you try to send messages years back in time.”
+Williams sank into his chair, mute.
+
+“The the treasury market transmission network is still an imperfect one, the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve, and encode information in the timing and the choice of tenors that get inverted. Anything more complicated than that becomes garbled when you try to send messages years back in time.”
 
 “Last December, the three year and five year inverted, followed by the two year and five year a day afterward. According to our protocol, this pattern signals mass unrest within two years, with more information to follow. We proceeded by calibrating our monetary antennae by adjusting the federal feds rate upward until we received a follow-up signal. Which we received just this morning, when the three month and ten year flipped. America is going to be hit with a global pandemic.
 
@@ -188,48 +251,66 @@ Williams plopped back into his chair, ready to receive his true mission.
 
 “The true purpose of the Federal Reserve is only revealed to the President, a few of his or her trusted advisors, and me,” Powell said. “And I’m breaching protocol by telling you.”
 
-Powell rubbed his sleepless eyes. “But I believe that there’s a special destiny that comes with working at the New York Fed.”
+“But I believe that there’s a special destiny that comes with leading the New York Fed.” Powell rubbed his sleepless eyes. “And with the Ender line.”
 
-“Thanks but,” Williams said. “I’m not sure how I can help.”
+“Thanks,” Williams said. “But I’m not sure how I can help.”
 
-“To be frank with you, I’m not exactly sure what to do either. But I’ve always known you to have a good head on your shoulders. We’ll think of something.”
+“Me neither,” Alex added.
 
-“Okay.” His boss could be overbearing sometimes, Williams thought.
-“And we’re going to have to meet in person more often than our quarterly FOMC committee meetings.”
+“To be frank with you, I’m not exactly sure what to do either. But I’ve always known you to have a good head on your shoulders and you said you can vouch for her ability. We’ll think of something together.”
+
+“Okay.” His boss was overbearing sometimes, Williams thought.
+
+“And we’re going to have to meet in person, all three of us, more often than our quarterly FOMC committee meetings.”
 
 “Sure,” Williams agreed with a sense of dread. Even with the weight of the country on his shoulders, he did not look forward to long commutes to the capital. “Whatever it takes.”
 
-The two men stared at each other from across the table for a while, before Williams interrupted. “So now what?”
+The two men stared at each other from across the table for a while before Alex interrupted. “So now what?”
 
-“It’s only six,” Powell said, glancing at the clock. “Are you free to join me for an early supper? My treat, of course.”
+“It’s already six,” Powell said, glancing at the clock. “Are you free to join me for an early supper? Some of Lagarde’s proteges will be attending and it would be good to make introductions. The Europeans are also receiving dire warnings at their ends, it seems.”
 
-“Let me tell my family then,” Williams said. “And I will get to choose the place this time.”
+“I think I’ll pass, I’ve met all of them anyway,” Williams said. “I also need some time to process all of this.”
 
-Powell laughed again as he reached for his messenger bag to go.
+“Have a good one, John,” Powell waved.
 
-“So it’s all a waste of time then?” Williams asked as he rose from the chair, cradling the Review underneath his arm.
+“Yea, you too.”
 
-“What?”
+The chairman waited until Williams was out of earshot.
 
-“All the discussion about the economy and rate hikes and rate cuts? It’s all just a front for fiddling with the dials on a massive time machine.”
+ “I guess the Ender is staying?”
+
+The Ender nodded.
+
+Powell tilted back in his chair and propped his feet on the table. “Between you me, I was never quite sure John would be up to the task.”
+
+“I know what what you mean,” Alex said, stifling a chuckle. “But I think he’ll be helpful. At least I hope so.”
+
+“Amen,” Powell quipped. 
+
+“So it’s all a waste of time then? All that discussion about the economy and rate hikes and rate cuts. It’s really all just a front for fiddling with the dials on a massive time machine, right?”
 
 “Correct.”
 
-“No wonder it never made any sense.”
+“Ha, no wonder it never made any sense. I figured you were smarter than that.”
 
-Williams held open the door dutifully for Powell.
+“*Some* of us,” Powell corrected. “Not all of us are in the know like we are.”
 
-“You know…” The chairman hesitated thoughtfully at the exit. “The plunge protection team actually exists.”
+“My, what else are you hiding?”
 
-“Yea I know, the Working Group on Financial Markets.”
+“Well…” Powell hesitated thoughtfully. “We do also have a plunge protection team.”
 
-“No, not that one. There’s a group of Fed traders who manipulate spooz around two and three AM in the morning. It’s a short-distance communication system that sends messages months rather than years into the past.”
+“That’s no secret, it’s called the Working Group on Financial Markets, isn’t it?”
 
-“Sheesh, what else are you hiding?”
+“No, not that one. There’s a group of Fed traders who manipulate equity futures around two to three in the morning. We use that window to establish a short-distance communication system that sends messages months rather than years into the past.”
 
-Powell winked. “The Eccles building is very large for a reason.”
+“Didn’t have that on my bingo card.”
+
+“The Eccles building is very large for a reason. It houses things that you cannot even imagine,” Powell winked. “And in due time, you will inherit all of its secrets.”
+
+In a way, Alex thought, the Eccles’ secrets were her birthright, handed across three generations. And it was not without irony, that the modern Federal Reserve would be in perpetual debt to—of all people—a long-dead Austrian economist. 
 
 {% newthought 'Fin.' %}
+
 
 
 1) consider changing the story to be about a secondary character uncovering a mystery instead of the NY Fed chair?
