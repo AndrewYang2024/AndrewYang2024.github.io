@@ -243,7 +243,7 @@ Williams sank mutely into his chair.
 
 “The the treasury market transmission network is still an imperfect one, the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve, and encode information in the timing and the choice of tenors that get inverted. Anything more complicated than that becomes garbled when you try to send messages years back in time.”
 
-{% maincolumn 'assets/img/Inversion.png'  %} 
+{% maincolumn 'assets/img/Inversion.PNG'  %} 
 
 “Last August, the entire curve inverted. According to our protocol, the spreads between the three and five year and the two and five year signal mass unrest within two years, with updates to follow. We proceeded by calibrating our monetary antennae by adjusting the federal feds rate upward until we received a follow-up signal. Which we received just this morning, when the three month and ten year flipped. America is going to be hit with a global pandemic.
 
