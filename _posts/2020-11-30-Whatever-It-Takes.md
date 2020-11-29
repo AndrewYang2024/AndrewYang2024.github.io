@@ -3,7 +3,7 @@ layout: post
 excerpt: ' “The taxi dropped him off at the entrance of the Marriner S. Eccles building—a towering, rectilinear behemoth of Georgia marble. Neither quite elegant nor quite ugly, it cut a striking figure against the clear spring sky. In a city teeming with ornate symbols of power, it was maybe only natural that the real thing would be found in an otherwise unadorned structure. To its critics, the building exuded a neoclassical boredom as unimaginative as the four floors of functionaries who staffed it.” '
 
 title:  Whatever It Takes
-date:   2020-11-30 00:00:00
+date:   2020-11-28 00:00:00
 categories: Fiction
 tags: Fed
 picid: "a001"
