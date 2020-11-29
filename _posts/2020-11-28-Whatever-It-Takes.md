@@ -275,13 +275,11 @@ Powell rubbed his sleepless eyes. “And I’m doing it because I believe that t
 
 “To be frank with you, I’m not exactly sure what we should do either. But John, I’ve always known you to have a good head on your shoulders and you said you can vouch for Alex’s ability. We’ll think of something together.”
 
-“Okay.” Williams’ boss could be overbearing sometimes, he thought.
+“Okay,” Williams agreed timidly. Powell could be overbearing at times.
 
 “And we’re going to have to meet in person, all three of us, more often than our quarterly FOMC committee meetings.”
 
-“Sure,” Williams agreed with a sense of dread. Even with the weight of the country on his shoulders, he did not look forward to long commutes to the capital. “Whatever it takes.”
-
-The pit in his stomach deepened. And he was growing peckish.
+“Sure.” The weight of the country pressed on his shoulders, along with the burden of long commutes to the capital, brought Williams a sense of dread. “Whatever it takes.”
 
 “Oh, it’s already six now,” Powell said, glancing over his watch. “Would either of you be free to join me for an early supper? Some of Lagarde’s proteges will be attending and it would be good to make introductions. The Europeans are also receiving dire warnings at their ends, it seems.”
 
@@ -295,7 +293,7 @@ The chairman waited until Williams was out of earshot.
 
  “I guess the Ender is staying?”
 
-The Ender nodded.
+The Ender nodded, pondering her newfound importance.
 
 Powell tilted back in his chair and propped his feet on the table. “Between you me, I was never quite sure John would be up to the task.”
 
@@ -307,11 +305,11 @@ Powell tilted back in his chair and propped his feet on the table. “Between yo
 
 “Correct.”
 
-“Hah, no wonder it never made any sense to me. I figured you were  all smarter than that.”
+“Hah, no wonder it never made any sense to me. I figured you were all smarter than that.”
 
-“*Some* of us,” Powell corrected. “Not all of us are in the know like we are.”
+“*Some* of us,” Powell corrected. “Not everyone is in the know like we are.”
 
-“My, what else are you hiding?”
+“Makes me wonder what else are you hiding.”
 
 “Well…” Powell hesitated thoughtfully. “We do also have a plunge protection team.”
 
