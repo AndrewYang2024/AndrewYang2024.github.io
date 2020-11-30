@@ -83,13 +83,13 @@ She hit send on the message and shoved the *Review* into her backpack. If she we
 
 {% newthought ' Williams glanced downwards at the small table in front of him.' %} Both his MacBook and a half-eaten Café Acela sandwich competed for his attention. He sighed, shutting the laptop’s lid so he could finish his meager meal in quiet communion with the other solitary Amtrak riders. It was not like he could prepare materials for a surprise meeting he knew nothing about anyway. 
 
-All he had to go on was the anonymous document tucked under his arm. The chairman had referenced it this during their conversation earlier.
+All he had to go on was the anonymous document tucked under his arm. The chairman had referenced it during their conversation earlier.
 
 “Did you read it?” the chairman had asked. “The *Review*?”
 
 “You mean the one you handed to me on Tuesday? Yea, I did. It’s… strange.”
 
-Although some of the mathematical notations were unfamiliar and, in some respects, archaic, every sentence of it was sharply written, even if not immediately comprehensible. Having perused it multiple times, he still could not follow every single one of its threads. It quizzical nature reminded him of Alex, who had mesmerized him with her keen wit since their Stanford days—a secret but purely intellectual crush on his part.
+Although some of the mathematical notations were unfamiliar and, in some respects, archaic, every sentence of it was sharply written, even if not immediately comprehensible. Having perused it multiple times, he still could not follow every single one of its threads. Its quizzical nature reminded him of Alex, who had mesmerized him with her keen wit since their Stanford days—a secret but purely intellectual crush on his part.
 
 “Good. good.”
 
