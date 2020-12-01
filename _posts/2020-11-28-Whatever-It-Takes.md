@@ -255,9 +255,13 @@ Overwhelmed, Williams sank into his chair.
 
 {% maincolumn 'assets/img/Inversion.PNG'  %} 
 
-“Last August, almost the entire curve inverted. According to our codebook, the spreads between the three and five year and the two and five year signaled mass unrest within two years, with updates to follow. We proceeded by increasing the resolution of our monetary antennae by adjusting the federal funds rate upward until we received a follow-up signal. Which we received just this morning when the three month and ten year flipped.
+“Last August, almost the entire curve inverted. According to our codebook, the spread between the one and five year tenors   signaled that a historical-level event was about to occur within a two year time frame. We received no information beyond the timing of it. As with protocol, we then upped the resolution of our monetary antennae by hiking the federal funds rate gradually to receive a follow-up signal. Which we got this morning when the three month and ten year flipped.
 
-“The situation is bleak, the country is going to be struck by a global pandemic at around March of next year or so.”
+“Is it the Big One?” William gasped.
+
+“Oh, there’ll be a massive economic dislocation alright starting around March 2020,” Powell said. “As we continue to monitor the term structure, signals indicate the source of the event to be somewhere in East Asia.”  
+
+“The situation is bleak, the country is going to be struck by a global pandemic”
 
  “Sounds like we still have time, though,” Alex said hopefully.
 
