@@ -251,21 +251,21 @@ Overwhelmed, Williams sank into his chair.
 
 “The treasury market transmission network we have is still an imperfect one. Basically the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve and the information is encoded in the timing and magnitude of the inversion. Anything more complicated than that becomes garbled when you try to send messages years back in time.
 
-{% maincolumn 'assets/img/Inversion.png'  %} 
+{% maincolumn 'assets/img/Inversion.PNG'  %} 
 
-“Last December, the spread between the three and five year tenors inverted. According to our operating manuals, this shape signaled that a historical-level event is about to occur at the beginning of 2020, details pending. Following protocol, we honed the resolution of our monetary antennae by gradually hiking the federal funds rate. We had to stop because the pressure on capital markets became overwhelming, but that ultimately didn’t matter. We received the main message shortly thereafter, when the three month and ten year flipped this morning.”
+“Last December, the yield spread between the three and five year tenors inverted. According to our operating manuals, this signaled that a historical-level event is about to occur at the beginning of 2020, details pending. Following protocol, we honed the resolution of our monetary antennae by gradually hiking the federal funds rate. We had to stop because the pressure on capital markets became overwhelming, but that ultimately didn’t matter. We received the main message shortly thereafter, when the three month and ten year flipped this morning.”
 
 “Is it the Big One?” William whispered.
 
-“Oh, there’ll be a massive deflationary shock alright,” Powell said. “But that’s not our main problem. The shock will be caused by an environmental catastrophe with global consequences. The shape of the curve is somewhat ambiguous because we’re not seeing things at full resolution, but it suggests that that the source of the event is somewhere in East Asia, perhaps China.”
+“Oh, there’ll be a massive deflationary shock alright,” Powell said. “But that’s not our main problem. The shock will be caused by an environmental catastrophe with global consequences. The shape of the yield curve is somewhat ambiguous because we’re not seeing things at full resolution, but it suggests that the source of the event is somewhere in East Asia, perhaps China.”
 
 “Will there be a follow-up message?” Alex asked. “We have at most nine months to prepare and it would help to narrow down the range of possibilities.”
 
-“There won’t be. Once we get a shock, we have to shut down transmissions and return to our role as liquidity provider,” Powell responded. “Which only leaves us with enough time to send an advance warning and then the main message.”
+“There won’t be,” Powell responded. “Once we get a shock, we have to shut down transmissions and return to our role as liquidity provider, which only leaves us with enough time to send an advance warning and then the main message.”
 
-An air of uncertainty settled in the room. Alex asked, “so what does ‘environmental’ cover?”
+An air of uncertainty settled in the room. Alex asked, “So what does ‘environmental’ cover?”
 
-“It’s a fairly long list. All the way from significant astronomical impact event, tsunami, climate-induced famine,” Powell rattled off a series of scenarios, “... to a global pandemic. I’m no epidemiologist, but I’ve heard from experts that we are overdue for a flu pandemic.”
+“It’s a fairly long list. All the way from significant astronomical impact event, tsunami, climate-induced famine,” Powell rattled off a series of scenarios, “…to a global pandemic. I’m no epidemiologist, but I’ve heard from experts that we are overdue for a flu pandemic.”
 
 Williams and Alex sat quietly, hoping for some shred of good news.
 
@@ -273,27 +273,27 @@ Williams and Alex sat quietly, hoping for some shred of good news.
 
 “Does no one else know?” Williams asked.
 
-“Other than me, the true purpose of the Federal Reserve is revealed only to the President, a few of his trusted advisors, my foreign counterparts, and previous Fed chairs,” Powell said. “And just so you know, I’m breaching protocol by talking to you both. I’m doing it because I believe that there’s a special destiny that comes with leading the New York Fed and the Ender line.”
+“Other than me, the true purpose of the Federal Reserve is revealed only to the President, a few of his trusted advisors, my foreign counterparts, and previous Fed chairs,” Powell said. “And just so you know, I’m breaching protocol by talking to you both. I’m doing it because I believe that there’s a special destiny that comes with leading the New York Fed and with the Ender line.”
 
 “Thanks,” Williams said. “But I’m not sure how I can help.”
 
 “Me neither,” Alex added.
 
-“To be frank with you, I’m not exactly sure what we should do either. But John, I’ve always known you to have a good head on your shoulders. And Alex, you showed resolve by responding quickly to my call. I know we can think of something together.”
+“To be frank with you, I’m not exactly sure what we should do either. But John, I’ve always known you to have a good head on your shoulders. And Alex, you showed resolve by responding quickly to my call. I’m sure we can work through this together.”
 
 “Okay,” Williams agreed timidly. Powell could be overbearing at times.
 
-“And we’re going to have to meet in person, the three of us, more often than our quarterly FOMC committee meetings.”
+“And we’re going to have to meet in person, the three of us, more often than our quarterly FOMC meetings.”
 
-“Sure.” The weight of the country on his shoulders, along with the burden of long commutes to the capital, brought Williams a sense of dread. “Whatever it takes.”
+“Sure.” The weight of the country pressed on Williams’s shoulders, and the burden of long commutes to the capital gave him a sense of dread. “Whatever it takes.”
 
 “So,” Powell asked. “Any questions?”
 
 Alex and Williams shook their heads mutely.
 
-“Oh, it’s getting late now,” Powell said, glancing over his watch. “Would either of you care to join me for an early supper? Some of Draghi’s proteges will be there and it would be good to make introductions. Eventually, I will need to speak to Mario and warn him.”
+“Oh, it’s getting late now,” Powell said, glancing over his watch. “Would either of you care to join me for an early supper? Some of Draghi’s proteges will be there and it would be good to make introductions. We’ll eventually need to confer with Mario to warn him.”
 
-“I think I’ll pass, I’ve met all of them anyway,” Williams said reluctantly. “Also need some time to process all of this.”
+“I think I’ll pass, I’ve met most of them anyway,” Williams said reluctantly. “Also need some time to process all this.”
 
 “Have a good one, John,” Powell waved.
 
@@ -325,13 +325,15 @@ Powell tilted back in his chair and propped his feet on the table. “Between yo
 
 “That’s no secret, it’s called the Working Group on Financial Markets, isn’t it?”
 
-“No, not that one. There’s am actual bunch of algos that manipulate equity futures at around two to three in the morning. The price action inside that illiquid window allows us to establish a short-term communication system to sends messages days and months rather than years into the past without interfering with stocks too much.”
+“No, not that one. There’s an actual bunch of algos that manipulate equity futures at around two to three in the morning. The price action inside that illiquid window allows us to establish a parallel short-term communication system that sends messages days rather than years into the past without interfering with stocks too much.”
 
 “Didn’t have that on my bingo card.”
 
 “The Eccles building is large for a reason. It houses things that you cannot even imagine,” Powell winked. “And in due time, you will inherit all of its secrets.”
 
-Those secrets were her birthright, she thought, handed from across three generations. Alex smiled. Was it not the highest irony then, that the Federal Reserve was so indebted to—of all people—Austrian economists? 
+Those secrets were her birthright, Alex thought, handed to her across three generations.
+
+She smiled. Was it not the highest irony then, that the Federal Reserve was so indebted to—of all people—Austrian economists? 
 
 {% newthought 'Fin.' %}
 
