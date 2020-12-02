@@ -67,7 +67,7 @@ Alex circled the room and then checked underneath the bed. There they were, alon
 >
 > —Jay
 
-She wondered if the message was actually intended for her. It could also be an elaborate prank, she reasoned. Her profession attracted the ire of online cranks who wished them (mostly metaphorical) harm. But if this Jay were actually *that* Jay, this invitation would be a direct order from her boss’s boss—the chairman himself—that she could not ignore. 
+She wondered if the message was actually intended for her. It could also be an elaborate prank, she reasoned. Her profession attracted the ire of online cranks who wished its practitioners (mostly metaphorical) harm. But if this Jay were actually *that* Jay, this invitation would be a direct order from her boss’s boss—the chairman himself—that she could not ignore. 
 
 It was almost noon. She checked her notifications. Twenty-seven minutes ago, a colleague had asked her where she was and if she could look over his data analysis after lunch. Biting her lip, she tapped out a terse reply.
 
@@ -183,7 +183,7 @@ Alex cleared her throat. “It felt intentionally… incomplete? I’m also not 
 
 “Well, yes.” Alex then quoted from the opening paragraph. “*An anticipatory system must have three parts: itself, a predictive model of its own future, and a mechanism to act upon itself based on that model. Examples can be found in biology, finance, psychology, and any other field concerning collective behavior.*”
 
-“But your intuition is correct. The text does conceal its true intentions," Powell said. “The document you hold before you is the translation of an original German manuscript that was smuggled across the Atlantic from the Viennese into the hands of the New York Fed. In order to evade Axis censors, it was vital that it appeared as no more than an innocuous mathematical text.”
+“But your intuition is correct. The text does conceal its true intentions,” Powell said. “The document you hold before you is the translation of an original German manuscript that was smuggled across the Atlantic from the Viennese into the hands of the New York Fed. In order to evade Axis censors, it was vital that it appeared as no more than an innocuous mathematical text.”
 
 Not uncommon for genius to be entwined with revolution, Alex thought, and the *Review* certainly suggested both. 
 
@@ -257,7 +257,7 @@ Overwhelmed, Williams sank into his chair.
 
 “Is it the Big One?” William whispered.
 
-“Oh, there’ll be a massive deflationary shock alright,” Powell said. “But that’s not our main problem. The shock will be caused by an environmental catastrophe with global consequences. The shape of the curve is somewhat ambiguous because we're not seeing things at full resolution, but it suggests that that the source of the event is somewhere in East Asia, perhaps China.”
+“Oh, there’ll be a massive deflationary shock alright,” Powell said. “But that’s not our main problem. The shock will be caused by an environmental catastrophe with global consequences. The shape of the curve is somewhat ambiguous because we’re not seeing things at full resolution, but it suggests that that the source of the event is somewhere in East Asia, perhaps China.”
 
 “Will there be a follow-up message?” Alex asked. “We have at most nine months to prepare and it would help to narrow down the range of possibilities.”
 
