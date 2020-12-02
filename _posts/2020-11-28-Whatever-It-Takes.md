@@ -17,7 +17,7 @@ picid: "a001"
 
 Her home office was furnished with a pristine espresso machine, which stood proudly as the bastion of her productivity. Although her skill with the Swiss-made instrument was by no means impressive, the shots she pulled still surpassed what passed for “joe” in her adopted country. Bad coffee was just one of many indignities that America inflicted on her Continentally-raised palate—a disgusting substance whose only redeeming quality was convenience.
 
-But the espresso machine was out of commission that night, waiting on parts that she had ordered the week before. Instead, she walked over to the refrigerator in the kitchenette and cracked open a bottle of cold brew. It was as if lowering the temperature had induced a phase transition, transmuting what was once non-ingestable into something more tolerable. The cold numbed her tongue to the taste as she forced down the mud-brown liquid. Having flooded her gullet with sufficient stimulus, along a few tea biscuits, she stumbled onto her bed. The cool spring night was bleeding into dawn, and the birds perched outside of her bedroom window were already calling in the new morning. Without a care for them or for the world, she lay flat on her belly and slept.
+But the espresso machine was out of commission that night, waiting on parts that she had ordered the week before. Instead, she walked over to the refrigerator in the kitchenette and cracked open a bottle of cold brew. It was as if lowering the temperature had induced a phase transition, transmuting what was once non-ingestable into something more tolerable. The cold numbed her tongue to the taste as she forced down the mud-brown liquid. Having flooded her gullet with sufficient stimulus, along with a few tea biscuits, she stumbled onto her bed. The cool spring night was bleeding into dawn, and the birds perched outside of her bedroom window were already calling in the new morning. Without a care for them or for the world, she lay flat on her belly and slept.
 
 {% newthought ' Alex dreamt that she was flying under a moonless sky. ' %} Her arms dangled loosely in the shape of a *V*, passively generating lift. Flying felt much like swimming, she thought, without the exercise. She was searching for her companions, a flock of albatrosses that had merged with her not long ago, but they proved difficult to spot in the rolling fog. The birds had simply melted away into the murkiness of the sea mist.
 
@@ -49,7 +49,7 @@ It was the murmur of eddies toppling over each other across the mirror of water.
 
 {% newthought ' The whirring of the printer woke Alex up. ' %} Without reaching for her phone, she reckoned that she had managed to oversleep on a workday. But that was not her immediate concern. Looking over the edge of her pillow, she could read the thin, squinty letters on the printer’s small LED screen, which announced that a fax transmission from an unknown sender was underway. Strange, she thought. She did not remember ever configuring her desktop inkjet to receive faxes. Yet it continued to eject what appeared to be scanned pages from an ancient document into an accumulating heap of paper on the ground.
 
-When the LED screen finally blinked off, she stepped into her into her slippers to gather and collate the mess.
+When the LED screen finally blinked off, she stepped into her slippers to gather and collate the mess.
 
 The document was a type-written monograph bore that the nondescript title, *A Review of Anticipatory Systems,* with no author indicated. Alex had seen the term before in graduate school, when she was completing her doctorate at Stanford’s Department of Economics. That was where Williams, her previous upperclassman and current boss, had also went. Anticipatory systems theory was just one of many intellectual rabbit-holes she indulged in aside from her main academic tack. Memories, both fond and otherwise, returned as she thumbed through the pages.
 
@@ -67,7 +67,7 @@ Alex circled the room and then checked underneath the bed. There they were, alon
 >
 > —Jay
 
-She wondered if the message was actually intended for her. It could also be an elaborate prank, she reasoned. Her profession attracted the ire of online cranks who wished them (mostly metaphorical) harm. But if this Jay were actually *that* Jay, this invitation would be a direct order from her boss’ boss—the chairman himself—that she could not ignore. 
+She wondered if the message was actually intended for her. It could also be an elaborate prank, she reasoned. Her profession attracted the ire of online cranks who wished them (mostly metaphorical) harm. But if this Jay were actually *that* Jay, this invitation would be a direct order from her boss’s boss—the chairman himself—that she could not ignore. 
 
 It was almost noon. She checked her notifications. Twenty-seven minutes ago, a colleague had asked her where she was, and if she could look over his data analysis after lunch. Biting her lip, she tapped out a terse reply.  
 
@@ -197,7 +197,7 @@ Playing the players, Alex thought. It amused her to think of the chairman as a p
 
 “Taking this further, an anticipatory network may sometimes be better understood as a network of *models* rather than as a network of *individuals*. To continue the analogy, if people are gambling on the outcome of the tournament without seeing either the player’s faces or their hands, they perceive the event not as a game between poker players but between different poker-playing strategies—inferred from each player’s match history—acting through the conduit of human hands.
 
-“From the gamblers’ perspective, the strategies of each player are in every sense as ‘real’ as the players themselves. After all, the models are the “thing” they are betting on and the humans merely vehicle. The perspective of the anticipatory systems analyst is much the same. The internal predictive models are as real as the underlying systems—a network of individuals can be conceptualized as a network of models. They are duals. They are fundamentally equivalent views that can be naturally exchanged for each other. 
+“From the gamblers’ perspective, the strategies of each player are in every sense as ‘real’ as the players themselves. After all, the models are the “thing” they are betting on and the humans merely vehicles. The perspective of the anticipatory systems analyst is much the same. The internal predictive models are as real as the underlying systems—a network of individuals can be conceptualized as a network of models. They are duals. They are fundamentally equivalent views that can be naturally exchanged for each other. 
 
 “But duals are not identical. Although systems must behave in a strictly causal way, with one interaction leading to another, models do not. The framework of causality simply cannot be applied to the ‘meta-behavior’ of models interacting with other models, because these interactions exist outside of time. To the question, “when did rock beat scissors,” one can only answer, ‘whenever the rules of *rock, paper, scissors* were first conceivable’—now, then, and forever. 
 
@@ -261,11 +261,11 @@ Overwhelmed, Williams sank into his chair.
 
 “Oh, there’ll be a massive economic dislocation alright starting around March 2020,” Powell said. “As we continue to monitor the term structure, signals indicate the source of the event to be somewhere in East Asia.”  
 
-“The situation is bleak, the country is going to be struck by a global pandemic”
+“The situation is bleak, the country is going to be struck by a global pandemic.”
 
  “Sounds like we still have time, though,” Alex said hopefully.
 
-“We have adequate time to make precaution and I’ve tried to warn the executive branch about it. But unlike in the past, the current executive branch is not responding as decisively as I had hoped. Maybe they do not want to sow panic, but I am not sure. This is the first time I have operated alone and there’s only so much that being the eyes of the Republic can do.”
+“We have adequate time to take precautions and I’ve tried to warn the executive branch about it. But unlike in the past, the current executive branch is not responding as decisively as I had hoped. Maybe they do not want to sow panic, but I am not sure. This is the first time I have operated alone and there’s only so much that being the eyes of the Republic can do.”
 
 “Does no one else know?” Williams asked.
 
