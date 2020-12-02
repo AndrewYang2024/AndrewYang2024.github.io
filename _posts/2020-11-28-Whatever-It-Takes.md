@@ -53,15 +53,15 @@ When the LED screen finally blinked off, she stepped into her slippers to gather
 
 The document was a typewritten monograph that bore the nondescript title, *A Review of Anticipatory Systems,* with no author indicated. Alex had seen the term before in graduate school, when she was completing her doctorate at Stanford’s Department of Economics. That was where Williams, her previous upperclassman and current boss, had also went. Anticipatory systems theory was just one of many intellectual rabbit-holes she had indulged in outside of her main academic tack. It brought back memories, both fond and otherwise, to see it again.
 
-Thumbing through the pages, she saw that pages seventeen and eighteen were missing.
+While thumbing through the sheaf of papers, she saw that pages seventeen and eighteen were missing.
 
 Alex circled the room and then checked underneath the bed. There they were, along with a printed note.
 
 > Dear Alexandra,
 >
-> Please come to the Board office (Eccles Room 3C) today:
+> Please come to Eccles Conference Room 3C today:
 >
-> 3:00 PM March 22.
+> 3:00 PM March 22
 >
 > Tell no one else about this.
 >
@@ -193,17 +193,17 @@ Powell continued, “I’ll briefly review its core points, just to make sure we
 
 Playing the players, Alex thought. It amused her to think of the chairman as a piker.
 
-“Taking this further, an anticipatory network may sometimes be better understood as a network of *models* rather than as a network of *individuals*. To continue my analogy, if people are gambling on the outcome of the tournament without seeing either the player’s faces or their hands, they perceive the event not as a game between poker players but between different poker-playing strategies—inferred from each player’s match history—acting through the conduit of human hands.
+“Taking this further, an anticipatory network may sometimes be better understood as a network of *models* rather than as a network of *individuals*. To continue my analogy, if people are gambling on the outcome of the tournament without seeing either the players' faces or their hands, they perceive the event not as a game between poker players but between different poker-playing strategies—inferred from each player’s match history—acting through the conduit of human hands.
 
 “From the gamblers’ perspective, the strategies of each player are in every sense as ‘real’ as the players themselves. After all, the models are the ‘thing’ they are betting on and the humans merely vehicles. The perspective of the anticipatory systems analyst is much the same. The internal predictive models are as real as the underlying systems, and a network of individuals can be conceptualized as a network of models. They are duals. Fundamentally equivalent views that can be naturally exchanged for each other. 
 
 “But duals are not identical. Although systems must behave in a strictly causal way, with one interaction leading to another, models do not. The framework of causality simply cannot be applied to the ‘meta-behavior’ of models interacting with other models, because these interactions exist outside of time. To the question, ‘when did rock beat scissors,’ one can only answer, ‘whenever the rules of *rock, paper, scissors* were first conceivable’—now, then, and forever. 
 
-“This acausality has other consequences. Even when the myriad interactions between individuals in a crowd can be exhaustively catalogued, it is often impossible to predict their collective behavior once the number of individuals becomes overwhelming. Much like dealing with the sudden spread of an epidemic, it becomes impossible to trace the chains of causality. On the other hand, it is very easy to design games—even games with very rich behavior—that always converge on completely predictable outcomes no matter how many players it has or how clever its players are. An example is the class of games that do not explicitly specify a winner-take-all dynamic in their rules, but guarantee a single winner at the end nonetheless. 
+“This acausality has other consequences. Even when the myriad interactions between individuals in a crowd can be exhaustively catalogued, it is often impossible to predict their collective behavior once the number of individuals becomes overwhelming. Much like dealing with the sudden spread of an epidemic, it becomes impossible to trace the chains of causality. On the other hand, it is very easy to design games—even games with very rich behavior—that always converge on completely predictable outcomes no matter how many players it has or how clever its players are. An example is the class of games whose rules do not explicitly specify a winner-take-all dynamic, but guarantee a single winner at the end nonetheless. 
 
 “You and I know these games very well.” Powell said. “Don’t we?”
 
-”It’s not like you to beat around the bush.” Williams was tapping his foot. “What does it all mean to us? Why was it sent to us?”
+“It’s not like you to beat around the bush.” Williams was tapping his foot. “What does this all mean to us? Why was it sent to us?”
 
 “I find that terrible things tend to happen when I speak plainly,” Powell retorted. “But if you can indulge me for a little longer.”
 
@@ -223,23 +223,23 @@ Alex’s blood stirred. Everything was coming together now.
 
 “Wow,” Williams gasped, looking at her with newfound admiration.
 
-“The Enders are a long intellectual lineage dating back to the Austro-Hungarians,” Powell explained. “Before their collapse, they were quite well-known in monetary circles. It was only a matter of time before Astrid’s descendants would make her way back into the trade.”
+“The Enders are a long intellectual lineage dating back to the Austro-Hungarians,” Powell explained. “Before their collapse, they were quite well-known in monetary circles. It was only a matter of time before Astrid’s descendant would make her way back into the trade.”
 
 The two men’s scrutiny made Alex shift in her seat. Much to her relief, they quickly returned to their original discussion.
 
 “Do you understand now,” Powell asked solemnly. “What it means to control the yield curve?”
 
-Williams stared at Powell blankly and felt left behind. He could not comprehend how yield curve control, a newfangled policy from the Bank of Japan, fit into the picture.
+Williams stared blankly at Powell and felt left behind. He could not comprehend how yield curve control, a newfangled policy from the Bank of Japan, fit into the picture.
 
 “What?”
 
-“Don’t you get it, John? The yield curve does not predict central bank intervention,” Alex said. “The change in the yield curve *IS* central bank intervention.”
+“Don’t you get it, John?” Alex said. “The yield curve does not predict central bank intervention. The change in the yield curve *IS* central bank intervention.”
 
-Powell laughed heartily as he saw the flash of realization over Williams’ face. He had been waiting patiently for this moment.
+Powell laughed heartily as he saw the flash of realization over Williams’s face. He had been waiting patiently for this moment.
 
 “The yield curve whispers to us from the future,” Powell said. “Because my predecessors have created an anticipatory network that satisfies the conditions set forth in the *Review*. A machine that can pull forward the eternal future into the present.”
 
-“You had me at acausality,” Alex said. “Given what you described, the treasury market allows us to send messages to our past selves.”
+“You had me at acausality,” Alex said. “If I understand correctly, the treasury market allows us to send messages to our past selves.”
 
 Powell nodded approvingly. “This is the true history of the modern Fed, born amid the flames of the Second World War. From the moment Marriner Stoddard Eccles received an anonymous manuscript in 1941. This is why we control the most liquid predictive market in the world and train a global network of traders and investors to do our bidding.”
 
@@ -251,9 +251,9 @@ Overwhelmed, Williams sank into his chair.
 
 “The treasury market transmission network we have is still an imperfect one. Basically the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve and the information is encoded in the timing and magnitude of the inversion. Anything more complicated than that becomes garbled when you try to send messages years back in time.
 
-{% maincolumn 'assets/img/Inversion.PNG'  %} 
+{% maincolumn 'assets/img/Inversion.png'  %} 
 
-“Last August, almost the entire curve inverted, with a noticeable kink at the five year tenor. According to our operating manuals, this shape signaled that a historical-level event is about to occur at the beginning of 2020, details pending. Following protocol, we honed the resolution of our monetary antennae by gradually hiking the federal funds rate. We had to stop because the pressure on capital markets became overwhelming, but that ultimately didn’t matter. We received the main message shortly thereafter, when the three month and ten year flipped this morning.”
+“Last December, the spread between the three and five year tenors inverted. According to our operating manuals, this shape signaled that a historical-level event is about to occur at the beginning of 2020, details pending. Following protocol, we honed the resolution of our monetary antennae by gradually hiking the federal funds rate. We had to stop because the pressure on capital markets became overwhelming, but that ultimately didn’t matter. We received the main message shortly thereafter, when the three month and ten year flipped this morning.”
 
 “Is it the Big One?” William whispered.
 
