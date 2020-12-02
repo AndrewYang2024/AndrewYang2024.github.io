@@ -51,5 +51,7 @@
 <meta name="twitter:image" content="{{ site.url }}{{ post.picid }}.png">
 {% endif %}
 <!-- end of Twitter cards -->
-
+{% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 </head>
