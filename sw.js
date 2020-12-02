@@ -1,4 +1,4 @@
-const version = '20201202064703';
+const version = '20201202065057';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
