@@ -6,16 +6,14 @@ picid: "002"
 ---
 
 
-
 <div>
-<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">  Your time as a reader is always cherished—don't hesitate to tweet at </a> <script type='text/javascript' src='{{site.url}}/assets/scripts/twitter_button.js'></script> <script type='text/javascript'>twitter_button.init('', '#2b3088', 'https://twitter.com/AndrewYang2024');twitter_button.draw();</script><a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">—but should you find something of value here, feel free to donate to my </a> <script type='text/javascript' src='{{site.url}}/assets/scripts/paypal_button.js'></script><script type='text/javascript'>paypal_button.init('', '#2b3088', 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X7UGTGVM27Z3G&currency_code=USD');paypal_button.draw();</script>
-
-<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">  or buy me a </a>
- <script type='text/javascript' src='{{site.url}}/assets/scripts/kofi_button.js'></script><script type='text/javascript'>kofi_button.init('', '#2b3088', 'R6R61HF4F');kofi_button.draw();</script> 
-
+<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">  Your time as a reader is always cherished, so don't hesitate to tweet at </a><script type='text/javascript' src='{{site.url}}/assets/scripts/twitter_button.js'></script> <script type='text/javascript'>twitter_button.init('', '#2b3088', 'https://twitter.com/AndrewYang2024');twitter_button.draw();</script>
 </div>
 
-<p>&nbsp;</p>
+<div style = "margin-top:1em">
+
+<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;" > And if you find something of value here, feel free to donate to my </a> <script type='text/javascript' src='{{site.url}}/assets/scripts/paypal_button.js'></script><script type='text/javascript'>paypal_button.init('', '#2b3088', 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X7UGTGVM27Z3G&currency_code=USD');paypal_button.draw();</script> <a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">  or buy me a </a> <script type='text/javascript' src='{{site.url}}/assets/scripts/kofi_button.js'></script><script type='text/javascript'>kofi_button.init('', '#2b3088', 'R6R61HF4F');kofi_button.draw();</script> 
+</div>
 
 {% newthought 'In return, I have some tips for you.'%} If you are curious about the funny looking designs at the upper-left corner, all the designs follow a common motif. The lush, calligraphic flourishes of ***theory*** are set against the rational, geometric forms of {% newthought  'praxis,' %} and their combination is expressed in the ***bra***-***ket*** notation of quantum mechanics. {% marginnote 'mn-id-1'  'A linear functional〈*f*| (***bra***)  acts on a complex vector |*v*〉(***ket***) to create〈*f*|*v*〉(***bra-ket***)'   %} Like theory and praxis, the spaces of ***bra***’s and ***ket***’s are dual spaces—both entangled with and separate from each other—destined to recombine in profound ways.
 
