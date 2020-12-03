@@ -17,13 +17,8 @@ layout: default
 {{ content }}
 
 
-{% if page.tipscript %}
-<p style = "margin-top: 2em" > <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('{{ page.tipscript }}', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>  </p>
-{% else %}
-<p style = "margin-top: 2em" > <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>  </p>
-{% endif %}
 
-<p style = "margin-top: 2em" > <script type='text/javascript' src='/scripts/twitter_button.js'></script><script type='text/javascript'>kofiwidget2.init('Leave me a comment', '#2b3088', 'R6R61HF4F');kofiwidget2.draw();</script>  </p>
+<p style = "margin-top: 4em"> <script type='text/javascript' src='/assets/scripts/kofi_button.js'></script><script type='text/javascript'>kofi_button.init('Buy me a&nbsp;', '#2b3088', 'R6R61HF4F');kofi_button.draw();</script>  <script type='text/javascript' src='/assets/scripts/twitter_button.js'></script><script type='text/javascript'>twitter_button.init('Comment&nbsp;&nbsp;', '#2b3088', '{{page.tweetURL}}');twitter_button.draw();</script>  </p>
 
 
 
