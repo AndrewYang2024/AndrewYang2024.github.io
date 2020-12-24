@@ -11,21 +11,18 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 ---
 
 
-# The Pervert’s Guide to Monetary Policy
 
-
-
-> I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy—state bureaucracy—is the only remaining contact with the dimension of the divine.
+> I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy, ***state bureaucracy,*** is the only remaining contact with the dimension of the Divine.
 >
 > …
 >
 > What the impenetrable omnipotence of bureaucracy harbours is divine enjoyment.
 >
-> Slavoj Žižek in *The Pervert’s Guide to Ideology* 
+> **Slavoj Žižek** in *The Pervert’s Guide to Ideology* 
 
 
 
-To an adolescent, pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is the bootlegged copy of the “real” thing; it is jarring, filmed at uncomfortable angles, and enjoyed secretly as a young adult sketches out their place in the world. {% marginnote 'mn-id-1' 'Singular they is how I roll' %}
+{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is the bootlegged copy of the “real” thing; it is jarring, filmed at uncomfortable angles, and enjoyed secretly as a young adult sketches out their place in the world. {% marginnote 'mn-id-1' 'Singular they is how I roll' %}
 
  a schema which, may not be possible to realize in full, but neverthless the only one.
 
@@ -549,7 +546,7 @@ If you in broad strokes.
 
 Imagine you are streaming a pornographic, the most blandest typical kind
 
-{% newthought 'Fin.' %}
+
 
 <!-- 
 
