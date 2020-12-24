@@ -22,11 +22,13 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 
 
-{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is the bootlegged copy of the “real” thing; it is jarring, filmed at uncomfortable angles, and enjoyed secretly as a young adult sketches out their place in the world. {% marginnote 'mn-id-1' 'Singular they is how I roll' %}
+{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is a bootlegged copy of the “real” thing, jarring and filmed at uncomfortable angles, to be enjoyed secretly as a young adult sketches out her place in the world. 
 
  a schema which, may not be possible to realize in full, but neverthless the only one.
 
 
+
+{% marginnote 'mn-id-1' 'Singular they is how I roll Singular they is how Singular they is how Singular they is how' %}
 
 with its oversaturated rawness
 
