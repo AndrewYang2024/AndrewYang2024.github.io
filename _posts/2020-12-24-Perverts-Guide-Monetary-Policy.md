@@ -6,7 +6,7 @@ title:  The Pervert’s Guide to Monetary Policy
 date:   2020-12-24 00:00:00
 categories: Essay
 tags: Fed
-picid: "a001"
+picid: "a002"
 tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 ---
 
@@ -22,7 +22,41 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 
 
-{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is a bootlegged copy of the “real” thing, jarring and filmed at uncomfortable angles, to be enjoyed secretly as a young adult sketches out her place in the world. 
+{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is billed as a bootlegged copy of the “real” thing: jarring, filmed at uncomfortable angles, and enjoyed secretly as one sketches out their place in the sexual universe.
+
+But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex or even sex-like. Nor does it have any serious pretense to the contrary. To see Picasso’s Cubist nudes as inferior imitations of the female form is to misunderstand how his intentionally distorted versions should be evaluated in their own rights. They are what they are and aren’t  what they aren’t. Similarly, it is by looking past the disillusionment at the fundamental gulf between smut and sex, that we understand the true appeal of pornography.
+
+At its core is an exchange, wherein an experience whose pleasure is intrinsically linked to imagination and risk (of physical intimacy and emotional vulnerability) is traded for a replicable procedure with a predictable payoff. The essence of pornography is thus, bureaucracy.
+
+How else would you describe the following interaction? Individuals, in looking for an outlet for their desire, seek not other humans but instead schedule private appointments in front of a terminal. Sitting or lying before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files, which have been prepared by a network of anonymous—often literally faceless—functionaries who contribute to this repository. Simply viewing the file can be enough for satiation, with the accompanying of onanism purely optional. After access is complete, their view data is logged as a signal to the network to restructure its recommendations and acquire new content. The **Other** of the intimate companion/counterparty is replaced by the impersonal **Other** of a  sex bureaucracy.
+
+{% newthought 'When one imagines th,' %}. And to be sure, the sex bureaucracy, a term coined by a California Law Review article does exist. In the wake, direct efforts to create separate hannel.
+
+And much like any attempt to create 
+
+
+
+prolific pornographer of the Federal Reserve.
+
+
+
+it has to be ridiculous because if it is serious, a reminder, it all falls apart. Porn works, even if you don’t believe in it—precisely because you don’t believe in it.
+
+the decentralized bureaucracy, which we call the market.
+
+
+
+the sex bureaucracy, more so than as a formal  is the most potent form os sexual regulation.
+
+
+
+
+
+they realize that porn is not simply a inferior imitation of something else. 
+
+ masturbation
+
+
 
  a schema which, may not be possible to realize in full, but neverthless the only one.
 
@@ -34,11 +68,11 @@ with its oversaturated rawness
 
 
 
-But for those who have experienced both, smut is not simply a cheap imitation of the “real” thing. 
+The Taker-of the punch bowl is the Kool-aid man
+
+
 
 As an inversion They are formallty
-
-They are more like Picasso’s Cubist nudes, intentionally distorted forms of the original that must be evaluated by their own rights.
 
 The pleasure of sex is intrinsically To have sex is to be vulnerable. 
 
@@ -48,7 +82,7 @@ a subtle distinction emerges. Pornography arises as an alternative
 
 The genius of porno
 
-The true promise of pornography is to trade an activity whose pleasure is intrinsically linked to risk, that of being vulnerable, in exchange for a procedure with a predictable payoff.
+
 
 That is to say, the essence of pornography is the bureaucratization of desire.
 
