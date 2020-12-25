@@ -164,6 +164,8 @@ blockquote {
 	 border-bottom: 1px solid #ccc;
 }
 
+
+
 .full-width blockquote {width: 100%}
 
 blockquote:before {
@@ -215,8 +217,11 @@ blockquote p {
 				width: 100%;
 				}
 
-blockquote footer { width: 45%;
-                    text-align: right;  }
+blockquote footer { 
+				font-size: 1.25rem;
+                font-family: $quote-font;
+                text-align: right;  
+				margin-bottom: -1.68181818rem;}
 
 
 .sans { font-family: $sans-font;

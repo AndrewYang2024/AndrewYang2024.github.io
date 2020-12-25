@@ -252,7 +252,7 @@ Overwhelmed, Williams sank into his chair.
 
 “The treasury market transmission network we have is still an imperfect one. Basically the financial equivalent of smoke signals,” Powell explained. “We communicate by inverting the yield curve and the information is encoded in the timing and magnitude of the inversion. Anything more complicated than that becomes garbled when you try to send messages years back in time.
 
-{% maincolumn 'assets/img/Inversion.PNG'  %} 
+{% maincolumn 'assets/img/Inversion.PNG' ''  %} 
 
 “Last December, the yield spread between the three and five year tenors inverted. According to our operating manuals, this signaled that a historical-level event is about to occur at the beginning of 2020, details pending. Following protocol, we honed the resolution of our monetary antennae by gradually hiking the federal funds rate. We had to stop because the pressure on capital markets became overwhelming, but that ultimately didn’t matter. We received the main message shortly thereafter, when the three month and ten year flipped this morning.”
 

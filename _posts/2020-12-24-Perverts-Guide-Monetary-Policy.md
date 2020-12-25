@@ -16,13 +16,13 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 >
 > …
 >
-> What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment.
->
-> **Slavoj Žižek** in *The Pervert’s Guide to Ideology* 
+> What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment. 
+> {% cite 'Slavoj Žižek' 'The Pervert’s Guide to Ideology' '' %}
 
 
+>test
 
-{% epigraph 'text-body-of-epigraph' 'author-of-epigraph' 'citation-of-epigraph' %}
+
 
 
 
