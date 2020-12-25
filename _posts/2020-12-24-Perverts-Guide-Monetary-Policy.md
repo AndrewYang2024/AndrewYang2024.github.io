@@ -28,7 +28,13 @@ But for those who have experienced both, even this bootlegged promise fails to h
 
 
 
-{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, **oil** on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
+dsf
+
+{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London         d' %} 
+
+
+
+sdf
 
 At its core is an exchange, wherein an experience whose pleasure is intrinsically linked to imagination and risk (of physical intimacy and emotional vulnerability) is traded for a replicable procedure with a predictable payoff. The essence of pornography is thus, bureaucracy.
 
@@ -68,7 +74,7 @@ they realize that porn is not simply a inferior imitation of something else.
 
 {% marginfigure 'mf-id-1' 'assets/img/a002.png'  %} 
 
-{% marginnote 'mn-id-1' 'Singular they is how I roll Singular they is how Singular they is how Singular they is how' %}
+{% marginnote 'mn-id-1' 'Singular *they is how I roll Singular* they is how Singular they is how Singular they is how' %}
 
 with its oversaturated rawness
 
