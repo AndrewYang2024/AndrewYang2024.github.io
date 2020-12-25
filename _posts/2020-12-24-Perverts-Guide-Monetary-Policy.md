@@ -22,19 +22,15 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 
 
+{% epigraph 'text-body-of-epigraph' 'author-of-epigraph' 'citation-of-epigraph' %}
+
+
+
 {% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is billed as a bootlegged copy of the “real” thing: jarring, filmed at uncomfortable angles, and enjoyed secretly as one sketches out their place in the sexual universe.
 
 But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex or even sex-like. Nor does it have any serious pretense to the contrary. To see Picasso’s Cubist nudes as inferior imitations of the female form is to misunderstand how his intentionally distorted versions should be evaluated in their own rights. They are what they are and aren’t  what they aren’t. Similarly, it is by looking past the disillusionment at the fundamental gulf between smut and sex, that we understand the true appeal of pornography.
 
-
-
-dsf
-
-{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London         d' %} 
-
-
-
-sdf
+{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
 
 At its core is an exchange, wherein an experience whose pleasure is intrinsically linked to imagination and risk (of physical intimacy and emotional vulnerability) is traded for a replicable procedure with a predictable payoff. The essence of pornography is thus, bureaucracy.
 
