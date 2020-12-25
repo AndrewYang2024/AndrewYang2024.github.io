@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' “.” '
+excerpt: ' “What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment.” '
 
 title:  The Pervert’s Guide to Monetary Policy
 date:   2020-12-24 00:00:00
@@ -16,7 +16,7 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 >
 > …
 >
-> What the impenetrable omnipotence of bureaucracy harbours is divine enjoyment.
+> What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment.
 >
 > **Slavoj Žižek** in *The Pervert’s Guide to Ideology* 
 
@@ -61,6 +61,8 @@ they realize that porn is not simply a inferior imitation of something else.
  a schema which, may not be possible to realize in full, but neverthless the only one.
 
 
+
+{% marginfigure 'mf-id-1' 'assets/img/a002.png'  %} 
 
 {% marginnote 'mn-id-1' 'Singular they is how I roll Singular they is how Singular they is how Singular they is how' %}
 
