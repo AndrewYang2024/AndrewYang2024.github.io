@@ -10,7 +10,15 @@ picid: "a002"
 tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 ---
 
+{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
 
+{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, as a young mind ponders its place in the relational universe. But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
+
+Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the one shown above), his intentional distortion should never be seen as an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the premise of pornography. Its true appeal is to offer a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—can be exchanged for a standardized procedure with a predictable payoff. 
+
+**The essence of pornography is thus, bureaucracy.**
+
+Consider humans who, in search of outlets for their desire, seek not other humans but instead schedule private appointments in front of their terminals. Positioned before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files, which have been prepared and indexed by a network of anonymous—often entirely faceless—functionaries who contribute to this repository. The **Other** of the intimate companion is replaced by the impersonal **Big Other** of a decentralized sex bureaucracy who logs their views in order to structure future recommendations and content curation accordingly.
 
 > I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy, ***state bureaucracy,*** is the only remaining contact with the dimension of the Divine.
 >
@@ -19,26 +27,48 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 > What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment. 
 > {% cite 'Slavoj Žižek' 'The Pervert’s Guide to Ideology' '' %}
 
+{% newthought 'When we think of regulation,' %} we often think about external burdens that are imposed onto us. For example, the term **sex bureaucracy**, coined in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of campus organizations that emerged in response to federal guidelines issued in a 2011 Dear Colleague Letter on sexual harassment and violence.
 
->test
+To,
+
+behavior, how to talk to others, flirt with others, conduct, not about the regulation of how we express those desires.
+
+we need
 
 
 
 
 
-{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette—made of equal parts joy and disappointment. Smut is billed as a bootlegged copy of the “real” thing: jarring, filmed at uncomfortable angles, and enjoyed secretly as one sketches out their place in the sexual universe.
+narrative contango
 
-But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex or even sex-like. Nor does it have any serious pretense to the contrary. To see Picasso’s Cubist nudes as inferior imitations of the female form is to misunderstand how his intentionally distorted versions should be evaluated in their own rights. They are what they are and aren’t  what they aren’t. Similarly, it is by looking past the disillusionment at the fundamental gulf between smut and sex, that we understand the true appeal of pornography.
+we must first study the anthropology. 
 
-{% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
+fed leads to clientelism. Modern Monetary Policy. the principles of exchange. Creation of a fourth pseudo-exchange. non zero-sum game. The language of debt is not helpful. Debt that never needs to repaid. creating of a new communism.
 
-At its core is an exchange, wherein an experience whose pleasure is intrinsically linked to imagination and risk (of physical intimacy and emotional vulnerability) is traded for a replicable procedure with a predictable payoff. The essence of pornography is thus, bureaucracy.
 
-How else would you describe the following interaction? Individuals, in looking for an outlet for their desire, seek not other humans but instead schedule private appointments in front of a terminal. Sitting or lying before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files, which have been prepared by a network of anonymous—often literally faceless—functionaries who contribute to this repository. Simply viewing the file can be enough for satiation, with the accompanying of onanism purely optional. After access is complete, their view data is logged as a signal to the network to restructure its recommendations and acquire new content. The **Other** of the intimate companion/counterparty is replaced by the impersonal **Other** of a  sex bureaucracy.
+
+Passive participation. Simply viewing the file can be enough for satiation, with the accompanying of onanism purely optional. After access is complete, their view data is logged as a signal to the network to restructure its recommendations and acquire new content. 
+
+/counterparty
+
+, but intentional distortions of the female form.
+
+One has sac
+
+Similarly, pornography is an intentional distortion of the activity it is meant to represent misunderstand how his intentionally distorted versions should be evaluated in their own rights. They are what they are and aren’t  what they aren’t. Similarly, 
+
+At its core is a sacrifice.
+
+
+
 
 {% newthought 'When one imagines th,' %}. And to be sure, the sex bureaucracy, a term coined by a California Law Review article does exist. In the wake, direct efforts to create separate hannel.
 
 And much like any attempt to create 
+
+
+
+
 
 
 
@@ -47,6 +77,8 @@ prolific pornographer of the Federal Reserve.
 
 
 it has to be ridiculous because if it is serious, a reminder, it all falls apart. Porn works, even if you don’t believe in it—precisely because you don’t believe in it.
+
+ANd even though we believe it is wrong, we will still desire to enact it.
 
 the decentralized bureaucracy, which we call the market.
 
@@ -58,13 +90,11 @@ the sex bureaucracy, more so than as a formal  is the most potent form os sexual
 
 
 
-they realize that porn is not simply a inferior imitation of something else. 
+
 
  masturbation
 
 
-
- a schema which, may not be possible to realize in full, but neverthless the only one.
 
 
 
@@ -94,7 +124,7 @@ The genius of porno
 
 That is to say, the essence of pornography is the bureaucratization of desire.
 
-The sex bureaucracy is more than a fanciful metaphor. The term was coined in a California Law Review article of the same name. 
+The sex bureaucracy is more than a fanciful metaphor. 
 
 
 
