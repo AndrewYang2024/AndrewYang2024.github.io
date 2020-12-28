@@ -14,11 +14,11 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 {% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, as a young mind ponders its place in the relational universe. But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
 
-Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the one shown above), his intentional distortion should never be seen as an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the premise of pornography. Its true appeal is to offer a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—can be exchanged for a standardized procedure with a predictable payoff. 
+Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the one shown above), his intentional distortion should never be seen as an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the true appeal of pornography. It too offers a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—is exchanged for a standardized procedure providing a predictable payoff. 
 
 **The essence of pornography is thus, bureaucracy.**
 
-Consider humans who, in search of outlets for their desire, seek not other humans but instead schedule private appointments in front of their terminals. Positioned before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files, which have been prepared and indexed by a network of anonymous—often entirely faceless—functionaries who contribute to this repository. The **Other** of the intimate companion is replaced by the impersonal **Big Other** of a decentralized sex bureaucracy who logs their views in order to structure future recommendations and content curation accordingly.
+Consider humans who, in search of outlets for their desire, seek not other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy that collects viewing data in order to structure future recommendations and content curation accordingly.
 
 > I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy, ***state bureaucracy,*** is the only remaining contact with the dimension of the Divine.
 >
@@ -27,7 +27,71 @@ Consider humans who, in search of outlets for their desire, seek not other human
 > What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment. 
 > {% cite 'Slavoj Žižek' 'The Pervert’s Guide to Ideology' '' %}
 
-{% newthought 'When we think of regulation,' %} we often think about external burdens that are imposed onto us. For example, the term **sex bureaucracy**, coined in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of campus organizations that emerged in response to federal guidelines issued in a 2011 Dear Colleague Letter on sexual harassment and violence.
+{% newthought 'When we think of regulation,' %} we usually think about external burdens that are imposed onto us. For example, the term **sex bureaucracy**, coined in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of administrative organizations and rules on college campuses that regulate sexual misconduct. Most of these bureaucratic structures emerged after 2011 in response to a Dear Colleague Letter with new federal guidelines on the obligations of colleges to root out misconduct under Title IX. This federal guidance on sex discrimination, in conjunction with (completely correct!) social pressure to combat sexual violence, served as the basis for creating a parallel justice system to adjudicate sexual allegations that denied due process to those accused.
+
+Feminist legal scholars speaking out against this overreach also noted that the sex bureaucracy went beyond being a miscarriage of justice, but also crossed the line into regulating normal sexual conduct. 
+
+
+
+
+
+While, the effects were undeniable.
+
+I wonder whether .
+
+
+
+I do not have any hard data on this, but I remember, who as we were watching the online training for sexual miscondict. whose main takeaway was.
+
+Also this does not scale.
+
+ pointed out the scale of the overreach.
+
+
+
+Unless, your sex touches on any domain, the state does not, such as use of firearms, financial transactions and protection of minors
+
+Unlike the Kool-Aid man, who is wont to smash in if he sniffs the presence of any Kool-Aid in the vicinity, in order for the state to enter the bedroom, it must be invited in, like a vampire.
+
+
+
+tribunal system that existed outside of due process.
+
+For students who were caught up in this , the sex bureaucracy was a concrete entity that more than disrupted their lives.
+
+taken, as such, the sex bureaucracy was not really about regulating sex, but about this very very small corner of it.
+
+And it may have had, but i wonder (that was never its intention anyway)
+
+whose understanding was thus followed.
+
+“Uh, don’t rape people, guys.”
+
+
+
+Classic story of overreach. It rarely if ever happens this way. every alw system always requires some passive participation, and all the better if it is enjoyable.
+
+
+
+Sex is a domain that requires invitaiton.
+
+, often, minority
+
+
+
+atheist means everything is prohobited.
+
+belief in the ironclad power of contract, means that you are allowed private indiscretions. You see, we can have a bailout  here and it does not weaken the system. In fact, the allowance for some indiscreitons strengthens the system.
+
+rebel.
+
+“Fine, I’ll do it.”
+
+“It’s not so bad, and I rather like it.”
+
+ autonomy of mind, always requires some form of participation.
+
+
 
 To,
 
