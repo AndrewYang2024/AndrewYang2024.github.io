@@ -68,7 +68,7 @@ strong {
 
 p > a { @if $link-style == underline
     {
-      color: $text-color;
+      color: $contrast-color;
       text-decoration: none;
       border-bottom: 1px solid #777;
       padding-bottom: 1px;
