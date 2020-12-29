@@ -20,6 +20,21 @@ Yet to dismiss pornography as a failed simulation is to miss the point. Whether 
 
 Consider humans who, in search of outlets for their desire, seek not other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy that collects viewing data in order to structure future recommendations and content curation accordingly.
 
+{% newthought 'When we think of regulation,' %} we usually think about external bureaucracies that are imposed onto us. For example, the term **sex bureaucracy**, as used in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, explicitly refers to the ecosystem of administrative organizations designed to police sexual misconduct on college campuses. These structures emerged after 2011 in response to a Dear Colleague Letter issuing new federal guidelines on Title IX concerning sex discrimination that expanded the obligations of schools to proactively root out misconduct. This updated guidance, in conjunction with (completely correct!) social pressure to reduce sexual harassment and violence, served as the basis to create a system of tribunals to adjudicate sexual allegations.
+
+From its conception, this parallel justice system was [plagued with problems](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy). It denied due process to those accused, which eventually led to lawsuits against schools filed through the actual legal system, and adopted bizarre standards for its decisions.
+
+> It required investigators to start by believing accusers (rather than starting from a place of impartial neutrality), instructed them against using a “reasonable person” test to constrain their judgment of whether sexual conduct regarded as unwelcome constitutes harassment or assault, and required them to reach a finding of wrongdoing if they felt confidence that misconduct had occurred greater than **50+1 percent**. 
+>
+> {% cite 'Wesley Yang' '[America’s New Sex Bureaucracy](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy)' '' %}
+
+The feminist law professors{% sidenote 'mn-id-1' 'Janet Halley, Jeannie Suk Gersen, Elizabeth Bartholet, and Nancy Gertner.' %} who spoke out against this new sex bureaucracy also noted that it went well beyond addressing perceived misconduct to also policing normal sexual conduct. 
+
+> Yale University disclosed in its required 2013 ASR that its prevention program tells students that **consent is not enough:** ‘Hold out for enthusiasm. In general, it’s easy to tell if someone is enthusiastic about an encounter or not.‘ In complying with the prevention program disclosure requirement, and purporting to prevent nonconsensual sexual contact, Yale instructs students on enthusiastic sex. Students are told to ‘[c]ommunicate with [their] sexual and romantic partners,’ as ‘[o]pen discussion of desires and limits is a critical part of building a positive sexual culture.’ A positive sexual culture, open discussion of sexual desires, communication with romantic partners, and enthusiastic sex all seem like good sexual aspirations, though perhaps achieved by quite few. But these are not trainings about how to prevent sexual violence. **They are instructions on how to have ordinary (or extraordinary) sex, and they are produced and monitored by the sex bureaucracy.**
+> {% cite 'Jacob Gersen & Jeannie Suk' '[The Sex Bureaucracy,](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf)' '(California Law Review)' %}
+
+The degree to which college administrators should provide sex tips to young adults is an interesting matter from both a legal and a personal liberties perspective. If the harm of sexual violence is so terrible, is it acceptable to nudge behavior across the spectrum, even if it is normal, in the hopes that it may ultimately reduce sexual violence at the margin? However, the more interesting question, which is left unanswered by most writing on the subject, is how effective these instructions actually were in changing behavior. Certainly the students who entered the tribunals would never forget their experience, but they would only be a small minority. For the majority of the student body, their only contact with the sex bureaucracy would be being nagged via email to watch some videos. Here I am reminded of my own college experience. I was working on homework with a college friend, whose laptop was playing the annual mandatory online training as he multitasked. Somehow, I doubt it had any effect on him. While the establishment of firm guidelines on consent may signal the norms of acceptable behavior, they can only be enforced insofar either partner adheres to it or reports wrongdoing. And as impressionable as freshman minds can be, how far do simple guidelines really go in reshaping the nature of their desires and the kinds of things they seek in a partner, which they would not freely admit to anyone except perhaps a search bar? 
+
 > I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy, ***state bureaucracy,*** is the only remaining contact with the dimension of the Divine.
 >
 > …
@@ -27,13 +42,60 @@ Consider humans who, in search of outlets for their desire, seek not other human
 > What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment. 
 > {% cite 'Slavoj Žižek' 'The Pervert’s Guide to Ideology' '' %}
 
-{% newthought 'When we think of regulation,' %} we usually think about external burdens that are imposed onto us. For example, the term **sex bureaucracy**, coined in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of administrative organizations and rules on college campuses that regulate sexual misconduct. Most of these bureaucratic structures emerged after 2011 in response to a Dear Colleague Letter with new federal guidelines on the obligations of colleges to root out misconduct under Title IX. This federal guidance on sex discrimination, in conjunction with (completely correct!) social pressure to combat sexual violence, served as the basis for creating a parallel justice system to adjudicate sexual allegations that denied due process to those accused.
-
-Feminist legal scholars speaking out against this overreach also noted that the sex bureaucracy went beyond being a miscarriage of justice, but also crossed the line into regulating normal sexual conduct. 
 
 
+{% newthought 'Finance is, for good reason, a heavily regulated activity.' %}  There are very many external burdens imposed. And then there are “real” rules, like capital ratios at banks that matter about conflicts of interests, fraud.. endless SEC-relation disclosures to file and send to clients. A lot of meaningless box-ticking and paper-shuffling, which have real consequences only if they are not followed properly.  These burdens are manifestations of finance’s external bureaucracy, which mirror, respectively, the adjudication process, which I never encountered as a student, and the mandatory online trainings of the college sex bureaucracy.
+
+<q>  The essence of pornography is thus, bureaucracy. </q>
+
+Yet, I would argue that the most powerful regulation.
+
+a powerful, masturbatory ritual exciting 
+
+my own experience with forward guidance. quantitative easing. That was  a thing. 
+
+the dumbest thing to do is to point out that the system is inconsistent.
+
+driving trillions in notional option markets
+
+complicit. cooperation. 
+
+It is in this frame of mind that we turn
+
+Here I do not have any hard data on this, but I remember, who as we were watching the online training for sexual miscondict. whose main takeaway was.
 
 
+
+
+
+
+
+This is the classical example of overreach. Again, there is nothing objectionable *per se*, but one has to ask, these are things people have to be trusted to learn on their own. These should not be mixed up in a framework.
+
+But I believe, that in terms of actually.
+
+constant reincofrcing of pornography
+
+
+
+
+
+
+
+<q> No Foreplay. Only Forward Guidance. </q>
+
+> 
+>
+
+
+
+
+
+end with comrtades, we are going to liberate the markets, full emancipate and in doing so emancipate ourselkves
+
+
+
+the cleansing recession, millenarianism, the revolution, but what happens the day after the revolution
 
 While, the effects were undeniable.
 
@@ -41,7 +103,7 @@ I wonder whether .
 
 
 
-I do not have any hard data on this, but I remember, who as we were watching the online training for sexual miscondict. whose main takeaway was.
+
 
 Also this does not scale.
 
