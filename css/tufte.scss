@@ -98,7 +98,7 @@ body { width: 90%;
 	 font-family: $sans-font;
 	 color: $contrast-color;
 	 font-weight: 900;
-     margin-top: 1.568rem;
+     margin-top: 2.568rem;
      margin-bottom: 3.568rem;
      font-size: 2.5rem;
      line-height: 0.784; }
@@ -108,20 +108,35 @@ h2 {
 	 color: $contrast-color;
 	 font-style: italic;
      font-weight: 900;
-     margin-top: 1.866666666666667rem;
+     margin-top: 3.866666666666667rem;
      margin-bottom: 0;
-     font-size: 2.1rem;
+     font-size: 1.6rem;
      line-height: 0.933333333333333; }
+h2:before {
+
+ content:  "|";
+ position: absolute;
+  left: -1.0em;
+  font-size: 2rem;
+}
 
 h3 { 
      font-family: $sans-font;
 	 color: $contrast-color;
-	 font-weight: 700;
+	 font-weight: 500;
 	 font-style: italic;
-     font-size: 1.8rem;
-     margin-top: 2.1777777777777778rem;
+     font-size: 1.6rem;
+     margin-top: 4.1777777777777778rem;
      margin-bottom: 0;
      line-height: 1.08888888888889; }
+
+h3:before {
+ content:  "#";
+ font-style: normal;
+ position: absolute;
+  left: -1.35em;
+  font-size: 1.6rem;
+}
 
 // ET says a need for more than 3 levels of headings is the sign of a diseased mind
 

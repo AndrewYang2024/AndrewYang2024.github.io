@@ -37,10 +37,13 @@ If the harm of sexual violence is so terrible, is it then acceptable to nudge be
 
 
 
+# No Foreplay— Only Forward Guidance.
+
+## No Foreplay— Only Forward Guidance.
+
+### No Foreplay— Only Forward Guidance.
 
 
-
-## No Foreplay. Only Forward Guidance.
 
 > I think Kafka was right when he said that for a modern, secular, non-religious man bureaucracy, ***state bureaucracy,*** is the only remaining contact with the dimension of the Divine.
 >
