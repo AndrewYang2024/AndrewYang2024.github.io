@@ -28,14 +28,14 @@ From its conception, this parallel justice system was [plagued with problems](ht
 >
 > {% cite 'Wesley Yang' '[America’s New Sex Bureaucracy](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy)' '' %}
 
-The feminist law professors {% sidenote 'mn-id-1' 'Janet Halley, Jeannie Suk Gersen, Elizabeth Bartholet, and Nancy Gertner.' %} who spoke out against this new sex bureaucracy also noted that it went well beyond addressing perceived misconduct to also policing normal sexual conduct.
+The feminist law professors{% sidenote 'mn-id-1' 'Janet Halley, Jeannie Suk Gersen, Elizabeth Bartholet, and Nancy Gertner.' %} who spoke out against this new sex bureaucracy also noted that it went well beyond addressing perceived misconduct to also policing normal sexual conduct.
 
 > Yale University disclosed in its required 2013 ASR that its prevention program tells students that **consent is not enough:** ‘Hold out for enthusiasm. In general, it’s easy to tell if someone is enthusiastic about an encounter or not.‘ In complying with the prevention program disclosure requirement, and purporting to prevent nonconsensual sexual contact, Yale instructs students on enthusiastic sex. Students are told to ‘[c]ommunicate with [their] sexual and romantic partners,’ as ‘[o]pen discussion of desires and limits is a critical part of building a positive sexual culture.’ A positive sexual culture, open discussion of sexual desires, communication with romantic partners, and enthusiastic sex all seem like good sexual aspirations, though perhaps achieved by quite few. But these are not trainings about how to prevent sexual violence. **They are instructions on how to have ordinary (or extraordinary) sex, and they are produced and monitored by the sex bureaucracy.**
 > {% cite 'Jacob Gersen & Jeannie Suk' '[The Sex Bureaucracy,](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf)' '(California Law Review)' %}
 
 If the harm of sexual violence is so terrible, is it then acceptable to nudge behavior across the spectrum, even if it is normal, in the hopes that it may reduce violence at the margin? The degree to which college administrators should provide sex tips to young adults merits thoughtful discussion from both a legal and a personal liberties perspective. However, the more practical question, left unanswered by most writing on the subject, is to simply ask how effective all these policies were in actually changing behavior. Certainly the students who dealt with the tribunals firsthand would never forget their experiences, but they would only be a small minority. For the vast remainder of the student body, their only contact with the sex bureaucracy are emails reminding them to watch videos or review updated bulletins. While these effort set norms for appropriate behavior, these guidelines can only be enforced insofar as either partner obeys or reports the other for violating them. And as a psychological matter, can mere rules really reshape the nature of our desires—what we seek through sex that we would not freely admit to anyone except, perhaps, a search bar? 
 
-
+> Everything in the world is about sex, except sex. Sex is about power.
 
 ## No Foreplay— Only Forward Guidance.
 
@@ -46,7 +46,17 @@ If the harm of sexual violence is so terrible, is it then acceptable to nudge be
 > What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment. 
 > {% cite 'Slavoj Žižek' 'The Pervert’s Guide to Ideology' '' %}
 
-{% newthought 'There are two types of (explicit) financial regulation.' %} Rules with real-world consequences, those that set capital ratios for banks or punish insider trading for example, versus rules that only incur personal consequences when some ritualized disclosure, box-ticking, or paper-shuffling is not faithfully carried out. Like the soft and hard ends of the sex bureaucracy, these constitute the encroachment of the state, through the  **SEC** and **CFTC**,{% marginnote 'mn-id-1' 'Security and Exchanges Commission (**SEC**) & Commodity Futures Trading Commission (**CFTC**)' '' %} into everyday financial life.
+{% newthought 'There are two types of (explicit) financial regulation.' %}
+
+unwritten rules.
+
+Orwellian and Aldous Huxley. Brave New World. They never exist in isolation.
+
+These two systems exist very separate from each other
+
+
+
+ Rules with real-world consequences, those that set capital ratios for banks or punish insider trading for example, versus rules that only incur personal consequences when some ritualized disclosure, box-ticking, or paper-shuffling is not faithfully carried out. Like the soft and hard ends of the sex bureaucracy, these constitute the encroachment of the state, through the **SEC** and **CFTC**,{% marginnote 'mn-id-1' 'Security and Exchanges Commission (**SEC**) & Commodity Futures Trading Commission (**CFTC**)' '' %} into everyday financial life.
 
 Yet those agencies are far from the most powerful organization on campus. Not by a long shot.
 
@@ -54,15 +64,25 @@ The real—*divine*—financial bureaucracy are the prolific pornographers of th
 
 
 
+hybrid vehicle is onlyfans, active, is in name only, TAIL, liquidity mismatch
+
 And in that sense, it makes sense that they are not aformal extension of the state.
 
 Your typical Powell presser is formally similar.  
 
 
 
+illusion of value, trillion, can medium contain value 
+
+as long as liquidity exists cite cole
+
+transmuted, truly modern
+
+options markets is onlyfans, are derivatives
+
 It also goes by another name, the [transformation of capital markets into political utilities](https://www.epsilontheory.com/things-fall-apart-part-2/).
 
-
+pornographication is democraization
 
 charged with enforcing rules on both dubious and normal behavior, loom large on “campus life,” so to speak.
 
