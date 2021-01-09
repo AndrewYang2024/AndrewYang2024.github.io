@@ -80,7 +80,7 @@ p > a { @if $link-style == underline
     }
   }
 
-body { width: 90%;
+body { width: 85%;
        margin-left: auto;
        margin-right: auto;
        padding: 0% 7%;
@@ -120,6 +120,14 @@ h2:before {
   font-size: 2rem;
 }
 
+.full-width h2:before {
+
+ content:  none;
+ position: absolute;
+  left: -1.0em;
+  font-size: 2rem;
+}
+
 h3 { 
      font-family: $sans-font;
 	 color: $contrast-color;
@@ -132,6 +140,14 @@ h3 {
 
 h3:before {
  content:  "#";
+ font-style: normal;
+ position: absolute;
+  left: -1.35em;
+  font-size: 1.6rem;
+}
+
+.full-width h3:before {
+ content:  none;
  font-style: normal;
  position: absolute;
   left: -1.35em;
@@ -166,7 +182,7 @@ q {
 	 text-transform: uppercase;
 	 letter-spacing: 0.0rem;
      line-height: 0.984;
-	 width: 55%;
+	 width: 60%;
      padding-left: 0%;
      padding-right: 0%;
 	 quotes: "//" "//";}
@@ -175,7 +191,7 @@ blockquote {
 	border-top: 1px solid #ccc;
 	 margin-top: 3.68181818rem;
      margin-bottom: 3.68181818rem;
-	 width: 55%;
+	 width: 60%;
 	 border-bottom: 1px solid #ccc;
 }
 
@@ -206,7 +222,7 @@ font-family: $body-font;
 
 blockquote:after {
   content: " " attr(cite);
-  padding-left: 55%;
+  padding-left: 60%;
   border-bottom: 1px solid #ccc;
   font-size: 1.5rem;
   background: $bg-color;
@@ -302,9 +318,7 @@ th, td{ font-size: 1.2rem;
 /* Basic Layout stuff --*/
 
 article { position: relative;
-          padding: 1
-
-          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
+          padding: 1rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
@@ -320,7 +334,7 @@ ul { width: 45%;
 
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
-figure, figure img.maincolumn { max-width: 55%;
+figure, figure img.maincolumn { max-width: 60%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
 		 margin-top: 3em;
@@ -374,7 +388,7 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
-p, footer, div.table-wrapper, div.mathblock, div.highlight{ width: 55%; }
+p, footer, div.table-wrapper, div.mathblock, div.highlight{ width: 60%; }
 
 .footnotes{ margin-top: 4em;font-family: $quote-font;
 	font-weight: 400;
