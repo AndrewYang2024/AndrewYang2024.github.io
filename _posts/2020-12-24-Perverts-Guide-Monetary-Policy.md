@@ -14,13 +14,13 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 {% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Both jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, by young minds still pondering their place in the relational universe. But for those of us who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
 
-Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the example shown above), his intentional distortion isn‘t an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. 
+Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the example shown above), his intentional distortion isn’t an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. 
 
 Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the true appeal of pornography. It too offers a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—is exchanged for a standardized procedure providing a predictable payoff. 
 
 **The essence of pornography is thus, bureaucracy.**
 
-Consider humans who, in search of outlets for their desire, do not seek out other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database—a hub of pornography as it were—to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository and collect viewing data in order to structure future recommendations and content curation accordingly. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy.
+Consider humans who, in search of outlets for their desire, do not seek out other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database—a hub of pornography as it were—to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository, which collects viewing data in order to structure future recommendations and content curation accordingly. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy.
 
 {% newthought 'When we think of regulation,' %} we usually think about external bureaucracies that are imposed onto us. For example, the term **sex bureaucracy**, used in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of administrative organizations designed to police sexual misconduct on college campuses. These structures emerged after 2011 in response to a Dear Colleague Letter issuing new federal guidelines on Title IX concerning sex discrimination that expanded the obligations of schools to proactively root out misconduct. This updated guidance, coinciding with (completely correct!) social pressure to reduce sexual harassment and violence, served as the basis of a system of tribunals to adjudicate sexual allegations.
 
@@ -39,9 +39,11 @@ If the harm of sexual violence is so terrible, is it then acceptable to nudge be
 
 > Everything in the world is about sex, except sex. Sex is about power.
 
-{% newthought %}
+{% newthought It is perhaps, %} that one of the reasons we need a robust, sex bureaucracy is to regulate the destructive notions we acquire through pornography. But this is less a contradiction than it appears, and more a familiar pattern about the nature of regulation in difficult to regulate sectors of the libidinal economy.
 
 Orwellian and Aldous Huxley. Brave New World. They never exist in isolation.
+
+and they don’t quite feel that different eother.
 
 hard and soft ends, clumsy, brutal
 
