@@ -12,30 +12,58 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 {% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
 
-{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, as a young mind ponders its place in the relational universe. But for those who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
+{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Both jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, by young minds still pondering their place in the relational universe. But for those of us who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
 
-Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the one shown above), his intentional distortion should never be seen as an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the true appeal of pornography. It too offers a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—is exchanged for a standardized procedure providing a predictable payoff. 
+Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the example shown above), his intentional distortion isn‘t an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. 
+
+Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the true appeal of pornography. It too offers a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—is exchanged for a standardized procedure providing a predictable payoff. 
 
 **The essence of pornography is thus, bureaucracy.**
 
-Consider humans who, in search of outlets for their desire, seek not other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database, a hub of pornography as it were, to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy that collects viewing data in order to structure future recommendations and content curation accordingly.
+Consider humans who, in search of outlets for their desire, do not seek out other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database—a hub of pornography as it were—to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository and collect viewing data in order to structure future recommendations and content curation accordingly. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy.
 
-{% newthought 'When we think of regulation,' %} we usually think about external bureaucracies that are imposed onto us. For example, the term **sex bureaucracy**, as used in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, explicitly refers to the ecosystem of administrative organizations designed to police sexual misconduct on college campuses. These structures emerged after 2011 in response to a Dear Colleague Letter issuing new federal guidelines on Title IX concerning sex discrimination that expanded the obligations of schools to proactively root out misconduct. This updated guidance, in conjunction with (completely correct!) social pressure to reduce sexual harassment and violence, served as the basis of a system of tribunals to adjudicate sexual allegations.
+{% newthought 'When we think of regulation,' %} we usually think about external bureaucracies that are imposed onto us. For example, the term **sex bureaucracy**, used in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of administrative organizations designed to police sexual misconduct on college campuses. These structures emerged after 2011 in response to a Dear Colleague Letter issuing new federal guidelines on Title IX concerning sex discrimination that expanded the obligations of schools to proactively root out misconduct. This updated guidance, coinciding with (completely correct!) social pressure to reduce sexual harassment and violence, served as the basis of a system of tribunals to adjudicate sexual allegations.
 
 From its conception, this parallel justice system was [plagued with problems](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy). It adopted bizarre standards and denied due process to those accused, which eventually led to lawsuits against schools filed through the actual legal system.
 
 > It required investigators to start by believing accusers (rather than starting from a place of impartial neutrality), instructed them against using a “reasonable person” test to constrain their judgment of whether sexual conduct regarded as unwelcome constitutes harassment or assault, and required them to reach a finding of wrongdoing if they felt confidence that misconduct had occurred greater than **50+1 percent**. 
 >
-> {% cite 'Wesley Yang' '[America’s New Sex Bureaucracy](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy)' '' %}
+> {% cite 'Wesley Yang' '[America’s New Sex Bureaucracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2750143)' '' %}
 
 The feminist law professors{% sidenote 'mn-id-1' 'Janet Halley, Jeannie Suk Gersen, Elizabeth Bartholet, and Nancy Gertner.' %} who spoke out against this new sex bureaucracy also noted that it went well beyond addressing perceived misconduct to also policing normal sexual conduct.
 
 > Yale University disclosed in its required 2013 ASR that its prevention program tells students that **consent is not enough:** ‘Hold out for enthusiasm. In general, it’s easy to tell if someone is enthusiastic about an encounter or not.‘ In complying with the prevention program disclosure requirement, and purporting to prevent nonconsensual sexual contact, Yale instructs students on enthusiastic sex. Students are told to ‘[c]ommunicate with [their] sexual and romantic partners,’ as ‘[o]pen discussion of desires and limits is a critical part of building a positive sexual culture.’ A positive sexual culture, open discussion of sexual desires, communication with romantic partners, and enthusiastic sex all seem like good sexual aspirations, though perhaps achieved by quite few. But these are not trainings about how to prevent sexual violence. **They are instructions on how to have ordinary (or extraordinary) sex, and they are produced and monitored by the sex bureaucracy.**
-> {% cite 'Jacob Gersen & Jeannie Suk' '[The Sex Bureaucracy,](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf)' '(California Law Review)' %}
+> {% cite 'Jacob Gersen & Jeannie Suk' '[The Sex Bureaucracy,](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2750143)' '(California Law Review)' %}
 
-If the harm of sexual violence is so terrible, is it then acceptable to nudge behavior across the spectrum, even if it is normal, in the hopes that it may reduce violence at the margin? The degree to which college administrators should provide sex tips to young adults merits thoughtful discussion from both a legal and a personal liberties perspective. However, the more practical question, left unanswered by most writing on the subject, is to simply ask how effective all these policies were in actually changing behavior. Certainly the students who dealt with the tribunals firsthand would never forget their experiences, but they would only be a small minority. For the vast remainder of the student body, their only contact with the sex bureaucracy are emails reminding them to watch videos or review updated bulletins. While these effort set norms for appropriate behavior, these guidelines can only be enforced insofar as either partner obeys or reports the other for violating them. And as a psychological matter, can mere rules really reshape the nature of our desires—what we seek through sex that we would not freely admit to anyone except, perhaps, a search bar? 
+If the harm of sexual violence is so terrible, is it then acceptable to nudge behavior across the spectrum, even if it is normal, in the hopes that it may reduce violence at the margin? The degree to which college administrators should provide sex tips to young adults merits thoughtful discussion from both a legal and a personal liberties perspective. However, the more practical question, left unanswered by most writing on the subject, is to simply ask how effective all these policies were in actually changing behavior. Certainly the students who dealt with the tribunals firsthand would never forget their experiences, but they would only be a small minority. For the remainder of the student body, their only direct contact with the sex bureaucracy would be emails reminding them to watch videos or review updated bulletins. While these efforts can set norms for appropriate behavior, their guidelines can really only be enforced through the students themselves, by obeying or reporting their partners for non-compliance. And as a psychological matter, can mere rules really reshape the nature of our desires—what we seek through sex that we would not freely admit to anyone, except perhaps a search bar? 
 
 > Everything in the world is about sex, except sex. Sex is about power.
+
+{% newthought %}
+
+Orwellian and Aldous Huxley. Brave New World. They never exist in isolation.
+
+hard and soft ends, clumsy, brutal
+
+hard end simultaneously feels brutal but also clumsy
+
+But taken together, is a system’s fumbling attempt to restrain the excesses generated by its other half.
+
+
+
+if we can veer off into fantasy
+
+the norms that were isntilled in us via pornography.
+
+And certaintly in our era, the Brave New World.
+
+This is all very interesting.
+
+
+
+But what does a … have anything to do with monetary policy?
+
+
 
 ## No Foreplay— Only Forward Guidance.
 
@@ -50,7 +78,7 @@ If the harm of sexual violence is so terrible, is it then acceptable to nudge be
 
 unwritten rules.
 
-Orwellian and Aldous Huxley. Brave New World. They never exist in isolation.
+
 
 These two systems exist very separate from each other
 
@@ -69,6 +97,44 @@ hybrid vehicle is onlyfans, active, is in name only, TAIL, liquidity mismatch
 And in that sense, it makes sense that they are not aformal extension of the state.
 
 Your typical Powell presser is formally similar.  
+
+options market is massive 
+
+ending, if we 
+
+
+
+
+
+There is no hope.
+
+Right now, there is no alternative. Rather the alternative exists. But it cannot be imagined.
+
+
+
+We are in the Rumsfeld’s missing missing quadrant of unknown knowns.
+
+
+
+And if we can return to the beginning, to our original metaphor. What lets us simultaneously escape the deadlock of pornography and the sex bureaucracy.
+
+And we find it is not to isolate ourselves from the world but to sink into it. To reject the artificial relations.
+
+The sex bureaucracy, formal or informal always requires our participation. Whether our own indulgence in it, or our partner’s adherence.
+
+Mutual Emancipation
+
+And we realize, at at the end of the day.
+
+The emancipation of human.
+
+Comrades, to the barricades!
+
+return to fundamental. The Other. truly subversive
+
+And I will explore how this may.
+
+
 
 
 
@@ -90,11 +156,15 @@ charged with enforcing rules on both dubious and normal behavior, loom large on 
 
 So formally, it is not so different from what we discussed above.
 
-
+https://phenomenalworld.org/analysis/deflation-inflation
 
 These direct burdens are the signs of finance’s external bureaucracy, which mirror, respectively, the adjudication process, which I never encountered as a student, and the mandatory online trainings of the college sex bureaucracy.
 
 If I could describe OnlyFans
+
+hybrid ETFs, return of active management.
+
+there is a loss of innocence, alpha, doesnt trade
 
 “Pornography with a human face,” which can be ambiguously read in either a cynical or an earnest way. It’s this fundamental quantum duality to it.
 
