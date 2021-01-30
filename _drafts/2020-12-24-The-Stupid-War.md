@@ -2,7 +2,7 @@
 layout: post
 excerpt: ' “What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment.” '
 
-title:  The Pervert’s Guide to Monetary Policy
+title:  The Stupid War
 date:   2020-12-24 00:00:00
 categories: Essay
 tags: Fed
@@ -10,25 +10,26 @@ picid: "a002"
 tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 ---
 
+
+
+> ‘You know, you never beat us on the battlefield,’ I told my North Vietnamese counterpart during negotiations in Hanoi a week before the fall of Saigon. He pondered that remark a moment and then replied, ‘That may be so, but it is also irrelevant.’
+>
+> {% cite 'General Frederick C. Weyand' '[Interview from Vietnam Magazine](https://www.historynet.com/interview-with-general-frederick-c-weyand-about-the-american-troops-who-fought-in-the-vietnam-war.htm)' '(1998)' %}
+
+
+
+
+> We can stay retarded longer than they can stay solvent.
+>
+> {% cite 'Anonymous' '[r/WallStreetBets](https://www.reddit.com/r/wallstreetbets/)' '' %}
+
+
+
+{% newthought 'Sometimes you encounter something so mindblowingly dumb' %} that you cannot help but question your sanity. 
+
+
 {% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
 
-{% newthought 'To an adolescent,' %} pornography first appears as a substitute for sex—a digital e-cig to the analog cigarette. Both jarring and filmed at uncomfortable angles, smut is the bootlegged copy of the “real deal” denied. It is enjoyed secretly, in equal parts of excitement and disappointment, by young minds still pondering their place in the relational universe. But for those of us who have experienced both, even this bootlegged promise fails to hold. Pornography is not sex. Nor has it ever pretended to be, except as a half-hearted parody.
-
-Yet to dismiss pornography as a failed simulation is to miss the point. Whether or not one is disgusted or pleased by Picasso’s mutilation of form (I’m partial to the example shown above), his intentional distortion isn’t an inferior imitation of some original female figure. The sacrifice of realism is deliberate: In return for the loss of resemblance, the painter acquires something exciting. 
-
-Similarly, it is only through disillusionment—the realization of the fundamental difference between smut and sex—that we understand the true appeal of pornography. It too offers a trade, wherein an experience whose pleasure derives intrinsically from imagination and risk—from intimacy and vulnerability—is exchanged for a standardized procedure providing a predictable payoff. 
-
-**The essence of pornography is thus, bureaucracy.**
-
-Consider humans who, in search of outlets for their desire, do not seek out other humans but instead schedule private appointments in front of specialized terminals. Positioned before screens, they access a centralized database—a hub of pornography as it were—to browse for the appropriate files to fulfill their need. Files that have been prepared and indexed by the network of anonymous, often entirely faceless, functionaries who contribute to this repository, which collects viewing data in order to structure future recommendations and content curation accordingly. In these interactions, the role of the intimate companion is replaced by the role of an impersonal, decentralized sex bureaucracy.
-
-{% newthought 'When we think of regulation,' %} we usually think about external bureaucracies that are imposed onto us. For example, the term **sex bureaucracy**, used in a [California Law Review article](https://poseidon01.ssrn.com/delivery.php?ID=457081120069123064122097002016120119000082066008011028071110115102083078094012110071029048028008114049015107109064112022108066040008075040031065111030068109118093051081091069069024065125070103019118107019084104126079119081005122024069125024004008004&EXT=pdf) of the same name, refers to the ecosystem of administrative organizations designed to police sexual misconduct on college campuses. These structures emerged after 2011 in response to a Dear Colleague Letter issuing new federal guidelines on Title IX concerning sex discrimination that expanded the obligations of schools to proactively root out misconduct. This updated guidance, coinciding with (completely correct!) social pressure to reduce sexual harassment and violence, served as the basis of a system of tribunals to adjudicate sexual allegations.
-
-From its conception, this parallel justice system was [plagued with problems](https://www.tabletmag.com/sections/arts-letters/articles/americas-new-sex-bureaucracy). It adopted bizarre standards and denied due process to those accused, which eventually led to lawsuits against schools filed through the actual legal system.
-
-> It required investigators to start by believing accusers (rather than starting from a place of impartial neutrality), instructed them against using a “reasonable person” test to constrain their judgment of whether sexual conduct regarded as unwelcome constitutes harassment or assault, and required them to reach a finding of wrongdoing if they felt confidence that misconduct had occurred greater than **50+1 percent**. 
->
-> {% cite 'Wesley Yang' '[America’s New Sex Bureaucracy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2750143)' '' %}
 
 The feminist law professors{% sidenote 'mn-id-1' 'Janet Halley, Jeannie Suk Gersen, Elizabeth Bartholet, and Nancy Gertner.' %} who spoke out against this new sex bureaucracy also noted that it went well beyond addressing perceived misconduct to also policing normal sexual conduct.
 
