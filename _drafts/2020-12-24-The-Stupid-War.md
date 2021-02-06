@@ -23,27 +23,65 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 {% newthought 'FEBRUARY 27, 1968' %}
 
-“For it seems now more certain than ever, that the bloody experience of Vietnam is to end in a stalemate.”
+“If I’ve lost Cronkite, I’ve lost Middle America,” President Lyndon Johnson remarked after watching the night’s CBS Evening News broadcast.
 
-Vast swathes of American society fell under the spell of those words. Few were spared, even at the highest level.
+Like many Americans, Johnson had been regularly tuning in to the First Television War, then in its latest season: the Tet Offensive. The offensive marked a departure from the interminable guerrilla warfare that had plagued American GIs since their involvement in what was recently French Indochina. The series of Communist attacks on South Vietnamese cities and military bases had come out of seemingly nowhere, taking the US military by surprise and jeopardizing Johnson’s chances of a second term. As if that weren’t enough, Walter Cronkite, the most authoritative newsman of the time, had just broadcast his doubts about the whole affair, decisively ending public support for the war.
 
-“If I’ve lost Cronkite, I’ve lost Middle America,” President Lyndon Johnson had grumbled after watching the CBS Evening News broadcast, accepting his future as a one-term president overseeing an unwinnable war.
+The idea of a “Cronkite Moment” is too good to pass up—Cronkite DESTROYS Johnson’s War with FACTS and LOGIC!—a self-congratulatory account of the power of media delivered by one of its own. But Johnson was not sitting in front of his television that night. He was celebrating the birthday of his ally, Governor John Connally. Nor did Cronkite say anything in his measured three-minute closing statement that was not already mentioned in previous reports.  {% marginnote 'mn-id-1' '[W. Joseph Campbell on the myth of the Cronkite Moment](https://mediamythalert.com/category/cronkite-moment/)' '' %} 
 
-And if it weren’t so, Walter Cronkite’s voice would make it so.
+>  For it seems now more certain than ever, that the bloody experience of Vietnam is to end in a stalemate.
+>
+> …
+>
+> To say that we are closer to victory today is to believe, in the face of the evidence, the optimists who have been wrong in the past. To suggest we are on the edge of defeat is to yield to unreasonable pessimism. To say that we are mired in stalemate seems the only realistic, yet unsatisfactory, conclusion.
+>
+> {% cite 'Walter Cronkite' '[CBS Evening News](https://www.humanitiestexas.org/sites/default/files/teacher-institute/suri_cronkite_nixon.pdf) ' '(February 27, 1968)' %}
 
-While it’s debatable whether Johnson actually succumbed to a Cronkite Moment—the quote is likely apocryphal—there was a definite shift in the tone of the coverage that followed. A few nights later, the anchor Frank McGee would boldly announce on ABC, “the war is being lost.”
+Suggestions of a stalemate had appeared in the press months before the first shots of the Tet Offensive were fired, and public opinion was souring even prior to late February. The Cronkite Moment, as we collectively remember it, never happened.
 
-If you were an astute (and contrarian) military observer at the time, you might have wondered why the American media were doing the work of North Vietnamese propagandists for them. As desperate as the footage coming out of the cities of Saigon, Huế, and Khe Sanh looked, the Allied forces stationed in South Vietnam were fully capable of absorbing the renewed attack of the North Vietnamese army and its guerrilla allies, the Viet Cong. 
+However, there was a moment that we collectively forgot about, which did happen two weeks later. 
 
-The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin and yielded to ample conventional firepower. 
+>  The war is being lost by the administration’s definition.
+>
+> {% cite 'Frank McGee' 'NBC News' '(March 10, 1968)' %}
 
-The dubious premise of the offensive was to spark a popular uprising against the Americans. What resulted was nothing short of the virtual annihilation the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. Even before their exit from the scene, the Viet Cong endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
+This was the bold media condemnation of the war that we imagined Cronkite’s address to be, except delivered by a rival news network. That we remember a Cronkite but not a McGee Moment, is, in my opinion, the definitive proof that *some* Cronkite Moment actually occurred, just not in the way we recalled.
 
-It would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault that Allied forces were well-equipped to deal with. That the ongoing Tet Offensive was being cited as evidence of “losing the war”—a lazy and convenient narrative—would have been beyond aggravating for you.
+{% newthought 'If you were an astute, pro-war observer at the time, ' %} you may have wondered why the American media were doing the work of North Vietnamese propagandists for them. As bleak as the footage from Saigon, Huế, and Khe Sanh looked, the Allied forces stationed in South Vietnam were fully capable of absorbing the renewed attack of the North Vietnamese army and its guerrilla allies, the Viet Cong.
 
-*The media don’t know what the \*\*\*\* they are talking about*, you seethe, seeing the decisive military victory on the horizon.
+The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin. The whole thing reeked of desperation. The dubious premise of the offensive was to spark a popular uprising against the American-backed South Vietnamese regime. What resulted was the virtual annihilation of the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. And during the fighting, the Viet Cong endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
 
-Yet the lazy narrative turned out to be the correct one. Let me be careful here. I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that magically altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the military outcome of the Tet Offensive—for the American public to realize a deeper truth: The Vietnam War, as it was sold the public, was always an unwinnable conflict sustained by official lies about the true cost of war. This is not my own historicizing. Every history textbook today unanimously agrees that the Tet Offensive was a turning point, not for but against the Americans. 
+Even as early as February, it would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault against ample Allied firepower. That the footage of South Vietnamese positions being overrun was being cited as evidence of “losing the war”—a lazy and convenient narrative—would have been beyond aggravating for you.
+
+*The media don’t know what they are talking about*, you seethe. You see a decisive military victory—not looming defeat—on the horizon.
+
+Yet even with all the data and analysis on your side, there was no way you could explain how, *well actually*, the Tet Offensive was a positive turning point amid an indecisive slog of attrition and guerrilla action, without somehow admitting that the Johnson administration was lying through its teeth about the progress of the war. If the military planners were to be believed, the earlier strategy of attrition should have rendered a Tet Offensive-like operation impossible to begin with.
+
+Here we can appreciate the power of Cronkite’s words. In his speech, he offers to accept the administration’s judgment on military affairs:
+
+> They may be right, that Hanoi's winter-spring offensive has been forced by the Communist realization that they could not win the longer war of attrition, and that the Communists hope that any success in the offensive will improve their position for eventual negotiations.
+
+> On the off chance that military and political analysts are right, in the next few months we must test the enemy's intentions, in case this is indeed his last big gasp before negotiations.
+
+and concludes that even if they are right, they are still wrong. 
+
+> But it is increasingly clear to this reporter that the only rational way out then will be to negotiate, not as victors, but as an honorable people who lived up to their pledge to defend democracy, and did the best they could.
+
+Partially scripted and partially thinking out loud, Cronkite’s role was to act out a reasonable observer’s sober reaction to the events around him. Within the theater of television, he did not say anything the public did not already know. Rather, he gave voice to their private doubts (reflected in public opinion polling), which they did not vocally express—converting private knowledge into common knowledge. Without calling Johnson a liar, he made it no longer reasonable to accept Johnson’s lies or to insist on further fighting over negotiation. That is why Cronkite’s measured response is better remembered and more transgressive than McGee’s far bolder statement against the war. McGee was simply moving into the opening left by the man before him.
+
+I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. Thus, the Tet Offensive is remembered in every history textbook as a clear American military victory, but also a turning point against the Americans, even though the war would not officially end until seven years later. 
+
+Irrespective of how strong the US  military was, the war was doomed from the beginning once the Administration lied about it. realized this truth of this lie.
+
+After the Cronkite, 
+
+vsersus McGee, the improtant part wasn’t oging against the Administration but to first reasonably plan th
+
+they felt this way, whether or not they imintepretede cronkite to say the war was lost
+
+
+
+the war didn’t end until 1975
 
 The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much. In those cases, the truth is better reflected in propaganda than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements narrative are extremely divorced from reality.
 
