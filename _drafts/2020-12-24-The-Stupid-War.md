@@ -6,7 +6,7 @@ title:  The Stupid War
 date:   2020-12-24 00:00:00
 categories: Essay
 tags: Fed
-picid: "a002"
+picid: "a003"
 tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 ---
 
@@ -17,15 +17,383 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 > {% cite 'General Frederick C. Weyand' '[Interview from Vietnam Magazine](https://www.historynet.com/interview-with-general-frederick-c-weyand-about-the-american-troops-who-fought-in-the-vietnam-war.htm)' '(1998)' %}
 
 
-
-
-> We can stay retarded longer than they can stay solvent.
+> We can stay ret\*rded longer than they can stay solvent.
 >
-> {% cite 'Anonymous' '[r/WallStreetBets](https://www.reddit.com/r/wallstreetbets/)' '' %}
+> {% cite 'blunt_person' '[r/WallStreetBets](https://www.reddit.com/r/wallstreetbets/)' '' %}
+
+{% newthought 'FEBRUARY 27, 1968' %}
+
+“For it seems now more certain than ever, that the bloody experience of Vietnam is to end in a stalemate.”
+
+Vast swathes of American society fell under the spell of those words. Few were spared, even at the highest level.
+
+“If I’ve lost Cronkite, I’ve lost Middle America,” President Lyndon Johnson had grumbled after watching the CBS Evening News broadcast, accepting his future as a one-term president overseeing an unwinnable war.
+
+And if it weren’t so, Walter Cronkite’s voice would make it so.
+
+While it’s debatable whether Johnson actually succumbed to a Cronkite Moment—the quote is likely apocryphal—there was a definite shift in the tone of the coverage that followed. A few nights later, the anchor Frank McGee would boldly announce on ABC, “the war is being lost.”
+
+If you were an astute (and contrarian) military observer at the time, you might have wondered why the American media were doing the work of North Vietnamese propagandists for them. As desperate as the footage coming out of the cities of Saigon, Huế, and Khe Sanh looked, the Allied forces stationed in South Vietnam were fully capable of absorbing the renewed attack of the North Vietnamese army and its guerrilla allies, the Viet Cong. 
+
+The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin and yielded to ample conventional firepower. 
+
+The dubious premise of the offensive was to spark a popular uprising against the Americans. What resulted was nothing short of the virtual annihilation the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. Even before their exit from the scene, the Viet Cong endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
+
+It would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault that Allied forces were well-equipped to deal with. That the ongoing Tet Offensive was being cited as evidence of “losing the war”—a lazy and convenient narrative—would have been beyond aggravating for you.
+
+*The media don’t know what the \*\*\*\* they are talking about*, you seethe, seeing the decisive military victory on the horizon.
+
+Yet the lazy narrative turned out to be the correct one. Let me be careful here. I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that magically altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the military outcome of the Tet Offensive—for the American public to realize a deeper truth: The Vietnam War, as it was sold the public, was always an unwinnable conflict sustained by official lies about the true cost of war. This is not my own historicizing. Every history textbook today unanimously agrees that the Tet Offensive was a turning point, not for but against the Americans. 
+
+The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much. In those cases, the truth is better reflected in propaganda than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements narrative are extremely divorced from reality.
+
+And sometimes, the propaganda is mindblowingly—almost intentionally—stupid. 
+
+<br>
+
+***
+
+you could not explain how the Tet Offensive was a military victory because the Viet Cong were destroyed, which is proof against the myth of all Vietnamese soldiers, 
+
+ without admitting that well actually, the only conventional arms.
+
+Well actually, not this guerrilla
+
+it’s actually professionally equipped and ,
+
+in fact good news, for them to be brought out in the open rather than the quagmire of interminable guerrilla warfare.
+
+{% newthought 'JANUARY 28, 2021' %}
+
+{% marginfigure 'mf-id-1' 'assets/img/a003.png'  %} 
+
+{% newthought 'The populist framing' %} of the GameStop saga is *prima facie* ridiculous. In the folk retelling of the story, a group of small investors  faced off against malevolent short-selling hedge funds to defend a vulnerable retailer. Operating in the battlespace of capital markets, the smallholders nearly won through sheer ingenuity (buying call options to create a gamma squeeze) and persistence (“diamond hands”). When victory—the short squeeze—was almost in hand, the hedges used their connections to convince the brokers to shut the smallholders down by restricting stock and options purchases, promptly sending GameStop’s stock price into a downward spiral.
+
+This folktale is wrong in at least two major ways.
+
+1) There was professional money both short and long GameStop.
+
+2) Robinhood’s restrictions on stock and options trades were an emergency measure to manage its shortfall in collateral due to incompetent risk management rather than anything nefarious. S
 
 
 
-{% newthought 'Sometimes you encounter something so mindblowingly dumb' %} that you cannot help but question your sanity. 
+For the sake of argument, we understand it to be a plumbing issue. Really just about settlements. I am not sure that that is anything better.
+
+mockery of capital markets, but an especially bitter truth that we choose to pretend not to believe in.
+
+There are no real heroes in this story, just retail bagholders awkwardly caught in the middle of a proxy war between dueling pools of capital. Any honest accounting of the GameStop must acknowledge the dubious premise of this David versus Goliath story.
+
+understand that it is rigged, and it;s precarious how society sits upon a layer where retirement upon an index of large-cap stocks at companies whose bottom lines  exist in direct opposition to its retail shareholders, bandied about by cosmological forces of options flows that most people do not understand.
+
+there is nothing particularly different between that.
+
+Vanguard was the first wave of the retail insurrection. supercharged bushido version of buy-andhold. The game is rigged, but if you have a bottomless appetite for holding through thick and thin, you will still get something are on the same side of Capital. And I think, a genuinely positive development. But it also brought retail within the fold.
+
+The name Vanguard was literally this meme about resistance.
+
+tempting to write it off as a low-rates
+
+the kind of speculation that GME 
+
+obviously a low-rate environments, but GME is endogenous
+
+a miniature entrepreneur, which is narrowly interpreted to mean speculator, rather than a community figure
+
+roaring kitty is genuinely inspiring and a fun journey, a community based on this
+
+
+
+In a system that operates under unwritten rules governing the exercise of financial power, being too faithful to the written rules constitutes a form of subversion. Had they been more faithless, the bubble may have collapsed on itself without a liquidity issue. the hedgies might not have pressed their bets as hard, without strong enough bagholders.
+
+Yet it is the utter meaningless (and nihilism) from which WallStreetBets draws meaning.
+
+Yet, I argue that the populist framing is the *true* saga of GameStop that will persist, if GameStop is to be remembered at all. 
+
+I first noticed this narrative around Wednesday night.
+
+
+
+roaring kitty might testify
+
+
+
+There is a belief, that Wall Street has an advntage, but a side bet. If you are counting on  market-makers to delta-hedge, you also understnad they are making money running the casino.
+
+WSBers are, by their own admission, extremely stupid, but they are not dumb.
+
+After being front-runned, there will be something left for you.
+
+all th
+
+The vietname proxy war, (not unlike the Vietnam War)
+
+As if you won a game, but then it is programmed.
+
+Seeing it happen was very eye-opening.
+
+
+
+whether or not they intended to over-identify with the system (cite zizek), the
+
+was a genuine threat and hurt actuall money. in both cases the anti-establishment message was co-opted.
+
+It doesn’tmatter if you’re clever if you have a CFA or know gamma squeezes), you will not win this game.
+
+It is true that Robinhood was due to regulatory VaR risk rules for posting collateral, but isnt this true? but that was just the mechanism for us to realize that this was always a stupid game with stupid prizes.
+
+WSB had tried to game the system from within the system. In doing so, they made a bet they could not collect on. And in doing so, forced the system to reveal itself, when it would invariably hang them out to dry.
+
+this theme of meaningless runs extremely deep. this bet is meaningless precisely
+
+order flow is the most benign ways
+
+I don’t cry over money. part of it because I’ve lived a comfortably lower middle class,
+
+meaningless to express that which cannot be expressed.
+
+
+
+they created a message.
+
+Rather to me, it felt like all the technicals, the DTCC, the gamma squeeze were all just technical elements to put on a play, which was to express a deep pain about the state of the world.
+
+they should have never allowed war footage on a tv screen
+
+a bet they could not collect on
+
+exposing the lie that retail can latch onto it, but those booomer 401Ks, you can own all the healthcare stocks you want, shortage, die in line en route to the hospital
+
+the threat to ctredibility
+
+this market is strong precisely because no one believes in it.
+
+CNBC.
+
+barbarians had overrun the citadel and massacred Melvin Capital.
+
+
+
+populism within capital markets rather than outside of it. What if we collectively owned an enterprise and cared about it, rather than just extracting from it.
+
+AOC seized on it. She has good instincts
+
+can we do anything about it collectively,
+
+nascent form.
+
+
+
+I don’t particularly care. So too, was the Vietnam War a proxy conflict between the ideological poles of the First and Second World who couldn’t care less about the Vietnamese lives being ground up on both sides.
+
+
+
+
+
+Nevertheless, to understand it only as a proxy war and not understand its dimensions as a war of liberation is to be intentionally myopic.
+
+
+
+
+
+
+
+
+
+It was a surprise attack, but no war was being lost here.
+
+
+
+
+
+beat re was never a real question
+
+, amid footage of Viet Cong and North Vietnamese soldiers over-running key positions during the Tet Offensive 1968. The North Vietnamese. 
+
+
+
+
+
+Which, if you were an astute military planner, would be endlessly frustrating.
+
+
+
+
+
+As history is always written by the media, the Cronkite Moment was probably apocryphal.
+
+The Tet Offensive was, without , a military victory.
+
+ 
+
+Even to listen today Walter , as he reacted live to the rapidl
+
+. 
+
+you may have been more certain than ever that Walter Cronkite had no idea what he was talking about.
+
+was premature, and neither
+
+
+
+ “For it seems now more certain than ever that the bloody experience of Vietnam is to end in a stalemate.”
+
+It may have seemed more certain than ever that the man was completely off the mark.
+
+
+
+
+
+letting retail in was a strategic mistake.
+
+silver
+
+{% newthought 'The truth distracts' %} is whispered in a lie.
+
+win stupid games, to get stupid prizes.
+
+realized impact of history is determined, more than we’d like to admit, about snatching victory from the jaws of mind-blowing stupidity. 
+
+are the most brilliantly stupid.
+
+a negative carry world
+
+
+
+a disproportionate response
+
+https://twitter.com/NYPDCT/status/1355558716465152007
+
+Conversation
+NYPDCounterterrorism
+@NYPDCT
+The Stock Market has had an interesting week to say the least.  We are happy to report that the #Wallstreet Charging Bull is secure and continues to preside over Bowling Green for the foreseeable future.
+
+https://twitter.com/Comparativist/status/1340873279158960129
+
+https://www.npr.org/2021/01/27/961279048/reddit-users-vs-wall-street-giant-in-fight-over-gamestop-stock-value?t=1611913164433
+
+It is the story that becomes true, rather than the story that is true,
+
+
+
+I am not sure it is possible—without profanity and color—to convey how mindblowingly stupid the Wall Street Bets campaign to squeeze the shorts on GameStop without cracking a smile.
+
+
+
+clumsilt narrative.
+
+
+
+Sometimes you encounter something so mindblowingly dumb
+
+that you cannot help but question your sanity. 
+
+
+
+like bitcoing, wall street
+
+
+
+where do we fo from here, the least productive thing is to say raise rates. 
+
+
+
+
+
+Efficient Market Apotheosis, high est
+
+the utter shame
+
+in Gme capital was used to express something , the equity is a derivative
+
+there are things we say but are still surprised when it occurs
+
+disclosure
+
+harass hedgies, buying billboards, 
+
+crypto was the confused, distraction
+
+
+programmed part of the game. Um, they fanned retail, robinhood, autonomy,
+
+Gee, we didn;t program this level yet. Thanks for playing.
+
+I don't cry over money.
+
+we can stay so ret*rded
+
+who is the retard really
+
+Leverage, brokerage failures,
+
+this is the act, for which these was the theater.
+
+
+
+sanctity, pardon, sanctimony
+
+
+
+This is what breaks.
+
+The leftists in my feed know what this means.
+
+
+
+hopes and dreams,
+
+The GME squeeze is a self-immolative act, but it's not an effete act of rebellion. It's easy to either pigeonhole this as some technical plumbing story about brokerages and clearinghouses or a pump-and-dump, which are both "true" in some literal sense.
+
+But if the endgame means that GME is forcibly shut down through regulatory or institutional measures, the story meaningfully shifts.
+
+It's not that nefarious actors are scamming retail (they are but that's not the real point).
+
+It's that the system is so set up that whenever retail gets an edge, most of the edge is first front-runned away and then when retail tries to collect on the last morsel, they are shut out.
+
+
+As FinTwit residents, we all know this. But there is a symbolic importance in not just seeing it, but revealing it. Per your latest tweets, CNBC is dead in the water. 
+
+If capital markets are an extremely stupid way to expression disaffection with the system, that's kind of the point.
+
+This is the game we were told we were supposed to play. And so we will play it by the book to prove to you that you don't even believe in your own rules.
+
+That's a more subversive critique of capitalism than a standard leftist one. This narrative is going to stick and the damage to capital markets far exceeds the billions that shorts lost on GME.
+
+I'm soapboxing a little, because I surmise that you probably don't disagree that there is a potential narrative impact of this, still think the "sticking it to the man" is hilarious and patently ridiculous.
+
+
+
+WSB has two assets. 
+
+1) Iron Will
+2) The Willingness of Wall Street to cannibalize itself in too-clever-by-half metagame losses
+
+I really don't know if that's enough, but I think it's a fair fight now
+
+
+I think in the medium term, retail will lose. Retail day-trading and options trading is either going to be banned or prohibitively difficult.
+
+However, I in the longer term, there will be more mission-oriented companies that are literally unshortable.
+
+Because their investors will be invested with minimal expectation of short-term return. 
+
+And it's not a ZIRP-paradox chase for yield. It's more like a Patreon view of capital markets, where you genuinely try to change the world, and the capital returns is just a tangential thing that happens if it all works out.
+
+
+Wall St will try to cash in on this ESG trend, so what we are going to see is essentially a Patreon model with matching donations from rich ppl lol.
+
+If you convince rich ppl to keep plowing returns into money-losing green infrastructure that's just a stealth tax-funded Green New Deal
+
+If we are going to fix the problems we have, we need
+
+Ofc the value investors are going to squirm, but it's difficult to 
+
+the understanding that wall street is going to screw you, when the LRAD 
+
+
+
+​	
 
 
 {% maincolumn 'assets/img/a002.jpg'  'Pablo Picasso, 1909-10, *Figure dans un Fauteuil (Seated Nude, Femme nue assise)*, oil on canvas, 92.1 x 73 cm, Tate Modern, London' %} 
