@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' “What the impenetrable omnipotence of bureaucracy harbors is divine enjoyment.” '
+excerpt: ' “We can stay ret\*rded longer than they can stay solvent.” '
 
 title:  The Stupid War
 date:   2020-12-24 00:00:00
@@ -51,11 +51,11 @@ This was the bold media condemnation of the war that we imagined Cronkite’s ad
 
 The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin. The whole thing reeked of desperation. The dubious premise of the offensive was to spark a popular uprising against the American-backed South Vietnamese regime. What resulted was the virtual annihilation of the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. And during the fighting, the Viet Cong endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
 
-Even as early as February, it would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault against ample Allied firepower. That the footage of South Vietnamese positions being overrun was being cited as evidence of “losing the war”—a lazy and convenient narrative—would have been beyond aggravating for you.
+Even as early as February, it would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault against ample Allied firepower. That the footage of South Vietnamese positions being overrun was being cited as evidence of losing the war or negotiations being the only option—a lazy and convenient narrative—would have been beyond aggravating for you.
 
 *The media don’t know what they are talking about*, you seethe. You see a decisive military victory—not looming defeat—on the horizon.
 
-Yet even with all the data and analysis on your side, there was no way you could explain how, *well actually*, the Tet Offensive was a positive turning point amid an indecisive slog of attrition and guerrilla action, without somehow admitting that the Johnson administration was lying through its teeth about the progress of the war. If the military planners were to be believed, the earlier strategy of attrition should have rendered a Tet Offensive-like operation impossible to begin with.
+Yet even with all the data and analysis on your side, there was no way you could explain how, *well actually*, the Tet Offensive was a positive turning point amid an indecisive slog of attrition and guerrilla action, without somehow admitting that the Johnson administration was lying through its teeth about the progress of the war. If the military planners were to be believed, the earlier strategy of attrition should have rendered a Tet Offensive-like operation impossible to begin with. In making that argument, you would have lost.
 
 Here we can appreciate the power of Cronkite’s words. In his speech, he offers to accept the administration’s judgment on military affairs:
 
@@ -71,19 +71,7 @@ Partially scripted and partially thinking out loud, Cronkite’s role was to act
 
 I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. Thus, the Tet Offensive is remembered in every history textbook as a clear American military victory, but also a turning point against the Americans, even though the war would not officially end until seven years later. 
 
-Irrespective of how strong the US  military was, the war was doomed from the beginning once the Administration lied about it. realized this truth of this lie.
-
-After the Cronkite, 
-
-vsersus McGee, the improtant part wasn’t oging against the Administration but to first reasonably plan th
-
-they felt this way, whether or not they imintepretede cronkite to say the war was lost
-
-
-
-the war didn’t end until 1975
-
-The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much. In those cases, the truth is better reflected in propaganda than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements narrative are extremely divorced from reality.
+The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much, i.e., too quick to debunk “myths.” In those cases, the truth is better reflected in narrative than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements of the narrative are extremely divorced from reality.
 
 And sometimes, the propaganda is mindblowingly—almost intentionally—stupid. 
 
@@ -91,29 +79,37 @@ And sometimes, the propaganda is mindblowingly—almost intentionally—stupid.
 
 ***
 
-you could not explain how the Tet Offensive was a military victory because the Viet Cong were destroyed, which is proof against the myth of all Vietnamese soldiers, 
-
- without admitting that well actually, the only conventional arms.
-
-Well actually, not this guerrilla
-
-it’s actually professionally equipped and ,
-
-in fact good news, for them to be brought out in the open rather than the quagmire of interminable guerrilla warfare.
-
 {% newthought 'JANUARY 28, 2021' %}
 
 {% marginfigure 'mf-id-1' 'assets/img/a003.png'  %} 
 
-{% newthought 'The populist framing' %} of the GameStop saga is *prima facie* ridiculous. In the folk retelling of the story, a group of small investors  faced off against malevolent short-selling hedge funds to defend a vulnerable retailer. Operating in the battlespace of capital markets, the smallholders nearly won through sheer ingenuity (buying call options to create a gamma squeeze) and persistence (“diamond hands”). When victory—the short squeeze—was almost in hand, the hedges used their connections to convince the brokers to shut the smallholders down by restricting stock and options purchases, promptly sending GameStop’s stock price into a downward spiral.
+{% newthought 'Once upon a time,' %} a group of small investors stood against malevolent, short-selling hedge funds who were determined to crush a vulnerable retailer. Operating in the battlespace of capital markets, the guerrilla smallholders applied their ingenuity (buying call options to force a gamma squeeze) and persistence (“diamond hands”) to engineer a short squeeze in the stock price of the retailer to bankrupt the hedge funds. Victory was almost in hand, until the brokers suddenly restricted stock and options purchases, promptly sending the stock price into a downward spiral in order to protect the hedge funds. {% newthought 'The End.' %} 
+
+While the above populist framing of the GameStop saga makes for a good story, this folk retelling is also *prima facie* ridiculous. 
+
+**There isn’t a populist side.**
 
 This folktale is wrong in at least two major ways.
+
+**The brokers aren’t rigging the game.**
+
+As unfair as brokers suddenly not broker-ing looks, there is a technical plumbing issues about the process ofo “settlement.” There are arcane regulatory,
 
 1) There was professional money both short and long GameStop.
 
 2) Robinhood’s restrictions on stock and options trades were an emergency measure to manage its shortfall in collateral due to incompetent risk management rather than anything nefarious. S
 
+subsumed a speculative buble
 
+Well actually, the about plumbing.
+
+I dispute that characterization, but I am not sure if that
+
+Even if this account is technically correct.
+
+
+
+makes it more populist, not less so.
 
 For the sake of argument, we understand it to be a plumbing issue. Really just about settlements. I am not sure that that is anything better.
 
