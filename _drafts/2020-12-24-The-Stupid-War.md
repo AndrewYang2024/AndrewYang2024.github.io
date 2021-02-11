@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' “We can stay ret\*rded longer than they can stay solvent.” '
+excerpt: ' “We can stay ret*rded longer than they can stay solvent.” '
 
 title:  The Stupid War
 date:   2020-12-24 00:00:00
@@ -23,11 +23,9 @@ tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
 
 {% newthought 'FEBRUARY 27, 1968' %}
 
-“If I’ve lost Cronkite, I’ve lost Middle America,” President Lyndon Johnson remarked after watching the night’s CBS Evening News broadcast.
+“If I’ve lost Cronkite, I’ve lost Middle America,” President Lyndon Johnson was said to have remarked after watching the night’s CBS Evening News broadcast.
 
-Like many Americans, Johnson had been regularly tuning in to the First Television War, then in its latest season: the Tet Offensive. The offensive marked a departure from the interminable guerrilla warfare that had plagued American GIs since their involvement in what was recently French Indochina. The series of Communist attacks on South Vietnamese cities and military bases had come out of seemingly nowhere, taking the US military by surprise and jeopardizing Johnson’s chances of a second term. As if that weren’t enough, Walter Cronkite, the most authoritative newsman of the time, had just broadcast his doubts about the whole affair, decisively ending public support for the war.
-
-The idea of a “Cronkite Moment” is too good to pass up—Cronkite DESTROYS Johnson’s War with FACTS and LOGIC!—a self-congratulatory account of the power of media delivered by one of its own. But Johnson was not sitting in front of his television that night. He was celebrating the birthday of his ally, Governor John Connally. Nor did Cronkite say anything in his measured three-minute closing statement that was not already mentioned in previous reports.  {% marginnote 'mn-id-1' '[W. Joseph Campbell on the myth of the Cronkite Moment](https://mediamythalert.com/category/cronkite-moment/)' '' %} 
+Like many Americans, Johnson had been tuning in regularly to the First Television War, then in its latest season: the Tet Offensive. The offensive marked a departure from the interminable guerrilla warfare that had plagued American GIs since their involvement in what was once French Indochina. The series of Communist attacks on South Vietnamese cities and military bases had come out of seemingly nowhere, catching the US military off its guard and jeopardizing Johnson’s chances at a second term. As if that weren’t enough, the most authoritative newsman of the time,  Walter Cronkite, had just broadcast his doubts about the whole affair, decisively ending public support for the war.
 
 >  For it seems now more certain than ever, that the bloody experience of Vietnam is to end in a stalemate.
 >
@@ -37,7 +35,9 @@ The idea of a “Cronkite Moment” is too good to pass up—Cronkite DESTROYS J
 >
 > {% cite 'Walter Cronkite' '[CBS Evening News](https://www.humanitiestexas.org/sites/default/files/teacher-institute/suri_cronkite_nixon.pdf) ' '(February 27, 1968)' %}
 
-Suggestions of a stalemate had appeared in the press months before the first shots of the Tet Offensive were fired, and public opinion was souring even prior to late February. The Cronkite Moment, as we collectively remember it, never happened.
+ {% marginnote 'mn-id-1' '[W. Joseph Campbell on the myth of the Cronkite Moment](https://mediamythalert.com/category/cronkite-moment/)' '' %} 
+
+The idea of a *Cronkite Moment* is too good to pass up—Cronkite DESTROYS Johnson’s War with FACTS and LOGIC!—as a self-congratulatory account of the power of media delivered by one of its own. But Johnson was not sitting in front of his television that night. He was celebrating the birthday of his ally, Governor John Connally. Nor did Cronkite say anything in his three-minute closing statement that was not already mentioned in previous reports. Suggestions of a stalemate had appeared in the press months before the first shots of the Tet Offensive were fired, and public opinion was souring even prior to late February. The Cronkite Moment, as we collectively remember it, never happened.
 
 However, there was a moment that we collectively forgot about, which did happen two weeks later. 
 
@@ -45,31 +45,33 @@ However, there was a moment that we collectively forgot about, which did happen 
 >
 > {% cite 'Frank McGee' 'NBC News' '(March 10, 1968)' %}
 
-This was the bold media condemnation of the war that we imagined Cronkite’s address to be, except delivered by a rival news network. That we remember a Cronkite but not a McGee Moment, is, in my opinion, the definitive proof that *some* Cronkite Moment actually occurred, just not in the way we recalled.
+This was the bold media condemnation of the war that we imagined Cronkite’s address to be, except delivered by a rival news network. But it is this inconsistency in our collective memory—remembering a Cronkite but not a McGee Moment—that is, in my opinion, the definitive proof that some version of a Cronkite Moment truly occurred and recovers the essence of the myth.
 
-{% newthought 'If you were an astute, pro-war observer at the time, ' %} you may have wondered why the American media were doing the work of North Vietnamese propagandists for them. As bleak as the footage from Saigon, Huế, and Khe Sanh looked, the Allied forces stationed in South Vietnam were fully capable of absorbing the renewed attack of the North Vietnamese army and its guerrilla allies, the Viet Cong.
+{% newthought 'If you were an astute, pro-war observer at the time, ' %} you may have wondered why the American media were doing the work of North Vietnamese propagandists for them. As bleak as the footage from Saigon, Huế, and Khe Sanh looked, the Allied forces stationed in South Vietnam were fully capable of absorbing the renewed attack of the North Vietnamese army and its guerrilla allies, the Viet Cong. The commentary and the video failed to capture the true context of the situation.
 
-The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin. The whole thing reeked of desperation. The dubious premise of the offensive was to spark a popular uprising against the American-backed South Vietnamese regime. What resulted was the virtual annihilation of the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. And during the fighting, the Viet Cong endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
+The ambitious assault playing out on American television screens in early 1968—the first phase of the Tet Offensive—was stretched far too thin. The whole venture reeked of desperation. Contrary to the official narrative, even factions within the North Vietnamese leadership had their misgivings about the plan. The dubious premise of the offensive was to spark a popular uprising against the American-backed South Vietnamese regime. What resulted was the virtual annihilation of the Viet Cong, leaving the North Vietnamese Army to fight the remainder of the war mostly by itself. During the fighting, the Viet Cong also endeared no one to their cause with atrocities such as the Huế massacre, which eliminated 5–10% of the city’s population.
 
-Even as early as February, it would not have been difficult to predict that the hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault against ample Allied firepower. That the footage of South Vietnamese positions being overrun was being cited as evidence of losing the war or negotiations being the only option—a lazy and convenient narrative—would have been beyond aggravating for you.
+Even without knowing the intentions of the enemy, you could predict that a hitherto successful guerrilla force would immolate itself once it embarked on a conventional assault against ample Allied firepower simply based on a raw assessment of each sides’ capabilities. The non-guerrilla part would fare better but still be repulsed. That the footage of South Vietnamese positions being overrun was being cited as evidence of losing the war or negotiations being the only option—a lazy and convenient narrative in your opinion—would have been beyond aggravating for you.
 
-*The media don’t know what they are talking about*, you seethe. You see a decisive military victory—not looming defeat—on the horizon.
+You see a decisive military victory—not looming defeat—on the horizon.
 
-Yet even with all the data and analysis on your side, there was no way you could explain how, *well actually*, the Tet Offensive was a positive turning point amid an indecisive slog of attrition and guerrilla action, without somehow admitting that the Johnson administration was lying through its teeth about the progress of the war. If the military planners were to be believed, the earlier strategy of attrition should have rendered a Tet Offensive-like operation impossible to begin with. In making that argument, you would have lost.
+Yet even with facts and logic on your side, there was no way you could explain how, *well actually*, the Tet Offensive was a positive turning point amid the indecisive slog of attrition and guerrilla action, without somehow admitting that the Johnson administration was lying through its teeth about the progress of the war. If the military planners were to be believed, the previous years of attrition should have rendered a Tet Offensive-like operation impossible. 
 
-Here we can appreciate the power of Cronkite’s words. In his speech, he offers to accept the administration’s judgment on military affairs:
+Here we can appreciate the power of Cronkite’s words. In his three minutes, he offers to accept the administration’s judgment on military affairs.
 
 > They may be right, that Hanoi's winter-spring offensive has been forced by the Communist realization that they could not win the longer war of attrition, and that the Communists hope that any success in the offensive will improve their position for eventual negotiations.
 
 > On the off chance that military and political analysts are right, in the next few months we must test the enemy's intentions, in case this is indeed his last big gasp before negotiations.
 
-and concludes that even if they are right, they are still wrong. 
+And concludes that even if they are right, they are still wrong. 
 
 > But it is increasingly clear to this reporter that the only rational way out then will be to negotiate, not as victors, but as an honorable people who lived up to their pledge to defend democracy, and did the best they could.
 
-Partially scripted and partially thinking out loud, Cronkite’s role was to act out a reasonable observer’s sober reaction to the events around him. Within the theater of television, he did not say anything the public did not already know. Rather, he gave voice to their private doubts (reflected in public opinion polling), which they did not vocally express—converting private knowledge into common knowledge. Without calling Johnson a liar, he made it no longer reasonable to accept Johnson’s lies or to insist on further fighting over negotiation. That is why Cronkite’s measured response is better remembered and more transgressive than McGee’s far bolder statement against the war. McGee was simply moving into the opening left by the man before him.
+Partially scripted and partially thinking out loud, Cronkite’s role was to act out a reasonable observer’s sober reaction to the events around him. Within the theater of television, he did not say anything the public did not already know. Rather, he  was speaking for them. He gave voice to the private doubts they suspected were true (reflected in public opinion polling), and converted private knowledge into common knowledge. Without calling Johnson a liar, he made it no longer reasonable to accept Johnson’s lies or to insist on further fighting over negotiation. That is why Cronkite’s measured response is better remembered and more transgressive than McGee’s far bolder statement against the war. McGee was simply moving into the opening left by the man before him.
 
-I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. Thus, the Tet Offensive is remembered in every history textbook as a clear American military victory, but also a turning point against the Americans, even though the war would not officially end until seven years later. 
+I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the public’s misguided{% sidenote 'mn-id-1' 'Cronkite was quite clear-eyed about the military outcome. He correctly anticipated the fall of Khe Sanh Combat Base, and the fallout accompanying it. “**Khe Sanh could well fall, with a terrible loss in American lives, prestige and morale, and this is a tragedy of our stubbornness there; but the bastion no longer is a key to the rest of the northern regions, and it is doubtful that the American forces can be defeated across the breadth of the DMZ with any substantial loss of ground.**” For the purposes of this essay, I assume that the median American viewer was less clear-eyed about the future and panicking over the news, because that illustrates my point on how they can be “wrong” but ultimately “right.” As a neat metaphor, after the Americans retook Khe Sanh, they promptly abandoned it because the combat had rendered the place unusable.' '' %} view of the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. Thus, the Tet Offensive is remembered in every history textbook as a clear American military victory, but also a turning point against the Americans, even though the war would not officially end until seven years later. 
+
+
 
 The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much, i.e., too quick to debunk “myths.” In those cases, the truth is better reflected in narrative than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements of the narrative are extremely divorced from reality.
 
@@ -83,7 +85,7 @@ And sometimes, the propaganda is mindblowingly—almost intentionally—stupid.
 
 {% marginfigure 'mf-id-1' 'assets/img/a003.png'  %} 
 
-{% newthought 'Once upon a time,' %} a group of small investors stood against malevolent, short-selling hedge funds who were determined to crush a vulnerable retailer. Operating in the battlespace of capital markets, the guerrilla smallholders applied their ingenuity (buying call options to force a gamma squeeze) and persistence (“diamond hands”) to engineer a short squeeze in the stock price of the retailer to bankrupt the hedge funds. Victory was almost in hand, until the brokers suddenly restricted stock and options purchases, promptly sending the stock price into a downward spiral in order to protect the hedge funds. {% newthought 'The End.' %} 
+{% newthought 'Once upon a time,' %} a group of small investors rose up against malevolent, short-selling hedge funds who were determined to crush a vulnerable retailer. Organizing in the battlespace of capital markets, the guerrilla smallholders applied their ingenuity (buying call options to force a gamma squeeze) and persistence (“diamond hands”) to engineer a short squeeze in the stock price of the retailer to bankrupt the hedge funds. Victory was almost in hand, until the brokers suddenly restricted stock and options purchases, promptly sending the stock price into a downward spiral in order to protect the hedge funds. {% newthought 'The End.' %} 
 
 While the above populist framing of the GameStop saga makes for a good story, this folk retelling is also *prima facie* ridiculous. 
 
@@ -116,6 +118,8 @@ For the sake of argument, we understand it to be a plumbing issue. Really just a
 mockery of capital markets, but an especially bitter truth that we choose to pretend not to believe in.
 
 There are no real heroes in this story, just retail bagholders awkwardly caught in the middle of a proxy war between dueling pools of capital. Any honest accounting of the GameStop must acknowledge the dubious premise of this David versus Goliath story.
+
+consciousness
 
 understand that it is rigged, and it;s precarious how society sits upon a layer where retirement upon an index of large-cap stocks at companies whose bottom lines  exist in direct opposition to its retail shareholders, bandied about by cosmological forces of options flows that most people do not understand.
 
