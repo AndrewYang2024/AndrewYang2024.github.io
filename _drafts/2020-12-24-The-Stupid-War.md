@@ -69,13 +69,11 @@ And concludes that even if they are right, they are still wrong.
 
 Partially scripted and partially thinking out loud, Cronkite’s role was to act out a reasonable observer’s sober reaction to the events around him. Within the theater of television, he did not say anything the public did not already know. Rather, he  was speaking for them. He gave voice to the private doubts they suspected were true (reflected in public opinion polling), and converted private knowledge into common knowledge. Without calling Johnson a liar, he made it no longer reasonable to accept Johnson’s lies or to insist on further fighting over negotiation. That is why Cronkite’s measured response is better remembered and more transgressive than McGee’s far bolder statement against the war. McGee was simply moving into the opening left by the man before him.
 
-I do not believe that the Cronkite Moment set in motion a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the public’s misguided{% sidenote 'mn-id-1' 'Cronkite was quite clear-eyed about the military outcome. He correctly anticipated the fall of Khe Sanh Combat Base, and the fallout accompanying it. “**Khe Sanh could well fall, with a terrible loss in American lives, prestige and morale, and this is a tragedy of our stubbornness there; but the bastion no longer is a key to the rest of the northern regions, and it is doubtful that the American forces can be defeated across the breadth of the DMZ with any substantial loss of ground.**” For the purposes of this essay, I assume that the median American viewer was less clear-eyed about the future and panicking over the news, because that illustrates my point on how they can be “wrong” but ultimately “right.” As a neat metaphor, after the Americans retook Khe Sanh, they promptly abandoned it because the combat had rendered the place unusable.' '' %} view of the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. Thus, the Tet Offensive is remembered in every history textbook as a clear American military victory, but also a turning point against the Americans, even though the war would not officially end until seven years later. 
+I do not believe that the Cronkite Moment was a self-fulfilling prophecy that altered circumstances on the ground in Southeast Asia. Rather, it seeded the misinterpretation of an event—the public’s misguided{% sidenote 'mn-id-1' 'Cronkite was quite clear-eyed about the military outcome. “**Khe Sanh could well fall, with a terrible loss in American lives, prestige and morale, and this is a tragedy of our stubbornness there; but the bastion no longer is a key to the rest of the northern regions, and it is doubtful that the American forces can be defeated across the breadth of the DMZ with any substantial loss of ground.**” He correctly anticipated the fall of Khe Sanh Combat Base, and the fallout accompanying it. For the purpose of this essay, I imagine that the median American viewer was less informed and panicking over the news, to illustrate a point on how the dumb can both be “wrong” but ultimately “right.”' '' %} view of the military outcome of the Tet Offensive—in order for the American public to realize a deeper truth. The Vietnam War, as it was sold and promoted by official lies, would not be won—*should not be won*. As told in every history textbook, the Tet Offensive was both a clear military victory and the unambiguous beginning of the end. An end that would officially come seven years later with the Fall of Saigon. 
 
+The impact of a historical event is sometimes crystal-clear when it happens, except to those who know too much and are too quick to debunk myths. In those cases, the truth is better reflected in narratives than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda—something that is, by definition, divorced from reality.
 
-
-The impact of historical events is sometimes crystal-clear when they happen, except to those who know too much, i.e., too quick to debunk “myths.” In those cases, the truth is better reflected in narrative than in facts. But it requires a careful eye to discern the historically relevant dimensions of propaganda, especially if the elements of the narrative are extremely divorced from reality.
-
-And sometimes, the propaganda is mindblowingly—almost intentionally—stupid. 
+What do you do when the propaganda is mindblowingly, *intentionally* stupid? 
 
 <br>
 
@@ -85,11 +83,100 @@ And sometimes, the propaganda is mindblowingly—almost intentionally—stupid.
 
 {% marginfigure 'mf-id-1' 'assets/img/a003.png'  %} 
 
-{% newthought 'Once upon a time,' %} a group of small investors rose up against malevolent, short-selling hedge funds who were determined to crush a vulnerable retailer. Organizing in the battlespace of capital markets, the guerrilla smallholders applied their ingenuity (buying call options to force a gamma squeeze) and persistence (“diamond hands”) to engineer a short squeeze in the stock price of the retailer to bankrupt the hedge funds. Victory was almost in hand, until the brokers suddenly restricted stock and options purchases, promptly sending the stock price into a downward spiral in order to protect the hedge funds. {% newthought 'The End.' %} 
+{% newthought 'Once upon a time,' %} a group of yeoman investors rose up to protect a vulnerable company (**GameStop**) against malevolent, short-selling hedge funds (**Melvin Capital**) determined to crush it into bankruptcy. Spontaneously organizing in the battlespace of capital markets, the guerrilla smallholders applied their ingenuity and persistence (**diamond hands:** 💎🤲) in a gambit that would turn the tables—to engineer a gamma-turned-short squeeze that would bankrupt the hedge funds instead. Victory was almost within reach, when suddenly, the brokers restricted stock and options purchases. This act of market manipulation promptly sent the stock price into a downward spiral, protecting the hedge funds at the expense of the valiant yeomen. The smallholders were brutally crushed, but still hope to rise again someday. {% newthought 'The End.' %}  {% marginnote 'mf-id-1' '[For a non-fictionalized account, see Matt Levine’s write-up at Bloomberg.]( https://www.bloomberg.com/opinion/articles/2021-01-25/the-game-never-stops?sref=n5WinKGM)' %}
+
+If you know a little bit about finance, you know this is a dumb story. While small-time retail investors may have lit the flames of GameStop’s share price and grabbed the most media attention, anyone watching the trading activity around GameStop, along with the other meme stocks (AMC Theatres, BlackBerry, Nokia), could see the extent of professional money piling into the trade. This was no secret.
+
+As unfortunate as trading restrictions were to GameStop investors, there was a perfectly non-nefarious motivation behind it. The volatility and abnormally large trading volumes from both retail and professional investors exposed weaknesses in the settlement process, which requires brokers to be on the hook for a portion of the total amount of a stock transaction, up until the end of the two days it takes for the trade to be final. Robinhood received a lot of criticism for shutting down trades, but they literally did not have the money to keep going on, according to their CEO Vlad Tenev’s own tortured Congressional testimony. Other more competently risk-managed brokers may have followed suit with their own restrictions once pressured to do so by clearinghouses eager to steer clear of trouble.
+
+From this perspective, the GameStop saga isn’t all that different from a typical Wall Street story. There is some speculative bubble, crossed with some interesting technical details about the internal plumbing of markets to make it worth writing up as a financial news story. The participation of some retail investors doesn’t really add anything to this picture.
+
+As an astute observer of capital markets, you would have rolled your eyes at the populist framing of the GameStop saga on social media and less financially literate news outlets as a re-emergence of the Occupy Wall Street movement. Sure, they can imagine in their own subreddit communities that buying GameStop shares was somehow sticking it to the man. But in fact, they were only acting out the timeless role of the retail bagholder, as pawns in a larger game unconcerned with them. They flattered themselves by imagining that they mattered. That brokers colluded with market-makers like Citadel to actively conspire with Melvin Capital against them, by preventing them from buying absurdly overvalued shares that they would inevitably sell or hold indefinitely at steep losses.
+
+{% newthought 'I didn’t really note of the populist dimension at first.' %} I go to r/WallStreetBets. Squeezing the, it was a meme, it was a good villain in their own inside-joke.
+
+it doesn't matter if naked shorting is a market maker thing
+
+[Emergthe suits shut down](https://twitter.com/stoolpresidente/status/1354589231960743936)
+
+https://twitter.com/alexisohanian/status/1354763254384324615
+
+Jon Stewart, Ted, Cruz, AOC< Alex, Elon Musk
+
+Everyone who uses the phrase “democratization of markets” unironically is either an idiot or lying to you.
+
+wheelbarrow joke.
+leverage and speculation is not the real issue.
+
+The democratization of markets does not give a sh*t about democratizing the profit of those markets. Keith Gill, has done more for financial education. under.
+
+who know how trade,
+
+the populism of gamestop is no less hollow than the democratizations
+
+Even among professionals
+
+
+
+the broker who was supposedly
+
+
+
+when you stare into an electoral democracy, that there isn’t
+
+but a very loose mechanism that keeps people honest and forces others, providing an ecosystem, a theater for political organizers to play in.
+
+
+
+
+
+It is easy to be cynical
+
+I am not so sure, that the populist framing has been debunked.
+
+A corner. It did do some damage. If 
+
+lining up
+
+#HoldTheLine
+
+You don’t cross a line.
+
+
+
+democratization of markets.
+
+the first real rebellion of retail investors.
+
+robo-advisors
+
+
+
+
+
+Surprisingly, Vanguard had no issues.
+
+
+
+There
+
+But yet,
+
+It was a bubble.
+
+Technically interesting.
+
+, 
 
 While the above populist framing of the GameStop saga makes for a good story, this folk retelling is also *prima facie* ridiculous. 
 
-**There isn’t a populist side.**
+Damage,
+
+
+
+**There simply isn’t a populist side.**
+
+(**r/WallStreetBets subreddit members**) 
 
 This folktale is wrong in at least two major ways.
 
@@ -100,6 +187,22 @@ As unfair as brokers suddenly not broker-ing looks, there is a technical plumbin
 1) There was professional money both short and long GameStop.
 
 2) Robinhood’s restrictions on stock and options trades were an emergency measure to manage its shortfall in collateral due to incompetent risk management rather than anything nefarious. S
+
+
+
+This meaninglessness is an affect that conceals a truth. All of retail investment is based on a lie—a suspension of disbelief.
+
+Nevertheless.
+
+even wsb opposes it.
+
+
+
+Ants countered, buying $43.58 billion (47.4 trillion won), propelling the KOSPI index over the 3,000 mark for the first time in history, in January of this year. The feat has been named the Donghak Ant Movement, a tongue-in-cheek reference to the Donghak Peasant Revolution, an 1894 uprising of farmers against corrupt government officials and economic destabilization at the hands of foreign powers. 
+
+
+
+Class consciousness
 
 subsumed a speculative buble
 
