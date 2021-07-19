@@ -7,7 +7,7 @@ date:   2021-07-18 00:00:00
 categories: Essay
 tags: woke
 picid: "a005"
-tweetURL: https://twitter.com/EpsilonPraxis/status/1333850408750620673
+tweetURL: https://twitter.com/EpsilonPraxis/status/1417205875958329345
 ---
 
 
