@@ -797,7 +797,6 @@ constant reincofrcing of pornography
 <q> No Foreplay. Only Forward Guidance. </q>
 
 > 
->
 
 
 
