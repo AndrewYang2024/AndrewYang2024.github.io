@@ -117,13 +117,13 @@ It doesn’t actually require a lot of people to shift the cultural conversation
 
 Like any framework, actually existing wokeness has its blind spots and unresolved questions, many of which are also obvious to its proponents. To name a few:
 
-* When personal experience cannot be rejected and is always valid, how do you deal with dissent?
+{% newthought ' When personal experience'%}  cannot be rejected and is always valid, how do you deal with dissent?
 
-* How does one deal with corporate or political actors who cynically invoke identity to justify their ends? No one is fooled when the CIA flies the rainbow flag on its social media account. But if you genuinely believe the struggle for material improvement is inseparable from cultural representation, such that neither can be sacrificed for the other, how do you react when a corporation offers genuine improvements in the diversity of its white-collar cadres while continuing to exploit its blue-collar workforce? This is an area where woke pro-capitalist liberals are divided from woke anti-capitalists. 
+{% newthought ' How does one'%}  deal with corporate or political actors who cynically invoke identity to justify their ends? No one is fooled when the CIA flies the rainbow flag on its social media account. But if you genuinely believe the struggle for material improvement is inseparable from cultural representation, such that neither can be sacrificed for the other, how do you react when a corporation offers genuine improvements in the diversity of its white-collar cadres while continuing to exploit its blue-collar workforce? This is an area where woke pro-capitalist liberals are divided from woke anti-capitalists. 
 
-* The focus on the realm of cultural criticism can also divert energy from other more tangible initiatives. Amid the culture wars, embracing identity often means making enemies of potential allies who are economically progressive but dislike the other stuff. 
+{% newthought ' The focus on'%}  the realm of cultural criticism can also divert energy from other more tangible initiatives. Amid the culture wars, embracing identity often means making enemies of potential allies who are economically progressive but dislike the other stuff. 
 
-* The blurring of the general and the particular is a poetic conceit I am partial to in literature—I find Ta-Nehisi Coates to be an utterly compelling writer—but one that does not hold up well in daily living. 
+{% newthought ' The blurring of'%}  the general and the particular is a poetic conceit I am partial to in literature—I find Ta-Nehisi Coates to be an utterly compelling writer—but one that does not hold up well in daily living. 
 
 I generally refuse to dismiss anyone’s trajectory into political participation.  It is hard to summon the activation energy to get involved. Many of us don’t vote or care because we rightfully perceive that the systems that govern us don’t really care about us either. And if we look through the arc of history, political consciousness is a pretty arbitrary process. The leaders of a nascent movement might have just been in the same unit at the military academy or the same reading circle. My own formative political experience began with suggested YouTube videos and finance blogs. But however we get inspired to act, woke or unwoke, we should always look back and see if the framework we inherited can be improved upon.
 
