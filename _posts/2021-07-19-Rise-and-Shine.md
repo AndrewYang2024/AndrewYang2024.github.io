@@ -67,7 +67,13 @@ The use of *whiteness* and *anti-blackness* refer as much to faceless, structura
 
 There also isn’t a boundary between one political issue and another. As all politics is about people, and all peoples suffer some form of marginalization, there is a dimension of identity to all the major issues of our time, whether it be racial justice (obviously) or climate change—now as climate justice because it is also about protecting Black and Brown communities impacted by rising sea levels and the like. 
 
-To return to the beginning, *wokeness* is not a policy platform. It is a paradigm that is layered onto different progressive policies to glue them into one cohesive movement by using a generalized construct of identity and encouraging a constant level of awareness about it. I would be careful not to conflate the rise of wokeness within a secular trend of rising social progressivism, where people are genuinely becoming more open-minded and less spiteful about differences. A lot of people across the country, on the coasts or in its vast interior, many of whom would not even be remotely considered woke or familiar with the jargon, turned out in the streets for George Floyd. A decade or so ago, they would have been content to privately condemn the offending officer’s conduct in polite company but stayed off the streets altogether. 
+{% newthought 'wokeness, noun ' %}
+
+/woʊknɪs/
+
+**To return to the beginning, *wokeness* is not a policy platform. It is a paradigm that is layered onto different progressive policies to glue them into one cohesive movement by using a generalized construct of identity and encouraging a constant level of awareness about it.**
+
+I would be careful not to conflate the rise of wokeness within a secular trend of rising social progressivism, where people are genuinely becoming more open-minded and less spiteful about differences. A lot of people across the country, on the coasts or in its vast interior, many of whom would not even be remotely considered woke or familiar with the jargon, turned out in the streets for George Floyd. A decade or so ago, they would have been content to privately condemn the offending officer’s conduct in polite company but stayed off the streets altogether. 
 
 {% marginnote 'mn-id-1' 'The role of fun in politics is often underrated and de-emphasized to preserve the sanctity and seriousness of the venture. But the essence of having a good time every now and then would have been as relevant to a peasant revolt then—imagine an Instagram post captioned “me and the boys torching the debt ledgers”—as it is now. ' '' %} 
 
