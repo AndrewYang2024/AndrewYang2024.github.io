@@ -2,7 +2,7 @@
 layout: post
 excerpt: ' “We can stay ret*rded longer than they can stay solvent.” '
 
-title:  Tyger Tyge, Burning Bright
+title:  Tyger Tyger, Burning Bright
 date:   2020-12-24 00:00:00
 categories: Essay
 tags: Fed
@@ -23,6 +23,8 @@ square root law
 microstructure
 
 archegos bill hwang religious, forging a time crystal with total return swaps, prime brokers
+
+sigan gyeoljeong
 
 
 

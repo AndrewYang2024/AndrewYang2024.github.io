@@ -202,6 +202,18 @@ Ants countered, buying $43.58 billion (47.4 trillion won), propelling the KOSPI 
 
 
 
+I want to make this very clear. I have no personal view on NFTs or other meme trends. I do not support meme stocks existing per se. I do not endorse projects, coins, or anything else. All I simply try to write about is how these are possible with rationality.
+
+https://twitter.com/nope_its_lily/status/1426617410946146304’
+
+Well I do have personal view.
+
+These do not break markets. the tulip mania did not break the dutch economy.
+
+https://www.smithsonianmag.com/history/there-never-was-real-tulip-fever-180964915/
+
+The Golden Age continued in peacetime during the Dutch Republic until the end of the century, when costly conflicts, including the [Franco-Dutch War](https://en.wikipedia.org/wiki/Franco-Dutch_War) and [War of the Spanish Succession](https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession) fuelled economic decline.
+
 Class consciousness
 
 subsumed a speculative buble
