@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' However, there is something to 2010s progressive activism that can not be translated to the 1960s. And it is by pinning down that missing element of cultural understanding that we can begin to define wokeness, not as some vague cultural tendency, but as a particular thing that emerged at a particular time to address a particular need.'
+excerpt: ' There’s a phrase in Chinese that translates to, a problem that can be solved with money is not a problem. Well, if a problem can solved with an imaginary solution, you have an imaginary problem. Problem solved.'
 
 title:  "Mint that Coin!"
 date:   2021-09-22 00:00:00
