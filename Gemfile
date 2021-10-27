@@ -17,4 +17,7 @@ gem 'jekyll-include-cache'
 gem 'jemoji'
 gem 'kramdown-parser-gfm'
 gem 'nokogiri'
+gem 'wdm'
 
+
+gem "webrick", "~> 1.7"
