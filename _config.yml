@@ -24,6 +24,6 @@ git:
 plugins:
   - jekyll-paginate
 
-paginate: 2
+paginate: 3
 paginate_path: "/blog/page:num"
 permalink: "/blog/:short_year/:title"
