@@ -16,4 +16,5 @@ gem 'jekyll-commonmark'
 gem 'jekyll-include-cache'
 gem 'jemoji'
 gem 'kramdown-parser-gfm'
+gem 'nokogiri'
 
