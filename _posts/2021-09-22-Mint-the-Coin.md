@@ -6,7 +6,7 @@ title:  "Mint that Coin!"
 date:   2021-09-22 00:00:00
 categories: Brief
 tags: mint, coin
-picid: "000"
+picid: "a006"
 tweetURL: https://twitter.com/EpsilonPraxis/status/1440680311021400069
 ---
 
