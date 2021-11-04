@@ -7,7 +7,7 @@ date:   2021-11-03 00:00:00
 categories: Brief
 tags: Biden, Glenn Youngkin, Terry McAuliffe
 picid: "a007"
-tweetURL: https://twitter.com/EpsilonPraxis
+tweetURL: https://twitter.com/EpsilonPraxis/status/1456113188978765827
 ---
 
 
@@ -30,7 +30,7 @@ If there is a strong enough consensus within the Democratic elite that the blame
 
 Of course, such a transparent attempt to quell dissent is sure to have the opposite effect. Members of the change faction will continue to voice their discontent with the status quo in ways that make the party elite anxious, and the formidable ecosystem of right-adjacent media outlets will continue to amplify any soundbites they can get their hands on. Unable to purge radical associations from their party, the elite will have almost nothing at their disposal to salvage their hopes of re-election. Given the stark disparities in the electoral map brought on by gerrymandering, the tendency of Democratic voters to cluster in cities, the failure of supposedly favorable demographic shifts to materialize into actual electoral benefits, and the lack of any real electoral strategy, only one trick remains in their political playbook.
 
-They can jettison their very leader, turning the uncharismatic, aging Biden into a *persona non grata* by giving him the same treatment swing-state Democrats offered his previous boss, former President Barack Obama throughout most of his presidency.  It helps that Biden has shown himself quite adept at blending into the background, emerging occasionally from silence to deliver a statement expected of him.
+They can jettison their very leader, turning the uncharismatic, aging Biden into a *persona non grata* by giving him the same treatment swing-state Democrats offered his previous boss, the highly charismatic former President Barack Obama throughout most of his presidency.  It helps that Biden has shown himself quite adept at blending into the background, emerging occasionally from silence to deliver a statement expected of him.
 
 It is one thing to be ridiculed by one’s ideological enemies or the people. Mockery can be endured. It is another to be abandoned by one’s allies.
 
