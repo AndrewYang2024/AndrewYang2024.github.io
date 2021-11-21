@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt: ' Granted I know neither of them well, they both strike me as uninteresting men endowed with pleasant sounding all-American names.'
+excerpt: ' Value investors are made, not born. And what can be made can be unmade.'
 
 title:  "The Little Short"
 date:   2021-11-20 00:00:00
