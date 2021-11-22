@@ -108,7 +108,7 @@ The value investors I’ve followed love to quote scenes from *The Godfather,* a
 >
 > {% cite 'Adam Hochschild' 'King Leopold‘s Ghost' '(1998)' %}
 
-The twin World Wars placed great demand on the Congo’s resources. Hochschild writes, “More than 80 percent of the uranium in the Hiroshima and Nagasaki bombs came from the heavily guarded Congo mine of Shinkolobwe.” Tin, gold, and copper mining, in additional to the cultivated rubber trade boomed at the cost of human misery.
+The twin World Wars placed great demand on the Congo’s resources. Hochschild writes, “More than 80 percent of the uranium in the Hiroshima and Nagasaki bombs came from the heavily guarded Congo mine of Shinkolobwe.” Tin, gold, and copper mining, in additional to the cultivated rubber trade boomed at the cost of human misery. Even today, Congo supplies about 60% of the world’s rising demand for cobalt amid the global drive towards electric vehicles and green energy.
 
 While the world was certainly a better place for having the injustice of the Congo revealed, and some of its worst excesses curtailed, one must understand the limits of what working within the system means.
 
