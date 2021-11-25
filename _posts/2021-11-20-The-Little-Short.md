@@ -16,9 +16,9 @@ tweetURL: https://twitter.com/EpsilonPraxis
 
 {% newthought ' I have a tendency to like unloved things.'%} A misshapened toy that doesn’t look like the character it was based on. Things with more than four legs that aren’t butterflies or ladybugs. Anything unfairly maligned garners within me a sense of childhood familiarity and sense of respect.
 
-The bodhisattva Kṣitigarbha asks, “**If I do not descend into hell, who will?**” A spider will still faithfully execute her role as a predator whether or not I appreciate her skill as a huntress. The unloved do not wait for us to raise them as tragic heroes. They simply exist. There are always jobs that must be filled and those who fill them. 
+The bodhisattva Kṣitigarbha asks, “**If I do not descend into hell, who will?**” A spider will still faithfully execute her role as a predator whether or not I appreciate her skill as a huntress. The unloved do not wait for us to raise them as tragic heroes. They simply exist. There are always jobs that must be filled and those who end up filling them. 
 
-If there is a next life, I would not mind burrowing into the earth as an earthworm. 
+If there is a next life, I wouldn’t mind tunneling through the earth as an earthworm. 
 
 This is as true in human ecosystems as it is in natural ones. To observe to the Within the ecosystem of financial markets is its own social hierarchy. There is the cult of the long-term investor whose members are obsessed with holding onto assets for long periods of time as feats of endurance, for whom the word “trader” is a slur accusing a member of short-term decision-making. And then there is a class of people who do jobs we are agree are necessary, but must hold our nose when talking about them.
 
