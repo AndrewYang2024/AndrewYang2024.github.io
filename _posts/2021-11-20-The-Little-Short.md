@@ -14,7 +14,31 @@ tweetURL: https://twitter.com/EpsilonPraxis
 >
 > {% cite 'Adam Hochschild' 'King Leopold‘s Ghost' '(1998)' %}
 
-{% newthought ' There has always been a roguish charm'%} native to the craft of short selling, the practice of sticking one’s neck out to bet on the ill fortune of companies or the decline of nations if one is brave or foolish enough. James Fisk Jr.’s scheme to short Confederate bonds right at the end of the Civil War is well worth a movie adaptation, and the hedge funds who shorted the housing market during the 2007 crash got theirs. 
+{% newthought ' I have a tendency to like unloved things.'%} A misshapened toy that doesn’t look like the character it was based on. Things with more than four legs that aren’t butterflies or ladybugs. Anything unfairly maligned garners within me a sense of childhood familiarity and sense of respect.
+
+The bodhisattva Kṣitigarbha asks, “**If I do not descend into hell, who will?**” A spider will still faithfully execute her role as a predator whether or not I appreciate her skill as a huntress. The unloved do not wait for us to raise them as tragic heroes. They simply exist. There are always jobs that must be filled and those who fill them. 
+
+If there is a next life, I would not mind burrowing into the earth as an earthworm. 
+
+This is as true in human ecosystems as it is in natural ones. To observe to the Within the ecosystem of financial markets is its own social hierarchy. There is the cult of the long-term investor whose members are obsessed with holding onto assets for long periods of time as feats of endurance, for whom the word “trader” is a slur accusing a member of short-term decision-making. And then there is a class of people who do jobs we are agree are necessary, but must hold our nose when talking about them.
+
+Not people who go short every now and then “as a hedge” or “just a taste for fun,” but people who actually do and enjoy this stuff as a living. 
+
+
+
+Within the narrow realm of financial markets,
+
+
+
+  as a is a beautiful arachnid and it lives
+
+to be misunderstood, but to exist, to just be. 
+
+
+
+People do not like short sellers.
+
+There has always been a roguish charm native to the craft of short selling, the practice of sticking one’s neck out to bet on the ill fortune of companies or the decline of nations if one is brave or foolish enough. James Fisk Jr.’s scheme to short Confederate bonds right at the end of the Civil War is well worth a movie adaptation, and the hedge funds who shorted the housing market during the 2007 crash got theirs. 
 
 Personally, my favorite short seller is a businessman who never held much capital to his name. Yet that would not stop him tilting at one of the wealthiest windmills of his time—the Congo Free State—and winning. The Congo Free State, which lay within the borders of what is now the Democratic Republic of the Congo, was the private colony of King Leopold II of Belgium, a monarch who had built up an unimpeachable reputation with his African “philantropy.” His name is Edmund Dene Morel, a clerk at Elder Dempster, the Liverpool shipping firm with a contract with King Leopold himself to connect Europe to his African domain.
 
