@@ -14,37 +14,27 @@ tweetURL: https://twitter.com/EpsilonPraxis
 >
 > {% cite 'Adam Hochschild' 'King Leopold‘s Ghost' '(1998)' %}
 
-{% newthought ' I have a tendency to like unloved things.'%} A misshapened toy that doesn’t look like the character it was based on. Things with more than four legs that aren’t butterflies or ladybugs. Anything unfairly maligned garners within me a sense of childhood familiarity and of respect.
+{% newthought ' I have a tendency to like unloved things.'%} A misshapened toy that doesn’t look like the character it was based on. Things with more than four legs that aren’t butterflies or ladybugs. Anything unfairly maligned garners in me a sense of childhood familiarity.
+
+And respect.
 
 The bodhisattva Kṣitigarbha asks, “**If I do not descend into hell, who will?**” A spider will still faithfully execute her role as a predator whether or not I appreciate her skill as a huntress. The unloved do not wait for us to raise them as tragic heroes. They simply exist. There are always jobs that must be filled and those who end up filling them. 
 
 If there is a next life, I wouldn’t mind tunneling through the earth as an earthworm (or a Sandworm).
 
-But others would. Hierarchies evolve as naturally in human ecosystems as they do in natural ones, with designation of those on top versus those below defined by somewhat arbitrary social rules. Even within the relatively small “meritocracy” of financial professionals, a subset of the [7.5 million Americans](https://www.ibisworld.com/industry-statistics/employment/finance-insurance-united-states/) directly employed in the finance and insurance sectors, one can acquire cultural markers to accrue prestige relative to others. Performing feats of endurance, such as holding assets for lengthy periods of time, inducts one into the cult of the long-term investor. In-group members congratulate each other for “compounding” while dismissing out-group members as “traders,” a slur accusing another of short-term decision-making. The traders, on the other hand, are more interested in booking profits than in firing back. But even they segment themselves into their own cliques, talking up and down those with a different strategy than they. The momo (momentum) traders are too reckless. The algorithmic traders are too proud. The volatility traders are too smug. And so on and so forth.
+But others would. Hierarchies evolve as naturally in human ecosystems as they do in natural ones, with designation of those on top versus those below defined by somewhat arbitrary social rules. Even within the relatively small “meritocracy” of financial professionals, a subset of the [7.5 million Americans](https://www.ibisworld.com/industry-statistics/employment/finance-insurance-united-states/) directly employed in the finance and insurance sectors, one can acquire cultural markers to accrue prestige relative to others. Performing feats of endurance, such as holding assets for lengthy periods of time, inducts one into the cult of the long-term investor. In-group members congratulate each other for “compounding” while dismissing out-group members as “traders,” a slur accusing another of short-term decision-making. The traders, for their part, are more interested in booking profits than in firing back. But even they segment themselves into their own cliques, talking up and down those with a different strategy than they. The “momo” (momentum) traders are too reckless. The algorithmic traders are too proud. The volatility traders are too smug. And so on and so forth.
 
+The worst of it, however, is saved for short sellers. These are traders or investors—I don’t make a distinction between the two—who stick their necks out to bet on the decline of companies or of nations if they are brave or foolish enough. Just like a startup can raise money up-front by taking pre-orders for their upcoming products, whether it be video games or electric vehicles, a short seller earns money by selling a borrowed asset they don’t actually have yet. Eventually, the short seller has to come up with the product, buying the asset on the open market to deliver back to their lender. The profit or loss is the difference between the initial sale price and final purchase price.
 
+In practice, the process is not so simple and involves angry lawsuits. Financial types would like to fancy themselves as a unruffled bunch, but emotions run high wherever money is involved. And since most people (professional or not) are structurally on the long side (of owning assets), the net burden of complaint is directed on the minority who are structurally on the short side (of selling assets), whether or not the latter is actually doing anything criminal or manipulative.
 
- themselves And then there is a class of people who do jobs we are agree are necessary, but must hold our nose when talking about them.
+In the abstract, short selling is well-accepted as a mechanism for market regulation. Short sellers buy low and sell high, just not in that order, which tends to deflate bubbles and support prices when panic ensues and the bottom falls out. This is an empirical finding that is tested time and time again when panicking market regulators turn to short selling bans that ultimately backfire. Moreover, no one has an issue with traders selling assets (no one can buy anything if no one sells anything) or with using borrowed funds for dodgy trading (see margin lending). 
 
-Not people who go short every now and then “as a hedge” or “just a taste for fun,” but people who actually do and enjoy this stuff as a living. 
+Yet short selling feels to many, whether out of ignorance or self-interest, “[icky and un-American](https://www.businessinsider.com/nyse-tom-farley-short-selling-2017-6),” to borrow an NYSE chairman’s words.
 
+Dabbling a little bit in the dark side is acceptable, as investment managers will often have some short positions as a means of hedging their total investment. But the existence of traders who actively short things as their main preoccupation? Such profiteering from disaster and misery is still considered somewhat suspect and even perverse. On the other hand, the ill repute and unconventional antics of short sellers imparts a roguish charm to their craft. James Fisk Jr.’s scheme to [short Confederate bonds](https://www.bostonglobe.com/2020/04/22/magazine/jubilee-jim-fisk-great-civil-war-score/) right at the end of the Civil War, which involved bribery and the construction of a private telegraph line, is well worth a movie adaptation, and the hedge funds who shorted the housing market during [the 2007 crash](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) got [theirs](https://en.wikipedia.org/wiki/The_Big_Short_(film)).
 
-
-Within the narrow realm of financial markets,
-
-
-
-  as a is a beautiful arachnid and it lives
-
-to be misunderstood, but to exist, to just be. 
-
-
-
-People do not like short sellers.
-
-There has always been a roguish charm native to the craft of short selling, the practice of sticking one’s neck out to bet on the ill fortune of companies or the decline of nations if one is brave or foolish enough. James Fisk Jr.’s scheme to short Confederate bonds right at the end of the Civil War is well worth a movie adaptation, and the hedge funds who shorted the housing market during the 2007 crash got theirs. 
-
-Personally, my favorite short seller is a businessman who never held much capital to his name. Yet that would not stop him tilting at one of the wealthiest windmills of his time—the Congo Free State—and winning. The Congo Free State, which lay within the borders of what is now the Democratic Republic of the Congo, was the private colony of King Leopold II of Belgium, a monarch who had built up an unimpeachable reputation with his African “philantropy.” His name is Edmund Dene Morel, a clerk at Elder Dempster, the Liverpool shipping firm with a contract with King Leopold himself to connect Europe to his African domain.
+My favorite short selling story, however, doesn’t take place directly in financial markets. Its protagonist is a simple businessman who never held much capital to his name. Yet that would not stop him tilting at one of the wealthiest windmills of his time—the Congo Free State—and winning. The Congo Free State, which lay within the borders of what is now the Democratic Republic of the Congo, was the private colony of King Leopold II of Belgium, a monarch who had built up an unimpeachable reputation with his African “philantropy.” His name is Edmund Dene Morel, a clerk at Elder Dempster, the Liverpool shipping firm with a contract with King Leopold himself to connect Europe to his African domain.
 
 Every good short selling story starts with a flash of insight—the realization of an imbalance in the numbers that must be corrected. As a clerk, Morel observed the movement of goods in and out of the Congo Free State. Precious shipments of rubber and ivory flowed out of the colony while nothing but arms, ammunition, and soldiers flowed in. This account could not be balanced except by the hidden addition of slave labor on a massive scale.
 
@@ -52,7 +42,7 @@ Every good short selling story starts with a flash of insight—the realization 
 >
 > {% cite 'Adam Hochschild' 'King Leopold‘s Ghost' '(1998)' %}
 
-Confronted with the duty to act, he carefully assembles the means of action. Ever the sober businessman, he plies his menagerial skill to gradually build up the largest humanitarian effort of his time, the Congo Reform Association. His effort enlists both the business and the intellectual classes in waging a bitter propaganda war against King Leopold and his proxies. Famous writers including Arthur Conan Doyle, Booker T. Washington, and Mark Twain and the socialist leader Émile Vandervelde sign up for the cause. Diplomats, missionaries, and the photographer Hezekiah Andrew Shanu smuggle images and stories of atrocities from within Congo to be reported by his media machine.
+Confronted with the duty to act, he carefully assembles the means of action. Ever the sober businessman, he plies his menagerial skill to gradually build up the largest humanitarian effort of his time, the Congo Reform Association. His effort enlists both the business and the intellectual classes in waging a bitter propaganda war against King Leopold and his proxies, exposing the monarch as a massive fraud. Famous writers including Arthur Conan Doyle, Booker T. Washington, and Mark Twain and the socialist leader Émile Vandervelde sign up for the cause. Diplomats, missionaries, and the photographer Hezekiah Andrew Shanu smuggle images and stories of atrocities from within Congo to be reported by his media machine.
 
 Through Morel’s and his allies’ efforts, the brutality of King Leopold’s private regime was revealed to all. The chopping of hands as punishment for failing to meet rubber quotas. The liberal use of the *chicotte*—”a whip of raw, sun-dried hippopotamus hide, cut into a long sharp-edged corkscrew strip.” The murderous habits of the *Force Publique,* the “security” forces who ran the show. These all entered common knowledge and decisively settled the Congo Question. In 1908, the Belgian government annexes the Congo Free State, ending King Leopold’s control, after which reports of atrocities in the colony drop.
 
