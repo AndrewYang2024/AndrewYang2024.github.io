@@ -2,7 +2,7 @@
 layout: post
 excerpt: ' Value investors are made, not born. And what can be made can be unmade.'
 
-title:  "The Little Short"
+title:  "(WORK IN PROGRESS): The Little Short"
 date:   2021-11-20 00:00:00
 categories: Essay
 tags: short
