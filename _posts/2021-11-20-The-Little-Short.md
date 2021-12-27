@@ -2,15 +2,15 @@
 layout: post
 excerpt: ' Value investors are made, not born. And what can be made can be unmade.'
 
-title:  "(WORK IN PROGRESS): The Little Short"
-date:   2021-11-20 00:00:00
+title:  "The Little Short"
+date:   2021-12-27 00:00:00
 categories: Essay
 tags: short
 picid: "a008"
 tweetURL: https://twitter.com/EpsilonPraxis
 ---
 
-{% newthought 'I have a tendency to like unloved things.'%} Misshapened toys who don’t look like the characters they were based on. Animals with more than four legs who aren’t butterflies or ladybugs. A thing unfairly dismissed rekindles a sense of childhood familiarity and deep respect.
+{% newthought 'I have a tendency to like unloved things.'%} Misshapen toys who don’t look like the characters they were based on. Animals with more than four legs who aren’t butterflies or ladybugs. A thing unfairly dismissed rekindles a sense of childhood familiarity and deep respect.
 
 The unloved do not care whether we acknowledge them—as tragic heroes or even at all. A spider is a consummate predator whether or not I appreciate her skills as a huntress. She simply exists, fulfilling the solitary role she was born into. The bodhisattva Kṣitigarbha asks, “**If I do not descend into hell, who will?**”  There are always jobs that must be filled and those who are called on to fill them. 
 
@@ -26,7 +26,7 @@ In the abstract, short selling is well-accepted as a mechanism for market regula
 
 And no one has an issue with traders selling assets (because no one can buy anything if no one sells anything) or with using borrowed funds for dodgy trading either (see margin lending). Yet short selling feels to many, whether out of ignorance or self-interest, “[icky and un-American](https://www.businessinsider.com/nyse-tom-farley-short-selling-2017-6),” to borrow an NYSE chairman’s words. Short selling is a bit like pleading the Fifth Amendment. Sure, we understand why it’s in the Constitution, but you wouldn’t really plead the Fifth if you weren’t at least a little guilty, *would you*?
 
-To be sure, dabbling a little bit on the dark side is acceptable, as investment managers will often keep some short positions as a means of hedging their total investment. But there is little sympathy for the breed of of traders who actively short things as their main preoccupation. The reputation of profiteering from misfortune and misery is difficult to shake. 
+To be sure, dabbling a little bit on the dark side is acceptable, as investment managers will often keep some short positions as a means of hedging their total investment. But there is little sympathy for the breed of traders who actively short things as their main preoccupation. The reputation of profiteering from misfortune and misery is difficult to shake. 
 
 Sometimes that turns in their favor: The ill repute and unconventional antics of short sellers lends a roguish charm to their antics. James Fisk Jr.’s scheme to [short Confederate bonds](https://www.bostonglobe.com/2020/04/22/magazine/jubilee-jim-fisk-great-civil-war-score/) right at the end of the Civil War, which involved bribery and the construction of a private telegraph line, is well worth a movie adaptation, and the hedge funds who shorted the housing market during [the 2007 crash](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008) got [theirs](https://en.wikipedia.org/wiki/The_Big_Short_(film)). 
 
@@ -44,7 +44,7 @@ Admittedly, my investigations were unscientific. They were biased towards well-k
 
 And sometimes, they stumble upon their discoveries by accident. 
 
-In 1891, Edmund Dene Morel was a clerk at Elder Dempster, a Liverpool shipping firm. The company was responsible for handling cargo between Europe and the Congo Free State{% marginnote 'margin-note-id' 'The Congo Free State lay within the borders of what is now the Democratic Republic of the Congo.'%}, an African colony founded and privately owned by the monarch King Leopold II of Belgium under noble pretenses of philanthropy. But Morel noticed something odd about his firm’s business with King Leopold: The value of its inflows and outflows did not add up. Elder Dempster imported precious cargos of Congolese rubber and ivory while sending arms, ammunition, and soldiers abroad. Given that King Leopold dealt exclusively with Elder Dempster and did not contract any other firm to ship goods to and from his private colony, this account could not balanced except by slave labor on a massive scale. He raised the issue within the company, which first dismissed him and then dangled a promotion in front of him to shut him up.
+In 1891, Edmund Dene Morel was a clerk at Elder Dempster, a Liverpool shipping firm. The company was responsible for handling cargo between Europe and the Congo Free State{% marginnote 'margin-note-id' 'The Congo Free State lay within the borders of what is now the Democratic Republic of the Congo.'%}, an African colony founded and privately owned by the monarch King Leopold II of Belgium under noble pretenses of philanthropy. But Morel noticed something odd about his firm’s business with King Leopold: The value of its inflows and outflows did not add up. Elder Dempster imported precious cargos of Congolese rubber and ivory while sending arms, ammunition, and soldiers abroad. Given that King Leopold dealt exclusively with Elder Dempster and did not contract any other firm to ship goods to and from his private colony, this account could not be balanced except by slave labor on a massive scale. He raised the issue within the company, which first dismissed him and then dangled a promotion in front of him to shut him up.
 
 >  Morel was right. We now know that the value of the rubber, ivory, and other riches coming to Europe each year on the Elder Dempster ships was roughly five times that of goods being shipped to the Congo that were destined for Africans. In return for the rubber and ivory, Morel knew, it was not possible that the Congo's Africans were being paid in money—which he knew they were not allowed to use—or in goods that came from elsewhere, for Elder Dempster had the cargo monopoly. Clearly, they were not being paid at all.
 >
@@ -56,7 +56,7 @@ In Morel’s case, he was a small-time businessman with little capital to his na
 
 But he was clearly right and King Leopold wrong. So it was just a matter of convincing enough people to agree. Although Morel had never set foot in the Congo before this point, he did not shy away from his duty to stop what was happening over there.  {% marginnote 'margin-note-id' 'At this point, I strongly recommend Adam Hochschild’s book *King Leopold’s Ghost* on the unraveling of the Congo Free State, which was a far more difficult process than my few paragraphs on the events present it as.'%}
 
-As but a single man, Morel turned himself into the nexus of a large web of advocates and informants. Drawing on his menagerial skills, he established the Congo Reform Association as a formidable coalition capable of prosecuting King Leopold in the court of public opinion. The effort grew to include business elites; famous writers such as Arthur Conan Doyle, Booker T. Washington, and Mark Twain; and unlikely political allies such as the socialist politician Émile Vandervelde. 
+As but a single man, Morel turned himself into the nexus of a large web of advocates and informants. Drawing on his managerial skills, he established the Congo Reform Association as a formidable coalition capable of prosecuting King Leopold in the court of public opinion. The effort grew to include business elites; famous writers such as Arthur Conan Doyle, Booker T. Washington, and Mark Twain; and unlikely political allies such as the socialist politician Émile Vandervelde. 
 
 The Congo Reform Association disseminated a constant stream of Congo coverage to trans-Atlantic audiences. The African photographer Hezekiah Andrew Shanu (born in what is now Lagos, Nigeria) and missionaries smuggled images and stories of atrocities from within the Congo through the hands of the Dublin-born British diplomat Roger Casement to be reported on by Morel’s media machine. They depicted the severed hands cut off from villagers as punishment for failing to meet rubber harvesting quotas; the liberal use of the *chicotte*, “a whip of raw, sun-dried hippopotamus hide, cut into a long sharp-edged corkscrew strip” that permanently scarred its victims; and the murderous toll the *Force Publique,* the security forces whom King Leopold relied on to maintain his grip. The king and his proxies continued their propaganda war against the overwhelming tide of evidence, but by 1908 the Congo Question was decisively settled. It was no longer possible for national governments to ignore the common knowledge of King Leopold’s crimes and the Belgian government ended his rule by annexing the Congo Free State.
 
@@ -74,7 +74,7 @@ The Congo Reform Association continued to preach reform in the Belgian Congo for
 
 The world’s attention had shifted. The twin World Wars also placed great demand on all colonial resources. “More than 80 percent of the uranium in the Hiroshima and Nagasaki bombs came from the heavily guarded Congo mine of Shinkolobwe,”  Hochschild writes, while tin, gold, and copper mining, in addition to rubber cultivation, boomed at the cost of human misery. Even today, the Democratic Republic of the Congo supplies about 60% of the world’s rising demand for cobalt amid the global drive towards electrification and sustainable energy.
 
-While the future was undeniably changed for the better as a result of the Congo reformers—the ugly truth revealed and the region’s worst abuses curtailed—I have to reckon with the extent of their accomplishment. Morel succeeded because his moral conviction happened to align with the material interests of powers greattly above him. The brutality of King Leopold’s rule and the Congo Question threatened the myth of benevolent colonial rule that Western empires needed for legitimacy. In the grand scheme of things, it was easier to punish a minor monarch than to risk tearing up the colonial system. Even so, it took the mobilization of thousands on what was a fairly unambiguous moral issue, apparent at the time, simply to hold a mirror up to those governments to shame them into cleaning up their act.
+While the future was undeniably changed for the better as a result of the Congo reformers—the ugly truth revealed and the region’s worst abuses curtailed—I have to reckon with the extent of their accomplishment. Morel succeeded because his moral conviction happened to align with the material interests of powers greatly above him. The brutality of King Leopold’s rule and the Congo Question threatened the myth of benevolent colonial rule that Western empires needed for legitimacy. In the grand scheme of things, it was easier to punish a minor monarch than to risk tearing up the colonial system. Even so, it took the mobilization of thousands on what was a fairly unambiguous moral issue, apparent at the time, simply to hold a mirror up to those governments to shame them into cleaning up their act.
 
 This was, in fact, his intention all along. Morel was a firmly middle-class, Edwardian-era businessman—not radical or progressive in any ideological sense—who strove to preserve his vision of a liberal imperialism that still assumed African subjects to be subordinate. I don’t bring that up to mar his legacy so much as to honor him for who he was. The world needs its hot-headed iconoclasts, but it also needs vigilantes-within-the-law—ordinary sober-minded people who try to correct the system from within. That Morel went as far as he did while remaining securely within the confines of the media and political environment he inhabited is all the more reason to appreciate him. He skillfully exploited all the levers at his disposal, essentially weaponizing the ability to be extremely annoying, in order to shape a modern, bottom-up, trans-Atlantic human rights campaign. 
 
@@ -138,7 +138,7 @@ When I first heard this story a few years ago, it gave me a warm and fuzzy feeli
 
 While such emotions are no doubt natural and common, we denote individuals who experience them especially keenly as **value investors**. They suffer the short seller’s same affliction, but on the long side, and their logos, ethos, and pathos are easily summarized in a single book.
 
-> <q> Many shall be restored that now are fallen and and many shall fall that now are in honor </q>
+> <q> Many shall be restored that now are fallen and many shall fall that now are in honor </q>
 >
 > {% cite 'Horace' 'Ars Poetica' '' %}
 
