@@ -1,13 +1,13 @@
 ---
 layout: post
-excerpt: ' Value investors are made, not born. And what can be made can be unmade.'
+excerpt: ' BAWs are made, not born. And what can be made can be unmade.'
 
 title:  "The Little Short"
 date:   2021-12-27 00:00:00
 categories: Essay
 tags: short
 picid: "a008"
-tweetURL: https://twitter.com/EpsilonPraxis
+tweetURL: https://twitter.com/EpsilonPraxis/status/1475515540647157762
 ---
 
 {% newthought 'I have a tendency to like unloved things.'%} Misshapen toys who don’t look like the characters they were based on. Animals with more than four legs who aren’t butterflies or ladybugs. A thing unfairly dismissed rekindles a sense of childhood familiarity and deep respect.
@@ -208,7 +208,7 @@ You can do this, buddy.
 
 {% newthought 'Merry Christmas' %}
 
-{% newthought 'p.s.' %} If you are not a BAW, but know a recovering value investor or even one in denial, please send this to them so they can seek proper help.
+{% newthought 'p.s.' %} If you happen to know a recovering value investor or BAW in denial, please send this to them so they can seek proper help.
 
 
 
