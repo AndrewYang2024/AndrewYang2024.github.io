@@ -49,7 +49,7 @@ As pariahs, China and Russia are under no pretensions that other nations want to
 
 Whatever the capacity of Russia and China to seed authoritarian regimes by exporting surveillance tech and military aid, that threat of rising authoritarian regimes is far surpassed by the threat of a changing consensus. And let’s not forget that the EU funds concentration camps in [Libya](https://www.newyorker.com/magazine/2021/12/06/the-secretive-libyan-prisons-that-keep-migrants-out-of-europe) to deal with its migrant crisis, the US supported the UAE and Saudi Arabia in their war in Yemen, and that Israel (specifically the Israeli company [NSO Group](https://en.wikipedia.org/wiki/NSO_Group)) proliferated spyware to all sorts of unsavory regimes.
 
-{%newthought ' We see these dynamics'%} dynamics play out in the current Ukrainian war scare. As we speak, both Russian and Ukrainian forces are mobilizing for an invasion to play out. I am convinced by [Michael Kofman](https://www.youtube.com/watch?v=gwrzophpNJA)’s analysis that war is actually likely and not just simple sabre-rattling for a better negotiating position.
+{%newthought ' We see these dynamics'%} play out in the current Ukrainian war scare. As we speak, both Russian and Ukrainian forces are mobilizing for an invasion to play out. I am convinced by [Michael Kofman](https://www.youtube.com/watch?v=gwrzophpNJA)’s analysis that war is actually likely and not just simple sabre-rattling for a better negotiating position.
 
 Let’s consider how strange this is.
 
