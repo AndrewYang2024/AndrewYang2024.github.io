@@ -28,11 +28,27 @@ The Republicans are failing to follow their own doctrine.
 
 who were not psychologically prepared to 
 
-Trumpism is vulnerable in suburban and urban terrain
+Trumpism is vulnerable in suburban and urban terrain. Glenn Youngkin
+
+Democrats have b
 
 costly to maintain
 
 **corruption**
+
+
+
+blockade
+
+commerical Sinema and manchihn
+
+refuse to ensure the bills that 
+
+partisan warfare
+
+collaboraionist Joe Manchin
+
+
 
 **The expert consensus on the state of the race was quite dire in the months leading up the midterm elections, with projections of deeply red political maps. What happened?**
 
