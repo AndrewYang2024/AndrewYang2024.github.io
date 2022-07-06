@@ -16,7 +16,41 @@ tweetURL: https://twitter.com/EpsilonPraxis
 
 To help answer these questions, I recently spoke by phone with Michael Kofman, the director of Russia studies at the nonprofit research organization the Center for Naval Analyses and an expert on the Russian military. During our conversation, which has been edited for length and clarity, we also discussed how the Republican party and its voters have changed since the end of the Cold War, whether its missteps have hampered its political aims, and the dangers of electoral conflict spiralling out of control.
 
+**Let’s start at the beginning of it all. Most observers during the 2020 election expected it to be heated but ultimately result in a peaceful transition of power. You were one of the few voices predicting the outbreak of political violence months before the initial attack on January 6th. How did you arrive at that analysis?**
 
+First off, you should be deeply skeptical any time someone declares the exercise of political violence to be obsolete. History is filled with examples otherwise. Second, simple monitoring of open-source intelligence (OSINT) picked up signs of mobilization as as early as September, when the hashtag #StopTheSteal began to trend. Early on, there was a question as to whether the campaign to contest the upcoming election results was a negotiating tactic to secure concessions against long-standing grievances of 
+
+ to strengthen the Republicans’ hand in . We suspected that the Republicans would focus their efforts on contesting the electoral results in Republican-leaning eras.
+
+pretext
+
+rapid regime change. wishful thinking and severely underestimated the regime’s will to defend is own democracy.
+
+special military operation
+
+declare his prediency campaign
+
+reject
+
+Sudden january 6th, achieve maximalist political objectives. 
+
+The Democratic Party is a horizontally. Even if the, mostly conducted 
+
+
+
+palace coup?
+
+after 2020, 
+
+have really soured on. 
+
+was not psychologically prepared
+
+understood they 
+
+
+
+brooks brother riot, a referendum, we should be careful about extrapolating from instances of much smaller to a larger
 
 **Given the poor performance of Trump-endorsed candidates such as Mary Miller (ILL-15) and Mehmet Oz (PA-SEN), is Trumpism now obsolete as a political force?**
 
@@ -38,17 +72,29 @@ costly to maintain
 
 
 
-blockade
+**Let’s talk about one of the underreported yet crucial aspects of this war, the Republican blockade, which has completely stopped the flow of legislation out of Congress. Are there any workable solutions to lift the blockade?**
+
+The U.S. economy has been decelerating since the beginning of the war. contracting will continue to suffer as long as the blockade continues. It is unlikely that negotiations to lift the blockade will succeed as long as the Republicans see it as leverage in further negotiations down the line. 
+
+The Republicans don’t have to physically sink any bils
 
 commerical Sinema and manchihn
 
 refuse to ensure the bills that 
 
+
+
+negotiations to lift the blockade
+
+
+
+
+
 partisan warfare
 
 collaboraionist Joe Manchin
 
-
+reach deep into 
 
 **The expert consensus on the state of the race was quite dire in the months leading up the midterm elections, with projections of deeply red political maps. What happened?**
 
