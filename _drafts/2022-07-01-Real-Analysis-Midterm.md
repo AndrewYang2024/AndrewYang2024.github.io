@@ -88,6 +88,10 @@ negotiations to lift the blockade
 
 
 
+ideology = artillery
+
+republican-speaking areas intensely divided societies
+
 
 
 partisan warfare
