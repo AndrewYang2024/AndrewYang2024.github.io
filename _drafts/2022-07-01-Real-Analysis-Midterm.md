@@ -10,9 +10,37 @@ picid: "a000"
 tweetURL: https://twitter.com/EpsilonPraxis
 ---
 
+
+
 **By Isaac Chotiner**
 
-{%newthought ' Two weeks ago, '%}  millions of voters across the U.S. turned out to the polls for the midterm elections. Despite worries about surging Republican turnout, the Democratic Party has held up better than experts predicted, and Republican advances have been slower than feared. The midterm shellacking expected for the incumbent party has failed to materialize and both sides are now confronting the prospect of an increasingly ugly and lengthy campaign into 2024. What strategic errors has the Republican party made, and why?
+{%newthought ' On January 6th 2020, '%} supporters of then-U.S. President Donald J. Trump overwhelmed the outnumbered U.S. Capitol Police forces and successfully breached the Capitol Building in Washington, D.C. 
+
+
+
+in an attempt to disrupt the certification of the 2020 presidential election results. the crowd quickly 
+
+
+
+
+
+casus belli
+
+rallied outside of the Capitol Building in a last stand ahead of the certification of the election results. Violence would erupt that day on the steps toward the entrance, as , forcing the The rally would 
+
+ break into violenceThe events of that would be televised, 
+
+
+
+The events would unfold into a protracted war . 
+
+
+
+Below is a series of converstsations. 
+
+
+
+millions of voters across the U.S. turned out to the polls for the midterm elections. Despite worries about surging Republican turnout, the Democratic Party has held up better than experts predicted, and Republican advances have been slower than feared. The midterm shellacking expected for the incumbent party has failed to materialize and both sides are now confronting the prospect of an increasingly ugly and lengthy campaign into 2024. What strategic errors has the Republican party made, and why?
 
 To help answer these questions, I recently spoke by phone with Michael Kofman, the director of Russia studies at the nonprofit research organization the Center for Naval Analyses and an expert on the Russian military. During our conversation, which has been edited for length and clarity, we also discussed how the Republican party and its voters have changed since the end of the Cold War, whether its missteps have hampered its political aims, and the dangers of electoral conflict spiralling out of control.
 
@@ -85,6 +113,12 @@ refuse to ensure the bills that
 
 
 negotiations to lift the blockade
+
+
+
+not properly social distancing
+
+logistics
 
 
 
