@@ -122,6 +122,16 @@ logistics
 
 
 
+necon = neonazi, Azov Never Trumper Lincoln Project
+
+
+
+Intense fighting in the steel  Mar-a-lago, 
+
+
+
+
+
 ideology = artillery
 
 republican-speaking areas intensely divided societies
