@@ -28,8 +28,25 @@ Once that happened, I realized that this was going to be the last nail in the co
 
 **But why domestic American politics? Did you previously have an interest or expertise in this area?**
 
-Being based in DC, I was always in proximity with American political figures at the highest level, but no, I don’t really have any credentials in this area. But one thing that I have learned while covering the Ukrainian conflict in the era of social media is that you don’t necessarily need any credentials to speak on important subjects. I don’t mean to be dismissive, but I’ve seen some takes that attempted to predict the trajectory of an entire conflict based on observations of tire pressure. So I figured that I could do a little better than that given my background as an analyst.
+I want to be absolutely clear—I don’t have any credentials in this domain. But one thing I have learned while covering the Ukrainian conflict is that you don’t necessarily need credentials to cover important subjects in the era of social media. I don’t mean to be dismissive, but I’ve seen some takes that tried to predict the trajectory of an entire conflict based on observations of tire pressure. So I figured that I could do a little better than that given my background as an analyst.
 
+That being said, I have always paid attention to domestic politics. The Center for Naval Analyses was headquartered in Arlington and I was often in DC for briefings and other events with colleagues. Given that proximity, it would be rather difficult not to pay attention. I would notice, in particular, that the predictions made by my politically minded colleagues at cocktail parties turned out more often than not to be incorrect. 
+
+**Was there a time you felt like you could do better? **
+
+Back in 2021, I was invited to a New Year’s party in DC where everyone was chattering about the recently held election with a complete sense of complacency. It seems you can convince some folks of anything except for the outbreak of political violence. The events of January 6th should not have come as a surprise to the political establishment.
+
+as early as Se
+
+mail in votes:
+
+Disclosure: all of this stuff is MADE UP.
+
+https://twitter.com/KofmanMichael/status/1566453042890919937 Kherson thread
+
+
+
+this is all my own speculation
 
 pre-position，
 coercive diplomacy
