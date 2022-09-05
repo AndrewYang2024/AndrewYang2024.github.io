@@ -22,7 +22,7 @@ Thank you for having me on again. It’s my pleasure.
 
 Quite frankly, I did not anticipate the surrender of the Russian military after the Kherson counteroffensive. I understood the offensive to be a limited operation designed by the Ukrainian general staff to avoid any major battles with massive casualties. The objective was simply to isolate the Russian forces stationed at and around Kherson in order to make those positions untenable over time such that they would have to be pulled back across the Dnieper River. The retaking of the city of Kherson would be an important step forward but the war would remain protracted.
 
-What I did not see coming was that the loss of Kherson would give Putin a heart attack and force him to hand power down to Patrushev **[Nikolai Patrushev, Secretary of the Security Council of the Russian Federation]** who decided to retreat all Russian regular and other mobilized forces from Ukraine entirely, including Crimea, Luhansk, and Donetsk oblasts. If was as if the late Gorbachev had come back from the dead to possess Patrushev, who turned out to be surprisingly in favor of engagement with the West. He encouraged Ukraine to join NATO while making explicit overtures about integrating the Russian Federation with NATO to counterbalance the rise of China. 
+What I did not see coming was that the loss of Kherson would give Putin a heart attack and force him to hand power down to Patrushev {% marginnote 'mn-id-1' 'Nikolai Patrushev, Secretary of the Security Council of the Russian Federation' '' %}  who decided to retreat all Russian regular and other mobilized forces from Ukraine entirely, including Crimea, Luhansk, and Donetsk oblasts. If was as if the late Gorbachev had come back from the dead to possess Patrushev, who turned out to be surprisingly in favor of engagement with the West. He encouraged Ukraine to join NATO while making explicit overtures about integrating the Russian Federation with NATO to counterbalance the rise of China. 
 
 Once that happened, I realized that this was going to be the last nail in the coffin for my profession. I knew that all funding for all Russia policy and related think tanks were going to be mercilessly cut because Russia was now part of the rules-based international order. And so I decided to look for something else to do.
 
@@ -32,11 +32,27 @@ I want to be absolutely clear—I don’t have any credentials in this domain. B
 
 That being said, I have always paid attention to domestic politics. The Center for Naval Analyses was headquartered in Arlington and I was often in DC for briefings and other events with colleagues. Given that proximity, it would be rather difficult not to pay attention. I would notice, in particular, that the predictions made by my politically minded colleagues at cocktail parties turned out more often than not to be incorrect. 
 
-**Was there a time you felt like you could do better? **
+**Was there a time you felt like you could do better?**
 
 Back in 2021, I was invited to a New Year’s party in DC where everyone was chattering about the recently held election with a complete sense of complacency. It seems you can convince some folks of anything except for the outbreak of political violence. The events of January 6th should not have come as a surprise to the political establishment.
 
-as early as Se
+First off, you should be deeply skeptical any time someone declares the exercise of political violence to be obsolete. History is filled with examples otherwise. Second, simple monitoring of open-source intelligence (OSINT) picked up signs of mobilization as as early as September, when the hashtag #StopTheSteal began to trend. Early on, there was a question as to whether the campaign to contest the upcoming election results was a negotiating tactic to secure concessions against long-standing grievances of 
+
+ to strengthen the Republicans’ hand in . We suspected that the Republicans would focus their efforts on contesting the electoral results in Republican-leaning eras.
+
+pretext
+
+rapid regime change. wishful thinking and severely underestimated the regime’s will to defend is own democracy.
+
+Sudden january 6th, achieve maximalist political objectives. 
+
+was not psychologically prepared
+
+**What do**
+
+big picture:
+
+
 
 mail in votes:
 
@@ -92,13 +108,7 @@ To help answer these questions, I recently spoke by phone with Michael Kofman, t
 
 **Let’s start at the beginning of it all. Most observers during the 2020 election expected it to be heated but ultimately result in a peaceful transition of power. You were one of the few voices predicting the outbreak of political violence months before the initial attack on January 6th. How did you arrive at that analysis?**
 
-First off, you should be deeply skeptical any time someone declares the exercise of political violence to be obsolete. History is filled with examples otherwise. Second, simple monitoring of open-source intelligence (OSINT) picked up signs of mobilization as as early as September, when the hashtag #StopTheSteal began to trend. Early on, there was a question as to whether the campaign to contest the upcoming election results was a negotiating tactic to secure concessions against long-standing grievances of 
 
- to strengthen the Republicans’ hand in . We suspected that the Republicans would focus their efforts on contesting the electoral results in Republican-leaning eras.
-
-pretext
-
-rapid regime change. wishful thinking and severely underestimated the regime’s will to defend is own democracy.
 
 special military operation
 
@@ -106,7 +116,7 @@ declare his prediency campaign
 
 reject
 
-Sudden january 6th, achieve maximalist political objectives. 
+
 
 The Democratic Party is a horizontally. Even if the, mostly conducted 
 
@@ -118,7 +128,7 @@ after 2020,
 
 have really soured on. 
 
-was not psychologically prepared
+
 
 understood they 
 
