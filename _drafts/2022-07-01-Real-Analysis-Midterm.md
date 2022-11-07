@@ -54,6 +54,14 @@ big picture:
 
 
 
+we could sort of map the de sanctimonious and trump as prigozhin and the Russian MoD
+
+
+
+elon musk and twitter map to starlink, for better of for worse, twitter has become one of the primary means of coordinating the war effort
+
+
+
 mail in votes:
 
 Disclosure: all of this stuff is MADE UP.
