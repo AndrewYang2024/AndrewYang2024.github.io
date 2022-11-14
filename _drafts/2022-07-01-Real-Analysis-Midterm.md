@@ -12,6 +12,14 @@ tweetURL: https://twitter.com/EpsilonPraxis
 
 **By Isaac Chotiner**
 
+{%newthought ' When I first  '%} started my foray into poly, I thought of it as a radical break from my past. But after experimenting with it for while now, it’s been pretty interesting to see what’s worked and what hasn’t.
+
+Having more partners is really valuable. I think a reasonable estimate of a lover’s contribution to the polycule is linear. (This sounds like sort of an obvious point, but I think that people are too hung up on loss aversion and leery of the additional risk of breakup drama.)
+
+You can try to get the same amount of love from a single person, but the costs and training are really high.
+
+The option
+
 {%newthought ' The Russian invasion '%} of Ukraine reignited mainstream interest among Western audiences in the post-Soviet world. Overnight, Russia experts who had been languishing in relative obscurity were suddenly invited onto prestige and new media to feed the demand for war-related content. This boom was especially pronounced in the rise of military analysts specializing in the post-Soviet space into minor celebrities on social media. Now as the war draws to its end, these experts are once again retreading the path of the generation before them, the Kremlinologists who were forced to seek new forms of employment after the shock dissolution of the Soviet Union.
 
 One such successful reinventing has been that of Michael Kofman, the former director of Russia studies at the now-defunct nonprofit research organization the Center for Naval Analyses. Previously known for his circumspect analysis as an expert on the Russian military, he is now a commentator on domestic political conflict within the United States. The following interview, which has been lightly edited for clarity, details the story of his recent trajectory, his unique insights into the workings of American politics, and the trajectory of the country he now covers.
@@ -52,7 +60,27 @@ was not psychologically prepared
 
 big picture:
 
+Dems walked away from Oregon 5 after Jamie McLeod-Skinner beat right wing Dem Kurt Schrader. They said she was too progressive and had no shot and spent money of Sean Patrick Maloney instead. Instead her race is incredibly close and they need it for the majority.
 
+
+
+youthquake isnt real, but it matters for the longterm prospects, they are making do with indigenously produced ATGMs
+
+https://twitter.com/Scholars_Stage/status/1591971701226868736
+
+https://twitter.com/greenhousenyt/status/1591811411780730882
+
+war is, second guess the deomcratic leadership, the bosot of election denier, second guess the 
+
+primary results
+
+https://nymag.com/intelligencer/2022/11/election-results-who-won-the-midterms-david-shor.html
+
+https://twitter.com/ddayen/status/1591489894853279744
+
+https://www.axios.com/2022/11/11/state-legislatures-governors-democrats
+
+states level gains, sort of strategic, focus on 
 
 we could sort of map the de sanctimonious and trump as prigozhin and the Russian MoD
 
