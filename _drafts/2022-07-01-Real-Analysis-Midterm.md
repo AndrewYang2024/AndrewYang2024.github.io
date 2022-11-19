@@ -62,7 +62,7 @@ big picture:
 
 Dems walked away from Oregon 5 after Jamie McLeod-Skinner beat right wing Dem Kurt Schrader. They said she was too progressive and had no shot and spent money of Sean Patrick Maloney instead. Instead her race is incredibly close and they need it for the majority.
 
-
+https://politicalkiwi.wordpress.com/2022/11/18/what-happened-in-the-2022-midterms-part-i-the-north-south-divide/
 
 youthquake isnt real, but it matters for the longterm prospects, they are making do with indigenously produced ATGMs
 
