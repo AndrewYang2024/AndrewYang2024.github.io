@@ -12,7 +12,7 @@ picid: "002"
 
 <div style = "margin-top:1em; margin-bottom:5em">
 
-<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;" > And if you find something of value here, feel free to donate to my </a> <script type='text/javascript' src='https://epsilonpraxis.com/assets/scripts/paypal_button.js'></script><script type='text/javascript'>paypal_button.init('', '#2b3088', 'https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=X7UGTGVM27Z3G&currency_code=USD');paypal_button.draw();</script> <a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;">  or buy me a </a> <script type='text/javascript' src='https://epsilonpraxis.com/assets/scripts/kofi_button.js'></script><script type='text/javascript'>kofi_button.init('', '#2b3088', 'R6R61HF4F');kofi_button.draw();</script> 
+<a style = "font-size:1.4em;line-height:1.4em; position: relative; top: 0.22em;" > And if you find something of value here, feel free to buy me a </a> <script type='text/javascript' src='https://epsilonpraxis.com/assets/scripts/kofi_button.js'></script><script type='text/javascript'>kofi_button.init('', '#2b3088', 'R6R61HF4F');kofi_button.draw();</script> 
 </div>
 
 
